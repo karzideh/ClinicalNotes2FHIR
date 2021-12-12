@@ -3,8 +3,6 @@ import numpy as np
 from fhir.resources.coding import Coding
 from fhir.resources.condition import Condition
 from fhir.resources.codeableconcept import CodeableConcept
-from fhir.resources.fhirtypes import IdentifierType
-from fhir.resources.identifier import Identifier
 
 df = parser.ctakes_parser.parse_file(file_path='dataset/cTakes/obesity/annotationen/obesity_sample.txt.xmi')
 print(df.to_string())
