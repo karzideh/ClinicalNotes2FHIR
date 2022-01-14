@@ -1,0 +1,1984 @@
+code,conditional,confidence,cui,generic,id,negated,pos_end,pos_start,preferred_text,refsem,scheme,score,subject,textsem,tui,uncertainty,true_text,part_of_speech
+,,,,,0.0,True,,,,NULL,,,,NULL,,,,
+,,,,,8.0,True,2300.0,0.0,,DocumentAnnotation,,,,DocumentAnnotation,,,"435791816 | CULHS | 80771325 | | 428219 | 1 / 12 / 1994 12 : 00 : 00 AM | Discharge Summary | Unsigned | DIS | Admission Date : 1 / 12 / 1994 Report Status : Unsigned Discharge Date : 9 / 15 / 1994 PRINCIPAL DIAGNOSIS : CORONARY ARTERY DISEASE . HISTORY OF PRESENT ILLNESS : Mr. Weddel is a 52 - year - old man status post coronary artery bypass graft x1 , with saphenous vein graft to the left anterior descending in 1976 . He presents with a 5 - 6 week history of unstable angina . He had an echocardiogram which revealed recurrent coronary artery disease . The patient was referred to Dr. Finstad for reoperative coronary artery bypass graft . PAST MEDICAL HISTORY : The patient has a history of coronary artery disease and peripheral vascular disease . PAST SURGICAL HISTORY : The patient is status post a radical prostatectomy complicated by osteitis pubis and a urethral colonic fistula . CURRENT MEDICATIONS : Aspirin , Lopressor , Procardia XL , intravenous heparin and intravenous nitroglycerin . ALLERGIES : No known drug allergies . LABORATORY DATA : BUN and creatinine 16 / 1.2 , white count 5500 , hematocrit 46 . HOSPITAL COURSE : The patient was admitted to the Cardiology Service on September , 1994 , where he was stabilized and finally taken to the Operating Room on July , 1994 , at which time he underwent a reoperative coronary artery bypass graft x3 , with a left interior mammary artery to the left anterior descending . The patient tolerated the procedure well and was hemodynamically stable in the unit . He was weaned overnight and extubated on postoperative day 1. He was started on aspirin and Lopressor , weaned off his O2 and started on diuretics . He was transferred to the unit on postoperative day 1 . Once on the unit the patient was gradually advanced to a regular diet and weaned off his O2 . He was diuresed down to his preoperative weight . He had a routine postoperative course . DISPOSITION : Home on August , 1994 . CONDITION ON DISCHARGE : Good . DISCHARGE MEDICATIONS : Aspirin one tablet p.o. q. day ; Lopressor 25 mg p.o. t.i.d . ; and Percocet p . r . n . FOLLOWUP : The patient will follow up with Dr. Mcgoff and will contact his office for an appointment after discharge . Dictated By : CLINTON H. BARRET , M . D . TM2 Attending : DANIAL C. DELL , M . D . SY3 RZ941 / 4768 Batch : 8363 Index No. K1QM0GBOY D : 1 / 13 / 94 T : 6 / 15 / 94",
+,,,,,13.0,True,,,,DocumentID,,,,DocumentID,,,,
+,,,,,15.0,True,,,,DocumentIdPrefix,,,,DocumentIdPrefix,,,,
+,,,,,17.0,True,,,,DocumentPath,,,,DocumentPath,,,,
+,,,,,19.0,True,2300.0,0.0,,Segment,,,,Segment,,,"435791816 | CULHS | 80771325 | | 428219 | 1 / 12 / 1994 12 : 00 : 00 AM | Discharge Summary | Unsigned | DIS | Admission Date : 1 / 12 / 1994 Report Status : Unsigned Discharge Date : 9 / 15 / 1994 PRINCIPAL DIAGNOSIS : CORONARY ARTERY DISEASE . HISTORY OF PRESENT ILLNESS : Mr. Weddel is a 52 - year - old man status post coronary artery bypass graft x1 , with saphenous vein graft to the left anterior descending in 1976 . He presents with a 5 - 6 week history of unstable angina . He had an echocardiogram which revealed recurrent coronary artery disease . The patient was referred to Dr. Finstad for reoperative coronary artery bypass graft . PAST MEDICAL HISTORY : The patient has a history of coronary artery disease and peripheral vascular disease . PAST SURGICAL HISTORY : The patient is status post a radical prostatectomy complicated by osteitis pubis and a urethral colonic fistula . CURRENT MEDICATIONS : Aspirin , Lopressor , Procardia XL , intravenous heparin and intravenous nitroglycerin . ALLERGIES : No known drug allergies . LABORATORY DATA : BUN and creatinine 16 / 1.2 , white count 5500 , hematocrit 46 . HOSPITAL COURSE : The patient was admitted to the Cardiology Service on September , 1994 , where he was stabilized and finally taken to the Operating Room on July , 1994 , at which time he underwent a reoperative coronary artery bypass graft x3 , with a left interior mammary artery to the left anterior descending . The patient tolerated the procedure well and was hemodynamically stable in the unit . He was weaned overnight and extubated on postoperative day 1. He was started on aspirin and Lopressor , weaned off his O2 and started on diuretics . He was transferred to the unit on postoperative day 1 . Once on the unit the patient was gradually advanced to a regular diet and weaned off his O2 . He was diuresed down to his preoperative weight . He had a routine postoperative course . DISPOSITION : Home on August , 1994 . CONDITION ON DISCHARGE : Good . DISCHARGE MEDICATIONS : Aspirin one tablet p.o. q. day ; Lopressor 25 mg p.o. t.i.d . ; and Percocet p . r . n . FOLLOWUP : The patient will follow up with Dr. Mcgoff and will contact his office for an appointment after discharge . Dictated By : CLINTON H. BARRET , M . D . TM2 Attending : DANIAL C. DELL , M . D . SY3 RZ941 / 4768 Batch : 8363 Index No. K1QM0GBOY D : 1 / 13 / 94 T : 6 / 15 / 94",
+,,,,,25.0,True,119.0,1.0,,Sentence,,,,Sentence,,,435791816 | CULHS | 80771325 | | 428219 | 1 / 12 / 1994 12 : 00 : 00 AM | Discharge Summary | Unsigned | DIS | Admission Date :,CD
+,,,,,31.0,True,144.0,120.0,,Sentence,,,,Sentence,,,1 / 12 / 1994 Report Status :,CD
+,,,,,37.0,True,153.0,145.0,,Sentence,,,,Sentence,,,Unsigned,JJ
+,,,,,43.0,True,170.0,155.0,,Sentence,,,,Sentence,,,Discharge Date :,JJ
+,,,,,49.0,True,180.0,171.0,,Sentence,,,,Sentence,,,9 / 15 / 1994,CD
+,,,,,55.0,True,201.0,181.0,,Sentence,,,,Sentence,,,PRINCIPAL DIAGNOSIS :,JJ
+,,,,,61.0,True,226.0,202.0,,Sentence,,,,Sentence,,,CORONARY ARTERY DISEASE .,JJ
+,,,,,67.0,True,254.0,227.0,,Sentence,,,,Sentence,,,HISTORY OF PRESENT ILLNESS :,NN
+,,,,,73.0,True,293.0,255.0,,Sentence,,,,Sentence,,,Mr. Weddel is a 52 - year - old man status,NNP
+,,,,,79.0,True,332.0,294.0,,Sentence,,,,Sentence,,,"post coronary artery bypass graft x1 ,",IN
+,,,,,85.0,True,399.0,333.0,,Sentence,,,,Sentence,,,with saphenous vein graft to the left anterior descending in 1976 .,IN
+,,,,,91.0,True,455.0,400.0,,Sentence,,,,Sentence,,,He presents with a 5 - 6 week history of unstable angina .,PRP
+,,,,,97.0,True,465.0,456.0,,Sentence,,,,Sentence,,,He had an,PRP
+,,,,,103.0,True,530.0,466.0,,Sentence,,,,Sentence,,,echocardiogram which revealed recurrent coronary artery disease .,NN
+,,,,,109.0,True,595.0,531.0,,Sentence,,,,Sentence,,,The patient was referred to Dr. Finstad for reoperative coronary,DT
+,,,,,115.0,True,616.0,596.0,,Sentence,,,,Sentence,,,artery bypass graft .,NN
+,,,,,121.0,True,638.0,617.0,,Sentence,,,,Sentence,,,PAST MEDICAL HISTORY :,JJ
+,,,,,127.0,True,683.0,639.0,,Sentence,,,,Sentence,,,The patient has a history of coronary artery,DT
+,,,,,133.0,True,724.0,684.0,,Sentence,,,,Sentence,,,disease and peripheral vascular disease .,NN
+,,,,,139.0,True,747.0,725.0,,Sentence,,,,Sentence,,,PAST SURGICAL HISTORY :,JJ
+,,,,,145.0,True,784.0,748.0,,Sentence,,,,Sentence,,,The patient is status post a radical,DT
+,,,,,151.0,True,828.0,785.0,,Sentence,,,,Sentence,,,prostatectomy complicated by osteitis pubis,NN
+,,,,,157.0,True,860.0,829.0,,Sentence,,,,Sentence,,,and a urethral colonic fistula .,CC
+,,,,,163.0,True,881.0,861.0,,Sentence,,,,Sentence,,,CURRENT MEDICATIONS :,JJ
+,,,,,169.0,True,930.0,882.0,,Sentence,,,,Sentence,,,"Aspirin , Lopressor , Procardia XL , intravenous",NNP
+,,,,,175.0,True,969.0,931.0,,Sentence,,,,Sentence,,,heparin and intravenous nitroglycerin .,NN
+,,,,,181.0,True,980.0,970.0,,Sentence,,,,Sentence,,,ALLERGIES :,NNS
+,,,,,187.0,True,1005.0,981.0,,Sentence,,,,Sentence,,,No known drug allergies .,DT
+,,,,,193.0,True,1022.0,1006.0,,Sentence,,,,Sentence,,,LABORATORY DATA :,NN
+,,,,,199.0,True,1069.0,1023.0,,Sentence,,,,Sentence,,,"BUN and creatinine 16 / 1.2 , white count 5500 ,",NN
+,,,,,205.0,True,1084.0,1070.0,,Sentence,,,,Sentence,,,hematocrit 46 .,NN
+,,,,,211.0,True,1101.0,1085.0,,Sentence,,,,Sentence,,,HOSPITAL COURSE :,NN
+,,,,,217.0,True,1144.0,1102.0,,Sentence,,,,Sentence,,,The patient was admitted to the Cardiology,DT
+,,,,,223.0,True,1187.0,1145.0,,Sentence,,,,Sentence,,,"Service on September , 1994 , where he was",NN
+,,,,,229.0,True,1248.0,1188.0,,Sentence,,,,Sentence,,,"stabilized and finally taken to the Operating Room on July ,",VBN
+,,,,,235.0,True,1312.0,1249.0,,Sentence,,,,Sentence,,,"1994 , at which time he underwent a reoperative coronary artery",CD
+,,,,,241.0,True,1378.0,1313.0,,Sentence,,,,Sentence,,,"bypass graft x3 , with a left interior mammary artery to the left",NN
+,,,,,247.0,True,1399.0,1379.0,,Sentence,,,,Sentence,,,anterior descending .,JJ
+,,,,,253.0,True,1444.0,1400.0,,Sentence,,,,Sentence,,,The patient tolerated the procedure well and,DT
+,,,,,259.0,True,1484.0,1445.0,,Sentence,,,,Sentence,,,was hemodynamically stable in the unit .,VBD
+,,,,,265.0,True,1508.0,1485.0,,Sentence,,,,Sentence,,,He was weaned overnight,PRP
+,,,,,271.0,True,1572.0,1509.0,,Sentence,,,,Sentence,,,and extubated on postoperative day 1. He was started on aspirin,CC
+,,,,,277.0,True,1632.0,1573.0,,Sentence,,,,Sentence,,,"and Lopressor , weaned off his O2 and started on diuretics .",CC
+,,,,,283.0,True,1639.0,1633.0,,Sentence,,,,Sentence,,,He was,PRP
+,,,,,289.0,True,1687.0,1640.0,,Sentence,,,,Sentence,,,transferred to the unit on postoperative day 1 .,VBN
+,,,,,295.0,True,1752.0,1688.0,,Sentence,,,,Sentence,,,Once on the unit the patient was gradually advanced to a regular,RB
+,,,,,301.0,True,1780.0,1753.0,,Sentence,,,,Sentence,,,diet and weaned off his O2 .,NN
+,,,,,307.0,True,1808.0,1781.0,,Sentence,,,,Sentence,,,He was diuresed down to his,PRP
+,,,,,313.0,True,1829.0,1809.0,,Sentence,,,,Sentence,,,preoperative weight .,JJ
+,,,,,319.0,True,1868.0,1830.0,,Sentence,,,,Sentence,,,He had a routine postoperative course .,PRP
+,,,,,325.0,True,1881.0,1869.0,,Sentence,,,,Sentence,,,DISPOSITION :,NN
+,,,,,331.0,True,1904.0,1882.0,,Sentence,,,,Sentence,,,"Home on August , 1994 .",NN
+,,,,,337.0,True,1928.0,1905.0,,Sentence,,,,Sentence,,,CONDITION ON DISCHARGE :,NN
+,,,,,343.0,True,1934.0,1929.0,,Sentence,,,,Sentence,,,Good .,JJ
+,,,,,349.0,True,1957.0,1935.0,,Sentence,,,,Sentence,,,DISCHARGE MEDICATIONS :,NN
+,,,,,355.0,True,1989.0,1958.0,,Sentence,,,,Sentence,,,Aspirin one tablet p.o. q. day ;,NNP
+,,,,,361.0,True,1999.0,1990.0,,Sentence,,,,Sentence,,,Lopressor,NNP
+,,,,,367.0,True,2038.0,2000.0,,Sentence,,,,Sentence,,,25 mg p.o. t.i.d . ; and Percocet p . r . n .,CD
+,,,,,373.0,True,2048.0,2039.0,,Sentence,,,,Sentence,,,FOLLOWUP :,NN
+,,,,,379.0,True,2100.0,2049.0,,Sentence,,,,Sentence,,,The patient will follow up with Dr. Mcgoff and will,DT
+,,,,,385.0,True,2155.0,2101.0,,Sentence,,,,Sentence,,,contact his office for an appointment after discharge .,VB
+,,,,,391.0,True,2168.0,2156.0,,Sentence,,,,Sentence,,,Dictated By :,VBN
+,,,,,397.0,True,2193.0,2169.0,,Sentence,,,,Sentence,,,"CLINTON H. BARRET , M . D .",NNP
+,,,,,403.0,True,2197.0,2194.0,,Sentence,,,,Sentence,,,TM2,NN
+,,,,,409.0,True,2208.0,2198.0,,Sentence,,,,Sentence,,,Attending :,NN
+,,,,,415.0,True,2230.0,2209.0,,Sentence,,,,Sentence,,,"DANIAL C. DELL , M . D .",JJ
+,,,,,421.0,True,2246.0,2231.0,,Sentence,,,,Sentence,,,SY3 RZ941 / 4768,NN
+,,,,,427.0,True,2253.0,2247.0,,Sentence,,,,Sentence,,,Batch :,NN
+,,,,,433.0,True,2289.0,2254.0,,Sentence,,,,Sentence,,,8363 Index No. K1QM0GBOY D : 1 / 13 / 94,CD
+,,,,,439.0,True,2300.0,2290.0,,Sentence,,,,Sentence,,,T : 6 / 15 / 94,NN
+,,,,,445.0,True,1.0,0.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,453.0,True,154.0,153.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,461.0,True,155.0,154.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,469.0,True,181.0,180.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,477.0,True,227.0,226.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,485.0,True,294.0,293.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,493.0,True,333.0,332.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,501.0,True,400.0,399.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,509.0,True,466.0,465.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,517.0,True,531.0,530.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,525.0,True,596.0,595.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,533.0,True,617.0,616.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,541.0,True,684.0,683.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,549.0,True,725.0,724.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,557.0,True,785.0,784.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,565.0,True,829.0,828.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,573.0,True,861.0,860.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,581.0,True,931.0,930.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,589.0,True,970.0,969.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,597.0,True,1006.0,1005.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,605.0,True,1070.0,1069.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,613.0,True,1085.0,1084.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,621.0,True,1145.0,1144.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,629.0,True,1188.0,1187.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,637.0,True,1249.0,1248.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,645.0,True,1313.0,1312.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,653.0,True,1379.0,1378.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,661.0,True,1445.0,1444.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,669.0,True,1509.0,1508.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,677.0,True,1573.0,1572.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,685.0,True,1640.0,1639.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,693.0,True,1688.0,1687.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,701.0,True,1753.0,1752.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,709.0,True,1809.0,1808.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,717.0,True,1869.0,1868.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,725.0,True,1905.0,1904.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,733.0,True,1935.0,1934.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,741.0,True,2000.0,1999.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,749.0,True,2039.0,2038.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,757.0,True,2101.0,2100.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,765.0,True,2156.0,2155.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,773.0,True,2198.0,2197.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,781.0,True,2247.0,2246.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,789.0,True,2290.0,2289.0,,NewlineToken,,,,NewlineToken,,,,
+,,,,,797.0,True,10.0,1.0,,NumToken,,,,NumToken,,,435791816,CD
+,,,,,834.0,True,29.0,21.0,,NumToken,,,,NumToken,,,80771325,CD
+,,,,,859.0,True,40.0,34.0,,NumToken,,,,NumToken,,,428219,CD
+,,,,,876.0,True,44.0,43.0,,NumToken,,,,NumToken,,,1,CD
+,,,,,893.0,True,47.0,45.0,,NumToken,,,,NumToken,,,12,CD
+,,,,,910.0,True,52.0,48.0,,NumToken,,,,NumToken,,,1994,CD
+,,,,,919.0,True,55.0,53.0,,NumToken,,,,NumToken,,,12,CD
+,,,,,936.0,True,58.0,56.0,,NumToken,,,,NumToken,,,00,CD
+,,,,,953.0,True,61.0,59.0,,NumToken,,,,NumToken,,,00,CD
+,,,,,1086.0,True,121.0,120.0,,NumToken,,,,NumToken,,,1,CD
+,,,,,1103.0,True,124.0,122.0,,NumToken,,,,NumToken,,,12,CD
+,,,,,1120.0,True,129.0,125.0,,NumToken,,,,NumToken,,,1994,CD
+,,,,,1205.0,True,172.0,171.0,,NumToken,,,,NumToken,,,9,CD
+,,,,,1222.0,True,175.0,173.0,,NumToken,,,,NumToken,,,15,CD
+,,,,,1239.0,True,180.0,176.0,,NumToken,,,,NumToken,,,1994,CD
+,,,,,1428.0,True,273.0,271.0,,NumToken,,,,NumToken,,,52,CD
+,,,,,1701.0,True,398.0,394.0,,NumToken,,,,NumToken,,,1976,CD
+,,,,,1766.0,True,420.0,419.0,,NumToken,,,,NumToken,,,5,CD
+,,,,,1783.0,True,422.0,421.0,,NumToken,,,,NumToken,,,6,CD
+,,,,,2932.0,True,1044.0,1042.0,,NumToken,,,,NumToken,,,16,CD
+,,,,,2949.0,True,1048.0,1045.0,,NumToken,,,,NumToken,,,1.2,CD
+,,,,,2990.0,True,1067.0,1063.0,,NumToken,,,,NumToken,,,5500,CD
+,,,,,3019.0,True,1083.0,1081.0,,NumToken,,,,NumToken,,,46,CD
+,,,,,3196.0,True,1172.0,1168.0,,NumToken,,,,NumToken,,,1994,CD
+,,,,,3377.0,True,1253.0,1249.0,,NumToken,,,,NumToken,,,1994,CD
+,,,,,3958.0,True,1546.0,1544.0,,NumToken,,,,NumToken,,,1.,.
+,,,,,4271.0,True,1686.0,1685.0,,NumToken,,,,NumToken,,,1,CD
+,,,,,4760.0,True,1903.0,1899.0,,NumToken,,,,NumToken,,,1994,CD
+,,,,,4965.0,True,2002.0,2000.0,,NumToken,,,,NumToken,,,25,CD
+,,,,,5618.0,True,2246.0,2242.0,,NumToken,,,,NumToken,,,4768,CD
+,,,,,5647.0,True,2258.0,2254.0,,NumToken,,,,NumToken,,,8363,CD
+,,,,,5712.0,True,2283.0,2282.0,,NumToken,,,,NumToken,,,1,CD
+,,,,,5729.0,True,2286.0,2284.0,,NumToken,,,,NumToken,,,13,CD
+,,,,,5746.0,True,2289.0,2287.0,,NumToken,,,,NumToken,,,94,CD
+,,,,,5775.0,True,2294.0,2293.0,,NumToken,,,,NumToken,,,6,CD
+,,,,,5792.0,True,2297.0,2295.0,,NumToken,,,,NumToken,,,15,CD
+,,,,,5809.0,True,2300.0,2298.0,,NumToken,,,,NumToken,,,94,CD
+,,,,,806.0,True,12.0,11.0,,SymbolToken,,,,SymbolToken,,,|,","
+,,,,,826.0,True,20.0,19.0,,SymbolToken,,,,SymbolToken,,,|,","
+,,,,,843.0,True,31.0,30.0,,SymbolToken,,,,SymbolToken,,,|,","
+,,,,,851.0,True,33.0,32.0,,SymbolToken,,,,SymbolToken,,,|,","
+,,,,,868.0,True,42.0,41.0,,SymbolToken,,,,SymbolToken,,,|,","
+,,,,,974.0,True,66.0,65.0,,SymbolToken,,,,SymbolToken,,,|,","
+,,,,,1006.0,True,86.0,85.0,,SymbolToken,,,,SymbolToken,,,|,","
+,,,,,1026.0,True,97.0,96.0,,SymbolToken,,,,SymbolToken,,,|,","
+,,,,,1046.0,True,103.0,102.0,,SymbolToken,,,,SymbolToken,,,|,","
+,,,,,814.0,True,18.0,13.0,,WordToken,,,,WordToken,,,CULHS,NN
+,,,,,962.0,True,64.0,62.0,,WordToken,,,,WordToken,,,AM,NN
+,,,,,982.0,True,76.0,67.0,,WordToken,,,,WordToken,,,Discharge,NN
+,,,,,994.0,True,84.0,77.0,,WordToken,,,,WordToken,,,Summary,NN
+,,,,,1014.0,True,95.0,87.0,,WordToken,,,,WordToken,,,Unsigned,JJ
+,,,,,1034.0,True,101.0,98.0,,WordToken,,,,WordToken,,,DIS,NN
+,,,,,1054.0,True,113.0,104.0,,WordToken,,,,WordToken,,,Admission,NN
+,,,,,1066.0,True,118.0,114.0,,WordToken,,,,WordToken,,,Date,NN
+,,,,,1129.0,True,136.0,130.0,,WordToken,,,,WordToken,,,Report,NN
+,,,,,1141.0,True,143.0,137.0,,WordToken,,,,WordToken,,,Status,NN
+,,,,,1161.0,True,153.0,145.0,,WordToken,,,,WordToken,,,Unsigned,JJ
+,,,,,1173.0,True,164.0,155.0,,WordToken,,,,WordToken,,,Discharge,JJ
+,,,,,1185.0,True,169.0,165.0,,WordToken,,,,WordToken,,,Date,NN
+,,,,,1248.0,True,190.0,181.0,,WordToken,,,,WordToken,,,PRINCIPAL,JJ
+,,,,,1260.0,True,200.0,191.0,,WordToken,,,,WordToken,,,DIAGNOSIS,NN
+,,,,,1280.0,True,210.0,202.0,,WordToken,,,,WordToken,,,CORONARY,JJ
+,,,,,1292.0,True,217.0,211.0,,WordToken,,,,WordToken,,,ARTERY,NN
+,,,,,1304.0,True,225.0,218.0,,WordToken,,,,WordToken,,,DISEASE,NN
+,,,,,1324.0,True,234.0,227.0,,WordToken,,,,WordToken,,,HISTORY,NN
+,,,,,1336.0,True,237.0,235.0,,WordToken,,,,WordToken,,,OF,IN
+,,,,,1348.0,True,245.0,238.0,,WordToken,,,,WordToken,,,PRESENT,JJ
+,,,,,1360.0,True,253.0,246.0,,WordToken,,,,WordToken,,,ILLNESS,NN
+,,,,,1380.0,True,258.0,255.0,,WordToken,,,,WordToken,,,Mr.,NNP
+,,,,,1392.0,True,265.0,259.0,,WordToken,,,,WordToken,,,Weddel,NNP
+,,,,,1404.0,True,268.0,266.0,,WordToken,,,,WordToken,,,is,VBZ
+,,,,,1416.0,True,270.0,269.0,,WordToken,,,,WordToken,,,a,DT
+,,,,,1445.0,True,278.0,274.0,,WordToken,,,,WordToken,,,year,NN
+,,,,,1465.0,True,282.0,279.0,,WordToken,,,,WordToken,,,old,JJ
+,,,,,1477.0,True,286.0,283.0,,WordToken,,,,WordToken,,,man,NN
+,,,,,1489.0,True,293.0,287.0,,WordToken,,,,WordToken,,,status,NN
+,,,,,1501.0,True,298.0,294.0,,WordToken,,,,WordToken,,,post,IN
+,,,,,1513.0,True,307.0,299.0,,WordToken,,,,WordToken,,,coronary,JJ
+,,,,,1525.0,True,314.0,308.0,,WordToken,,,,WordToken,,,artery,NN
+,,,,,1537.0,True,321.0,315.0,,WordToken,,,,WordToken,,,bypass,NN
+,,,,,1549.0,True,327.0,322.0,,WordToken,,,,WordToken,,,graft,NN
+,,,,,1561.0,True,330.0,328.0,,WordToken,,,,WordToken,,,x1,NN
+,,,,,1581.0,True,337.0,333.0,,WordToken,,,,WordToken,,,with,IN
+,,,,,1593.0,True,347.0,338.0,,WordToken,,,,WordToken,,,saphenous,JJ
+,,,,,1605.0,True,352.0,348.0,,WordToken,,,,WordToken,,,vein,NN
+,,,,,1617.0,True,358.0,353.0,,WordToken,,,,WordToken,,,graft,NN
+,,,,,1629.0,True,361.0,359.0,,WordToken,,,,WordToken,,,to,IN
+,,,,,1641.0,True,365.0,362.0,,WordToken,,,,WordToken,,,the,DT
+,,,,,1653.0,True,370.0,366.0,,WordToken,,,,WordToken,,,left,JJ
+,,,,,1665.0,True,379.0,371.0,,WordToken,,,,WordToken,,,anterior,JJ
+,,,,,1677.0,True,390.0,380.0,,WordToken,,,,WordToken,,,descending,VBG
+,,,,,1689.0,True,393.0,391.0,,WordToken,,,,WordToken,,,in,IN
+,,,,,1718.0,True,402.0,400.0,,WordToken,,,,WordToken,,,He,PRP
+,,,,,1730.0,True,411.0,403.0,,WordToken,,,,WordToken,,,presents,VBZ
+,,,,,1742.0,True,416.0,412.0,,WordToken,,,,WordToken,,,with,IN
+,,,,,1754.0,True,418.0,417.0,,WordToken,,,,WordToken,,,a,DT
+,,,,,1792.0,True,427.0,423.0,,WordToken,,,,WordToken,,,week,NN
+,,,,,1804.0,True,435.0,428.0,,WordToken,,,,WordToken,,,history,NN
+,,,,,1816.0,True,438.0,436.0,,WordToken,,,,WordToken,,,of,IN
+,,,,,1828.0,True,447.0,439.0,,WordToken,,,,WordToken,,,unstable,JJ
+,,,,,1840.0,True,454.0,448.0,,WordToken,,,,WordToken,,,angina,NN
+,,,,,1860.0,True,458.0,456.0,,WordToken,,,,WordToken,,,He,PRP
+,,,,,1872.0,True,462.0,459.0,,WordToken,,,,WordToken,,,had,VBD
+,,,,,1884.0,True,465.0,463.0,,WordToken,,,,WordToken,,,an,NN
+,,,,,1896.0,True,480.0,466.0,,WordToken,,,,WordToken,,,echocardiogram,NN
+,,,,,1908.0,True,486.0,481.0,,WordToken,,,,WordToken,,,which,WDT
+,,,,,1920.0,True,495.0,487.0,,WordToken,,,,WordToken,,,revealed,VBD
+,,,,,1932.0,True,505.0,496.0,,WordToken,,,,WordToken,,,recurrent,JJ
+,,,,,1944.0,True,514.0,506.0,,WordToken,,,,WordToken,,,coronary,JJ
+,,,,,1956.0,True,521.0,515.0,,WordToken,,,,WordToken,,,artery,NN
+,,,,,1968.0,True,529.0,522.0,,WordToken,,,,WordToken,,,disease,NN
+,,,,,1988.0,True,534.0,531.0,,WordToken,,,,WordToken,,,The,DT
+,,,,,2000.0,True,542.0,535.0,,WordToken,,,,WordToken,,,patient,NN
+,,,,,2012.0,True,546.0,543.0,,WordToken,,,,WordToken,,,was,VBD
+,,,,,2024.0,True,555.0,547.0,,WordToken,,,,WordToken,,,referred,VBN
+,,,,,2036.0,True,558.0,556.0,,WordToken,,,,WordToken,,,to,IN
+,,,,,2048.0,True,562.0,559.0,,WordToken,,,,WordToken,,,Dr.,NNP
+,,,,,2060.0,True,570.0,563.0,,WordToken,,,,WordToken,,,Finstad,NNP
+,,,,,2072.0,True,574.0,571.0,,WordToken,,,,WordToken,,,for,IN
+,,,,,2084.0,True,586.0,575.0,,WordToken,,,,WordToken,,,reoperative,JJ
+,,,,,2096.0,True,595.0,587.0,,WordToken,,,,WordToken,,,coronary,JJ
+,,,,,2108.0,True,602.0,596.0,,WordToken,,,,WordToken,,,artery,NN
+,,,,,2120.0,True,609.0,603.0,,WordToken,,,,WordToken,,,bypass,NN
+,,,,,2132.0,True,615.0,610.0,,WordToken,,,,WordToken,,,graft,NN
+,,,,,2152.0,True,621.0,617.0,,WordToken,,,,WordToken,,,PAST,JJ
+,,,,,2164.0,True,629.0,622.0,,WordToken,,,,WordToken,,,MEDICAL,JJ
+,,,,,2176.0,True,637.0,630.0,,WordToken,,,,WordToken,,,HISTORY,NN
+,,,,,2196.0,True,642.0,639.0,,WordToken,,,,WordToken,,,The,DT
+,,,,,2208.0,True,650.0,643.0,,WordToken,,,,WordToken,,,patient,NN
+,,,,,2220.0,True,654.0,651.0,,WordToken,,,,WordToken,,,has,VBZ
+,,,,,2232.0,True,656.0,655.0,,WordToken,,,,WordToken,,,a,DT
+,,,,,2244.0,True,664.0,657.0,,WordToken,,,,WordToken,,,history,NN
+,,,,,2256.0,True,667.0,665.0,,WordToken,,,,WordToken,,,of,IN
+,,,,,2268.0,True,676.0,668.0,,WordToken,,,,WordToken,,,coronary,JJ
+,,,,,2280.0,True,683.0,677.0,,WordToken,,,,WordToken,,,artery,NN
+,,,,,2292.0,True,691.0,684.0,,WordToken,,,,WordToken,,,disease,NN
+,,,,,2304.0,True,695.0,692.0,,WordToken,,,,WordToken,,,and,CC
+,,,,,2316.0,True,706.0,696.0,,WordToken,,,,WordToken,,,peripheral,JJ
+,,,,,2328.0,True,715.0,707.0,,WordToken,,,,WordToken,,,vascular,JJ
+,,,,,2340.0,True,723.0,716.0,,WordToken,,,,WordToken,,,disease,NN
+,,,,,2360.0,True,729.0,725.0,,WordToken,,,,WordToken,,,PAST,JJ
+,,,,,2372.0,True,738.0,730.0,,WordToken,,,,WordToken,,,SURGICAL,JJ
+,,,,,2384.0,True,746.0,739.0,,WordToken,,,,WordToken,,,HISTORY,NN
+,,,,,2404.0,True,751.0,748.0,,WordToken,,,,WordToken,,,The,DT
+,,,,,2416.0,True,759.0,752.0,,WordToken,,,,WordToken,,,patient,NN
+,,,,,2428.0,True,762.0,760.0,,WordToken,,,,WordToken,,,is,VBZ
+,,,,,2440.0,True,769.0,763.0,,WordToken,,,,WordToken,,,status,NN
+,,,,,2452.0,True,774.0,770.0,,WordToken,,,,WordToken,,,post,IN
+,,,,,2464.0,True,776.0,775.0,,WordToken,,,,WordToken,,,a,DT
+,,,,,2476.0,True,784.0,777.0,,WordToken,,,,WordToken,,,radical,JJ
+,,,,,2488.0,True,798.0,785.0,,WordToken,,,,WordToken,,,prostatectomy,NN
+,,,,,2500.0,True,810.0,799.0,,WordToken,,,,WordToken,,,complicated,VBN
+,,,,,2512.0,True,813.0,811.0,,WordToken,,,,WordToken,,,by,IN
+,,,,,2524.0,True,822.0,814.0,,WordToken,,,,WordToken,,,osteitis,NN
+,,,,,2536.0,True,828.0,823.0,,WordToken,,,,WordToken,,,pubis,NN
+,,,,,2548.0,True,832.0,829.0,,WordToken,,,,WordToken,,,and,CC
+,,,,,2560.0,True,834.0,833.0,,WordToken,,,,WordToken,,,a,DT
+,,,,,2572.0,True,843.0,835.0,,WordToken,,,,WordToken,,,urethral,JJ
+,,,,,2584.0,True,851.0,844.0,,WordToken,,,,WordToken,,,colonic,JJ
+,,,,,2596.0,True,859.0,852.0,,WordToken,,,,WordToken,,,fistula,NN
+,,,,,2616.0,True,868.0,861.0,,WordToken,,,,WordToken,,,CURRENT,JJ
+,,,,,2628.0,True,880.0,869.0,,WordToken,,,,WordToken,,,MEDICATIONS,NNS
+,,,,,2648.0,True,889.0,882.0,,WordToken,,,,WordToken,,,Aspirin,NNP
+,,,,,2668.0,True,901.0,892.0,,WordToken,,,,WordToken,,,Lopressor,NNP
+,,,,,2688.0,True,913.0,904.0,,WordToken,,,,WordToken,,,Procardia,NNP
+,,,,,2700.0,True,916.0,914.0,,WordToken,,,,WordToken,,,XL,NNP
+,,,,,2720.0,True,930.0,919.0,,WordToken,,,,WordToken,,,intravenous,JJ
+,,,,,2732.0,True,938.0,931.0,,WordToken,,,,WordToken,,,heparin,NN
+,,,,,2744.0,True,942.0,939.0,,WordToken,,,,WordToken,,,and,CC
+,,,,,2756.0,True,954.0,943.0,,WordToken,,,,WordToken,,,intravenous,JJ
+,,,,,2768.0,True,968.0,955.0,,WordToken,,,,WordToken,,,nitroglycerin,NN
+,,,,,2788.0,True,979.0,970.0,,WordToken,,,,WordToken,,,ALLERGIES,NNS
+,,,,,2808.0,True,983.0,981.0,,WordToken,,,,WordToken,,,No,DT
+,,,,,2820.0,True,989.0,984.0,,WordToken,,,,WordToken,,,known,JJ
+,,,,,2832.0,True,994.0,990.0,,WordToken,,,,WordToken,,,drug,NN
+,,,,,2844.0,True,1004.0,995.0,,WordToken,,,,WordToken,,,allergies,NNS
+,,,,,2864.0,True,1016.0,1006.0,,WordToken,,,,WordToken,,,LABORATORY,NN
+,,,,,2876.0,True,1021.0,1017.0,,WordToken,,,,WordToken,,,DATA,NN
+,,,,,2896.0,True,1026.0,1023.0,,WordToken,,,,WordToken,,,BUN,NN
+,,,,,2908.0,True,1030.0,1027.0,,WordToken,,,,WordToken,,,and,CC
+,,,,,2920.0,True,1041.0,1031.0,,WordToken,,,,WordToken,,,creatinine,NN
+,,,,,2966.0,True,1056.0,1051.0,,WordToken,,,,WordToken,,,white,JJ
+,,,,,2978.0,True,1062.0,1057.0,,WordToken,,,,WordToken,,,count,NN
+,,,,,3007.0,True,1080.0,1070.0,,WordToken,,,,WordToken,,,hematocrit,NN
+,,,,,3036.0,True,1093.0,1085.0,,WordToken,,,,WordToken,,,HOSPITAL,NN
+,,,,,3048.0,True,1100.0,1094.0,,WordToken,,,,WordToken,,,COURSE,NN
+,,,,,3068.0,True,1105.0,1102.0,,WordToken,,,,WordToken,,,The,DT
+,,,,,3080.0,True,1113.0,1106.0,,WordToken,,,,WordToken,,,patient,NN
+,,,,,3092.0,True,1117.0,1114.0,,WordToken,,,,WordToken,,,was,VBD
+,,,,,3104.0,True,1126.0,1118.0,,WordToken,,,,WordToken,,,admitted,VBN
+,,,,,3116.0,True,1129.0,1127.0,,WordToken,,,,WordToken,,,to,IN
+,,,,,3128.0,True,1133.0,1130.0,,WordToken,,,,WordToken,,,the,DT
+,,,,,3140.0,True,1144.0,1134.0,,WordToken,,,,WordToken,,,Cardiology,NN
+,,,,,3152.0,True,1152.0,1145.0,,WordToken,,,,WordToken,,,Service,NN
+,,,,,3164.0,True,1155.0,1153.0,,WordToken,,,,WordToken,,,on,IN
+,,,,,3176.0,True,1165.0,1156.0,,WordToken,,,,WordToken,,,September,NNP
+,,,,,3213.0,True,1180.0,1175.0,,WordToken,,,,WordToken,,,where,WRB
+,,,,,3225.0,True,1183.0,1181.0,,WordToken,,,,WordToken,,,he,PRP
+,,,,,3237.0,True,1187.0,1184.0,,WordToken,,,,WordToken,,,was,VBD
+,,,,,3249.0,True,1198.0,1188.0,,WordToken,,,,WordToken,,,stabilized,VBN
+,,,,,3261.0,True,1202.0,1199.0,,WordToken,,,,WordToken,,,and,CC
+,,,,,3273.0,True,1210.0,1203.0,,WordToken,,,,WordToken,,,finally,RB
+,,,,,3285.0,True,1216.0,1211.0,,WordToken,,,,WordToken,,,taken,VBN
+,,,,,3297.0,True,1219.0,1217.0,,WordToken,,,,WordToken,,,to,IN
+,,,,,3309.0,True,1223.0,1220.0,,WordToken,,,,WordToken,,,the,DT
+,,,,,3321.0,True,1233.0,1224.0,,WordToken,,,,WordToken,,,Operating,NN
+,,,,,3333.0,True,1238.0,1234.0,,WordToken,,,,WordToken,,,Room,NN
+,,,,,3345.0,True,1241.0,1239.0,,WordToken,,,,WordToken,,,on,IN
+,,,,,3357.0,True,1246.0,1242.0,,WordToken,,,,WordToken,,,July,NNP
+,,,,,3394.0,True,1258.0,1256.0,,WordToken,,,,WordToken,,,at,IN
+,,,,,3406.0,True,1264.0,1259.0,,WordToken,,,,WordToken,,,which,WDT
+,,,,,3418.0,True,1269.0,1265.0,,WordToken,,,,WordToken,,,time,NN
+,,,,,3430.0,True,1272.0,1270.0,,WordToken,,,,WordToken,,,he,PRP
+,,,,,3442.0,True,1282.0,1273.0,,WordToken,,,,WordToken,,,underwent,VBD
+,,,,,3454.0,True,1284.0,1283.0,,WordToken,,,,WordToken,,,a,DT
+,,,,,3466.0,True,1296.0,1285.0,,WordToken,,,,WordToken,,,reoperative,JJ
+,,,,,3478.0,True,1305.0,1297.0,,WordToken,,,,WordToken,,,coronary,JJ
+,,,,,3490.0,True,1312.0,1306.0,,WordToken,,,,WordToken,,,artery,NN
+,,,,,3502.0,True,1319.0,1313.0,,WordToken,,,,WordToken,,,bypass,NN
+,,,,,3514.0,True,1325.0,1320.0,,WordToken,,,,WordToken,,,graft,NN
+,,,,,3526.0,True,1328.0,1326.0,,WordToken,,,,WordToken,,,x3,NN
+,,,,,3546.0,True,1335.0,1331.0,,WordToken,,,,WordToken,,,with,IN
+,,,,,3558.0,True,1337.0,1336.0,,WordToken,,,,WordToken,,,a,DT
+,,,,,3570.0,True,1342.0,1338.0,,WordToken,,,,WordToken,,,left,JJ
+,,,,,3582.0,True,1351.0,1343.0,,WordToken,,,,WordToken,,,interior,JJ
+,,,,,3594.0,True,1359.0,1352.0,,WordToken,,,,WordToken,,,mammary,JJ
+,,,,,3606.0,True,1366.0,1360.0,,WordToken,,,,WordToken,,,artery,NN
+,,,,,3618.0,True,1369.0,1367.0,,WordToken,,,,WordToken,,,to,IN
+,,,,,3630.0,True,1373.0,1370.0,,WordToken,,,,WordToken,,,the,DT
+,,,,,3642.0,True,1378.0,1374.0,,WordToken,,,,WordToken,,,left,JJ
+,,,,,3654.0,True,1387.0,1379.0,,WordToken,,,,WordToken,,,anterior,JJ
+,,,,,3666.0,True,1398.0,1388.0,,WordToken,,,,WordToken,,,descending,VBG
+,,,,,3686.0,True,1403.0,1400.0,,WordToken,,,,WordToken,,,The,DT
+,,,,,3698.0,True,1411.0,1404.0,,WordToken,,,,WordToken,,,patient,NN
+,,,,,3710.0,True,1421.0,1412.0,,WordToken,,,,WordToken,,,tolerated,VBD
+,,,,,3722.0,True,1425.0,1422.0,,WordToken,,,,WordToken,,,the,DT
+,,,,,3734.0,True,1435.0,1426.0,,WordToken,,,,WordToken,,,procedure,NN
+,,,,,3746.0,True,1440.0,1436.0,,WordToken,,,,WordToken,,,well,RB
+,,,,,3758.0,True,1444.0,1441.0,,WordToken,,,,WordToken,,,and,.
+,,,,,3770.0,True,1448.0,1445.0,,WordToken,,,,WordToken,,,was,VBD
+,,,,,3782.0,True,1464.0,1449.0,,WordToken,,,,WordToken,,,hemodynamically,RB
+,,,,,3794.0,True,1471.0,1465.0,,WordToken,,,,WordToken,,,stable,JJ
+,,,,,3806.0,True,1474.0,1472.0,,WordToken,,,,WordToken,,,in,IN
+,,,,,3818.0,True,1478.0,1475.0,,WordToken,,,,WordToken,,,the,DT
+,,,,,3830.0,True,1483.0,1479.0,,WordToken,,,,WordToken,,,unit,NN
+,,,,,3850.0,True,1487.0,1485.0,,WordToken,,,,WordToken,,,He,PRP
+,,,,,3862.0,True,1491.0,1488.0,,WordToken,,,,WordToken,,,was,VBD
+,,,,,3874.0,True,1498.0,1492.0,,WordToken,,,,WordToken,,,weaned,VBN
+,,,,,3886.0,True,1508.0,1499.0,,WordToken,,,,WordToken,,,overnight,JJ
+,,,,,3898.0,True,1512.0,1509.0,,WordToken,,,,WordToken,,,and,CC
+,,,,,3910.0,True,1522.0,1513.0,,WordToken,,,,WordToken,,,extubated,VBN
+,,,,,3922.0,True,1525.0,1523.0,,WordToken,,,,WordToken,,,on,IN
+,,,,,3934.0,True,1539.0,1526.0,,WordToken,,,,WordToken,,,postoperative,JJ
+,,,,,3946.0,True,1543.0,1540.0,,WordToken,,,,WordToken,,,day,NN
+,,,,,3967.0,True,1549.0,1547.0,,WordToken,,,,WordToken,,,He,PRP
+,,,,,3979.0,True,1553.0,1550.0,,WordToken,,,,WordToken,,,was,VBD
+,,,,,3991.0,True,1561.0,1554.0,,WordToken,,,,WordToken,,,started,VBN
+,,,,,4003.0,True,1564.0,1562.0,,WordToken,,,,WordToken,,,on,IN
+,,,,,4015.0,True,1572.0,1565.0,,WordToken,,,,WordToken,,,aspirin,NN
+,,,,,4027.0,True,1576.0,1573.0,,WordToken,,,,WordToken,,,and,CC
+,,,,,4039.0,True,1586.0,1577.0,,WordToken,,,,WordToken,,,Lopressor,NNP
+,,,,,4059.0,True,1595.0,1589.0,,WordToken,,,,WordToken,,,weaned,VBD
+,,,,,4071.0,True,1599.0,1596.0,,WordToken,,,,WordToken,,,off,IN
+,,,,,4083.0,True,1603.0,1600.0,,WordToken,,,,WordToken,,,his,PRP$
+,,,,,4095.0,True,1606.0,1604.0,,WordToken,,,,WordToken,,,O2,NNP
+,,,,,4107.0,True,1610.0,1607.0,,WordToken,,,,WordToken,,,and,CC
+,,,,,4119.0,True,1618.0,1611.0,,WordToken,,,,WordToken,,,started,VBN
+,,,,,4131.0,True,1621.0,1619.0,,WordToken,,,,WordToken,,,on,IN
+,,,,,4143.0,True,1631.0,1622.0,,WordToken,,,,WordToken,,,diuretics,NNS
+,,,,,4163.0,True,1635.0,1633.0,,WordToken,,,,WordToken,,,He,PRP
+,,,,,4175.0,True,1639.0,1636.0,,WordToken,,,,WordToken,,,was,VBD
+,,,,,4187.0,True,1651.0,1640.0,,WordToken,,,,WordToken,,,transferred,VBN
+,,,,,4199.0,True,1654.0,1652.0,,WordToken,,,,WordToken,,,to,IN
+,,,,,4211.0,True,1658.0,1655.0,,WordToken,,,,WordToken,,,the,DT
+,,,,,4223.0,True,1663.0,1659.0,,WordToken,,,,WordToken,,,unit,NN
+,,,,,4235.0,True,1666.0,1664.0,,WordToken,,,,WordToken,,,on,IN
+,,,,,4247.0,True,1680.0,1667.0,,WordToken,,,,WordToken,,,postoperative,JJ
+,,,,,4259.0,True,1684.0,1681.0,,WordToken,,,,WordToken,,,day,NN
+,,,,,4288.0,True,1692.0,1688.0,,WordToken,,,,WordToken,,,Once,RB
+,,,,,4300.0,True,1695.0,1693.0,,WordToken,,,,WordToken,,,on,IN
+,,,,,4312.0,True,1699.0,1696.0,,WordToken,,,,WordToken,,,the,DT
+,,,,,4324.0,True,1704.0,1700.0,,WordToken,,,,WordToken,,,unit,NN
+,,,,,4336.0,True,1708.0,1705.0,,WordToken,,,,WordToken,,,the,DT
+,,,,,4348.0,True,1716.0,1709.0,,WordToken,,,,WordToken,,,patient,NN
+,,,,,4360.0,True,1720.0,1717.0,,WordToken,,,,WordToken,,,was,VBD
+,,,,,4372.0,True,1730.0,1721.0,,WordToken,,,,WordToken,,,gradually,RB
+,,,,,4384.0,True,1739.0,1731.0,,WordToken,,,,WordToken,,,advanced,VBN
+,,,,,4396.0,True,1742.0,1740.0,,WordToken,,,,WordToken,,,to,IN
+,,,,,4408.0,True,1744.0,1743.0,,WordToken,,,,WordToken,,,a,DT
+,,,,,4420.0,True,1752.0,1745.0,,WordToken,,,,WordToken,,,regular,JJ
+,,,,,4432.0,True,1757.0,1753.0,,WordToken,,,,WordToken,,,diet,NN
+,,,,,4444.0,True,1761.0,1758.0,,WordToken,,,,WordToken,,,and,CC
+,,,,,4456.0,True,1768.0,1762.0,,WordToken,,,,WordToken,,,weaned,VBD
+,,,,,4468.0,True,1772.0,1769.0,,WordToken,,,,WordToken,,,off,IN
+,,,,,4480.0,True,1776.0,1773.0,,WordToken,,,,WordToken,,,his,PRP$
+,,,,,4492.0,True,1779.0,1777.0,,WordToken,,,,WordToken,,,O2,NN
+,,,,,4512.0,True,1783.0,1781.0,,WordToken,,,,WordToken,,,He,PRP
+,,,,,4524.0,True,1787.0,1784.0,,WordToken,,,,WordToken,,,was,VBD
+,,,,,4536.0,True,1796.0,1788.0,,WordToken,,,,WordToken,,,diuresed,VBN
+,,,,,4548.0,True,1801.0,1797.0,,WordToken,,,,WordToken,,,down,RB
+,,,,,4560.0,True,1804.0,1802.0,,WordToken,,,,WordToken,,,to,IN
+,,,,,4572.0,True,1808.0,1805.0,,WordToken,,,,WordToken,,,his,PRP$
+,,,,,4584.0,True,1821.0,1809.0,,WordToken,,,,WordToken,,,preoperative,JJ
+,,,,,4596.0,True,1828.0,1822.0,,WordToken,,,,WordToken,,,weight,NN
+,,,,,4616.0,True,1832.0,1830.0,,WordToken,,,,WordToken,,,He,PRP
+,,,,,4628.0,True,1836.0,1833.0,,WordToken,,,,WordToken,,,had,VBD
+,,,,,4640.0,True,1838.0,1837.0,,WordToken,,,,WordToken,,,a,DT
+,,,,,4652.0,True,1846.0,1839.0,,WordToken,,,,WordToken,,,routine,JJ
+,,,,,4664.0,True,1860.0,1847.0,,WordToken,,,,WordToken,,,postoperative,JJ
+,,,,,4676.0,True,1867.0,1861.0,,WordToken,,,,WordToken,,,course,NN
+,,,,,4696.0,True,1880.0,1869.0,,WordToken,,,,WordToken,,,DISPOSITION,NN
+,,,,,4716.0,True,1886.0,1882.0,,WordToken,,,,WordToken,,,Home,NN
+,,,,,4728.0,True,1889.0,1887.0,,WordToken,,,,WordToken,,,on,IN
+,,,,,4740.0,True,1896.0,1890.0,,WordToken,,,,WordToken,,,August,NNP
+,,,,,4777.0,True,1914.0,1905.0,,WordToken,,,,WordToken,,,CONDITION,NN
+,,,,,4789.0,True,1917.0,1915.0,,WordToken,,,,WordToken,,,ON,IN
+,,,,,4801.0,True,1927.0,1918.0,,WordToken,,,,WordToken,,,DISCHARGE,NNP
+,,,,,4821.0,True,1933.0,1929.0,,WordToken,,,,WordToken,,,Good,JJ
+,,,,,4841.0,True,1944.0,1935.0,,WordToken,,,,WordToken,,,DISCHARGE,NN
+,,,,,4853.0,True,1956.0,1945.0,,WordToken,,,,WordToken,,,MEDICATIONS,NNS
+,,,,,4873.0,True,1965.0,1958.0,,WordToken,,,,WordToken,,,Aspirin,NNP
+,,,,,4885.0,True,1969.0,1966.0,,WordToken,,,,WordToken,,,one,CD
+,,,,,4897.0,True,1976.0,1970.0,,WordToken,,,,WordToken,,,tablet,NN
+,,,,,4909.0,True,1981.0,1977.0,,WordToken,,,,WordToken,,,p.o.,FW
+,,,,,4921.0,True,1984.0,1982.0,,WordToken,,,,WordToken,,,q.,FW
+,,,,,4933.0,True,1988.0,1985.0,,WordToken,,,,WordToken,,,day,NN
+,,,,,4953.0,True,1999.0,1990.0,,WordToken,,,,WordToken,,,Lopressor,NNP
+,,,,,4974.0,True,2005.0,2003.0,,WordToken,,,,WordToken,,,mg,NNS
+,,,,,4986.0,True,2010.0,2006.0,,WordToken,,,,WordToken,,,p.o.,FW
+,,,,,4998.0,True,2016.0,2011.0,,WordToken,,,,WordToken,,,t.i.d,FW
+,,,,,5026.0,True,2022.0,2019.0,,WordToken,,,,WordToken,,,and,CC
+,,,,,5038.0,True,2031.0,2023.0,,WordToken,,,,WordToken,,,Percocet,NNP
+,,,,,5050.0,True,2033.0,2032.0,,WordToken,,,,WordToken,,,p,RB
+,,,,,5070.0,True,2035.0,2034.0,,WordToken,,,,WordToken,,,r,JJ
+,,,,,5090.0,True,2037.0,2036.0,,WordToken,,,,WordToken,,,n,RB
+,,,,,5110.0,True,2047.0,2039.0,,WordToken,,,,WordToken,,,FOLLOWUP,NN
+,,,,,5130.0,True,2052.0,2049.0,,WordToken,,,,WordToken,,,The,DT
+,,,,,5142.0,True,2060.0,2053.0,,WordToken,,,,WordToken,,,patient,NN
+,,,,,5154.0,True,2065.0,2061.0,,WordToken,,,,WordToken,,,will,MD
+,,,,,5166.0,True,2072.0,2066.0,,WordToken,,,,WordToken,,,follow,VB
+,,,,,5178.0,True,2075.0,2073.0,,WordToken,,,,WordToken,,,up,RP
+,,,,,5190.0,True,2080.0,2076.0,,WordToken,,,,WordToken,,,with,IN
+,,,,,5202.0,True,2084.0,2081.0,,WordToken,,,,WordToken,,,Dr.,NNP
+,,,,,5214.0,True,2091.0,2085.0,,WordToken,,,,WordToken,,,Mcgoff,NNP
+,,,,,5226.0,True,2095.0,2092.0,,WordToken,,,,WordToken,,,and,CC
+,,,,,5238.0,True,2100.0,2096.0,,WordToken,,,,WordToken,,,will,RB
+,,,,,5250.0,True,2108.0,2101.0,,WordToken,,,,WordToken,,,contact,VB
+,,,,,5262.0,True,2112.0,2109.0,,WordToken,,,,WordToken,,,his,PRP$
+,,,,,5274.0,True,2119.0,2113.0,,WordToken,,,,WordToken,,,office,NN
+,,,,,5286.0,True,2123.0,2120.0,,WordToken,,,,WordToken,,,for,IN
+,,,,,5298.0,True,2126.0,2124.0,,WordToken,,,,WordToken,,,an,DT
+,,,,,5310.0,True,2138.0,2127.0,,WordToken,,,,WordToken,,,appointment,NN
+,,,,,5322.0,True,2144.0,2139.0,,WordToken,,,,WordToken,,,after,IN
+,,,,,5334.0,True,2154.0,2145.0,,WordToken,,,,WordToken,,,discharge,NN
+,,,,,5354.0,True,2164.0,2156.0,,WordToken,,,,WordToken,,,Dictated,VBN
+,,,,,5366.0,True,2167.0,2165.0,,WordToken,,,,WordToken,,,By,IN
+,,,,,5386.0,True,2176.0,2169.0,,WordToken,,,,WordToken,,,CLINTON,NNP
+,,,,,5398.0,True,2179.0,2177.0,,WordToken,,,,WordToken,,,H.,NNP
+,,,,,5410.0,True,2186.0,2180.0,,WordToken,,,,WordToken,,,BARRET,NNP
+,,,,,5430.0,True,2190.0,2189.0,,WordToken,,,,WordToken,,,M,NNP
+,,,,,5450.0,True,2192.0,2191.0,,WordToken,,,,WordToken,,,D,NNP
+,,,,,5470.0,True,2197.0,2194.0,,WordToken,,,,WordToken,,,TM2,NN
+,,,,,5482.0,True,2207.0,2198.0,,WordToken,,,,WordToken,,,Attending,NN
+,,,,,5502.0,True,2215.0,2209.0,,WordToken,,,,WordToken,,,DANIAL,JJ
+,,,,,5514.0,True,2218.0,2216.0,,WordToken,,,,WordToken,,,C.,NNP
+,,,,,5526.0,True,2223.0,2219.0,,WordToken,,,,WordToken,,,DELL,NNP
+,,,,,5546.0,True,2227.0,2226.0,,WordToken,,,,WordToken,,,M,NNP
+,,,,,5566.0,True,2229.0,2228.0,,WordToken,,,,WordToken,,,D,NNP
+,,,,,5586.0,True,2234.0,2231.0,,WordToken,,,,WordToken,,,SY3,NN
+,,,,,5598.0,True,2241.0,2236.0,,WordToken,,,,WordToken,,,RZ941,NN
+,,,,,5627.0,True,2252.0,2247.0,,WordToken,,,,WordToken,,,Batch,NN
+,,,,,5656.0,True,2264.0,2259.0,,WordToken,,,,WordToken,,,Index,NNP
+,,,,,5668.0,True,2268.0,2265.0,,WordToken,,,,WordToken,,,No.,NN
+,,,,,5680.0,True,2278.0,2269.0,,WordToken,,,,WordToken,,,K1QM0GBOY,NN
+,,,,,5692.0,True,2280.0,2279.0,,WordToken,,,,WordToken,,,D,NN
+,,,,,5755.0,True,2291.0,2290.0,,WordToken,,,,WordToken,,,T,NN
+,,,,,885.0,True,45.0,44.0,,PunctuationToken,,,,PunctuationToken,,,/,SYM
+,,,,,902.0,True,48.0,47.0,,PunctuationToken,,,,PunctuationToken,,,/,SYM
+,,,,,928.0,True,56.0,55.0,,PunctuationToken,,,,PunctuationToken,,,:,:
+,,,,,945.0,True,59.0,58.0,,PunctuationToken,,,,PunctuationToken,,,:,:
+,,,,,1078.0,True,119.0,118.0,,PunctuationToken,,,,PunctuationToken,,,:,:
+,,,,,1095.0,True,122.0,121.0,,PunctuationToken,,,,PunctuationToken,,,/,SYM
+,,,,,1112.0,True,125.0,124.0,,PunctuationToken,,,,PunctuationToken,,,/,SYM
+,,,,,1153.0,True,144.0,143.0,,PunctuationToken,,,,PunctuationToken,,,:,:
+,,,,,1197.0,True,170.0,169.0,,PunctuationToken,,,,PunctuationToken,,,:,:
+,,,,,1214.0,True,173.0,172.0,,PunctuationToken,,,,PunctuationToken,,,/,SYM
+,,,,,1231.0,True,176.0,175.0,,PunctuationToken,,,,PunctuationToken,,,/,SYM
+,,,,,1272.0,True,201.0,200.0,,PunctuationToken,,,,PunctuationToken,,,:,:
+,,,,,1316.0,True,226.0,225.0,,PunctuationToken,,,,PunctuationToken,,,.,.
+,,,,,1372.0,True,254.0,253.0,,PunctuationToken,,,,PunctuationToken,,,:,:
+,,,,,1437.0,True,274.0,273.0,,PunctuationToken,,,,PunctuationToken,,,-,HYPH
+,,,,,1457.0,True,279.0,278.0,,PunctuationToken,,,,PunctuationToken,,,-,HYPH
+,,,,,1573.0,True,332.0,331.0,,PunctuationToken,,,,PunctuationToken,,,",",","
+,,,,,1710.0,True,399.0,398.0,,PunctuationToken,,,,PunctuationToken,,,.,.
+,,,,,1775.0,True,421.0,420.0,,PunctuationToken,,,,PunctuationToken,,,-,HYPH
+,,,,,1852.0,True,455.0,454.0,,PunctuationToken,,,,PunctuationToken,,,.,.
+,,,,,1980.0,True,530.0,529.0,,PunctuationToken,,,,PunctuationToken,,,.,.
+,,,,,2144.0,True,616.0,615.0,,PunctuationToken,,,,PunctuationToken,,,.,.
+,,,,,2188.0,True,638.0,637.0,,PunctuationToken,,,,PunctuationToken,,,:,:
+,,,,,2352.0,True,724.0,723.0,,PunctuationToken,,,,PunctuationToken,,,.,.
+,,,,,2396.0,True,747.0,746.0,,PunctuationToken,,,,PunctuationToken,,,:,:
+,,,,,2608.0,True,860.0,859.0,,PunctuationToken,,,,PunctuationToken,,,.,.
+,,,,,2640.0,True,881.0,880.0,,PunctuationToken,,,,PunctuationToken,,,:,:
+,,,,,2660.0,True,891.0,890.0,,PunctuationToken,,,,PunctuationToken,,,",",","
+,,,,,2680.0,True,903.0,902.0,,PunctuationToken,,,,PunctuationToken,,,",",","
+,,,,,2712.0,True,918.0,917.0,,PunctuationToken,,,,PunctuationToken,,,",",","
+,,,,,2780.0,True,969.0,968.0,,PunctuationToken,,,,PunctuationToken,,,.,.
+,,,,,2800.0,True,980.0,979.0,,PunctuationToken,,,,PunctuationToken,,,:,:
+,,,,,2856.0,True,1005.0,1004.0,,PunctuationToken,,,,PunctuationToken,,,.,.
+,,,,,2888.0,True,1022.0,1021.0,,PunctuationToken,,,,PunctuationToken,,,:,:
+,,,,,2941.0,True,1045.0,1044.0,,PunctuationToken,,,,PunctuationToken,,,/,SYM
+,,,,,2958.0,True,1050.0,1049.0,,PunctuationToken,,,,PunctuationToken,,,",",","
+,,,,,2999.0,True,1069.0,1068.0,,PunctuationToken,,,,PunctuationToken,,,",",","
+,,,,,3028.0,True,1084.0,1083.0,,PunctuationToken,,,,PunctuationToken,,,.,.
+,,,,,3060.0,True,1101.0,1100.0,,PunctuationToken,,,,PunctuationToken,,,:,:
+,,,,,3188.0,True,1167.0,1166.0,,PunctuationToken,,,,PunctuationToken,,,",",","
+,,,,,3205.0,True,1174.0,1173.0,,PunctuationToken,,,,PunctuationToken,,,",",","
+,,,,,3369.0,True,1248.0,1247.0,,PunctuationToken,,,,PunctuationToken,,,",",","
+,,,,,3386.0,True,1255.0,1254.0,,PunctuationToken,,,,PunctuationToken,,,",",","
+,,,,,3538.0,True,1330.0,1329.0,,PunctuationToken,,,,PunctuationToken,,,",",","
+,,,,,3678.0,True,1399.0,1398.0,,PunctuationToken,,,,PunctuationToken,,,.,.
+,,,,,3842.0,True,1484.0,1483.0,,PunctuationToken,,,,PunctuationToken,,,.,.
+,,,,,4051.0,True,1588.0,1587.0,,PunctuationToken,,,,PunctuationToken,,,",",","
+,,,,,4155.0,True,1632.0,1631.0,,PunctuationToken,,,,PunctuationToken,,,.,.
+,,,,,4280.0,True,1687.0,1686.0,,PunctuationToken,,,,PunctuationToken,,,.,.
+,,,,,4504.0,True,1780.0,1779.0,,PunctuationToken,,,,PunctuationToken,,,.,.
+,,,,,4608.0,True,1829.0,1828.0,,PunctuationToken,,,,PunctuationToken,,,.,.
+,,,,,4688.0,True,1868.0,1867.0,,PunctuationToken,,,,PunctuationToken,,,.,.
+,,,,,4708.0,True,1881.0,1880.0,,PunctuationToken,,,,PunctuationToken,,,:,:
+,,,,,4752.0,True,1898.0,1897.0,,PunctuationToken,,,,PunctuationToken,,,",",","
+,,,,,4769.0,True,1904.0,1903.0,,PunctuationToken,,,,PunctuationToken,,,.,.
+,,,,,4813.0,True,1928.0,1927.0,,PunctuationToken,,,,PunctuationToken,,,:,:
+,,,,,4833.0,True,1934.0,1933.0,,PunctuationToken,,,,PunctuationToken,,,.,.
+,,,,,4865.0,True,1957.0,1956.0,,PunctuationToken,,,,PunctuationToken,,,:,:
+,,,,,4945.0,True,1989.0,1988.0,,PunctuationToken,,,,PunctuationToken,,,;,:
+,,,,,5010.0,True,2017.0,2016.0,,PunctuationToken,,,,PunctuationToken,,,.,.
+,,,,,5018.0,True,2018.0,2017.0,,PunctuationToken,,,,PunctuationToken,,,;,","
+,,,,,5062.0,True,2034.0,2033.0,,PunctuationToken,,,,PunctuationToken,,,.,IN
+,,,,,5082.0,True,2036.0,2035.0,,PunctuationToken,,,,PunctuationToken,,,.,.
+,,,,,5102.0,True,2038.0,2037.0,,PunctuationToken,,,,PunctuationToken,,,.,.
+,,,,,5122.0,True,2048.0,2047.0,,PunctuationToken,,,,PunctuationToken,,,:,:
+,,,,,5346.0,True,2155.0,2154.0,,PunctuationToken,,,,PunctuationToken,,,.,.
+,,,,,5378.0,True,2168.0,2167.0,,PunctuationToken,,,,PunctuationToken,,,:,:
+,,,,,5422.0,True,2188.0,2187.0,,PunctuationToken,,,,PunctuationToken,,,",",","
+,,,,,5442.0,True,2191.0,2190.0,,PunctuationToken,,,,PunctuationToken,,,.,NNP
+,,,,,5462.0,True,2193.0,2192.0,,PunctuationToken,,,,PunctuationToken,,,.,.
+,,,,,5494.0,True,2208.0,2207.0,,PunctuationToken,,,,PunctuationToken,,,:,:
+,,,,,5538.0,True,2225.0,2224.0,,PunctuationToken,,,,PunctuationToken,,,",",","
+,,,,,5558.0,True,2228.0,2227.0,,PunctuationToken,,,,PunctuationToken,,,.,NNP
+,,,,,5578.0,True,2230.0,2229.0,,PunctuationToken,,,,PunctuationToken,,,.,.
+,,,,,5610.0,True,2242.0,2241.0,,PunctuationToken,,,,PunctuationToken,,,/,SYM
+,,,,,5639.0,True,2253.0,2252.0,,PunctuationToken,,,,PunctuationToken,,,:,:
+,,,,,5704.0,True,2281.0,2280.0,,PunctuationToken,,,,PunctuationToken,,,:,:
+,,,,,5721.0,True,2284.0,2283.0,,PunctuationToken,,,,PunctuationToken,,,/,SYM
+,,,,,5738.0,True,2287.0,2286.0,,PunctuationToken,,,,PunctuationToken,,,/,SYM
+,,,,,5767.0,True,2292.0,2291.0,,PunctuationToken,,,,PunctuationToken,,,:,:
+,,,,,5784.0,True,2295.0,2294.0,,PunctuationToken,,,,PunctuationToken,,,/,SYM
+,,,,,5801.0,True,2298.0,2297.0,,PunctuationToken,,,,PunctuationToken,,,/,SYM
+,True,0.0,,True,5818.0,True,52.0,43.0,,DateAnnotation,,,,DateAnnotation,,0.0,1 / 12 / 1994,CD
+,True,0.0,,True,5854.0,True,129.0,120.0,,DateAnnotation,,,,DateAnnotation,,0.0,1 / 12 / 1994,CD
+,True,0.0,,True,5890.0,True,180.0,171.0,,DateAnnotation,,,,DateAnnotation,,0.0,9 / 15 / 1994,CD
+,True,0.0,,True,5926.0,True,422.0,419.0,,DateAnnotation,,,,DateAnnotation,,0.0,5 - 6,CD
+,True,0.0,,True,6088.0,True,2289.0,2282.0,,DateAnnotation,,,,DateAnnotation,,0.0,1 / 13 / 94,CD
+,True,0.0,,True,6142.0,True,2300.0,2293.0,,DateAnnotation,,,,DateAnnotation,,0.0,6 / 15 / 94,CD
+,True,0.0,,True,5836.0,True,47.0,43.0,,FractionAnnotation,,,,FractionAnnotation,,0.0,1 / 12,CD
+,True,0.0,,True,5872.0,True,124.0,120.0,,FractionAnnotation,,,,FractionAnnotation,,0.0,1 / 12,CD
+,True,0.0,,True,5908.0,True,175.0,171.0,,FractionAnnotation,,,,FractionAnnotation,,0.0,9 / 15,CD
+,True,0.0,,True,5980.0,True,1546.0,1544.0,,FractionAnnotation,,,,FractionAnnotation,,0.0,1.,.
+,True,0.0,,True,6124.0,True,2286.0,2282.0,,FractionAnnotation,,,,FractionAnnotation,,0.0,1 / 13,CD
+,True,0.0,,True,6160.0,True,2297.0,2293.0,,FractionAnnotation,,,,FractionAnnotation,,0.0,6 / 15,CD
+,True,0.0,,True,5944.0,True,422.0,419.0,,RangeAnnotation,,,,RangeAnnotation,,0.0,5 - 6,CD
+,True,0.0,,True,5962.0,True,916.0,914.0,,RomanNumeralAnnotation,,,,RomanNumeralAnnotation,,0.0,XL,NNP
+,True,0.0,,True,6034.0,True,2190.0,2189.0,,RomanNumeralAnnotation,,,,RomanNumeralAnnotation,,0.0,M,NNP
+,True,0.0,,True,6016.0,True,2192.0,2191.0,,RomanNumeralAnnotation,,,,RomanNumeralAnnotation,,0.0,D,NNP
+,True,0.0,,True,6070.0,True,2227.0,2226.0,,RomanNumeralAnnotation,,,,RomanNumeralAnnotation,,0.0,M,NNP
+,True,0.0,,True,6052.0,True,2229.0,2228.0,,RomanNumeralAnnotation,,,,RomanNumeralAnnotation,,0.0,D,NNP
+,True,0.0,,True,6106.0,True,2280.0,2279.0,,RomanNumeralAnnotation,,,,RomanNumeralAnnotation,,0.0,D,NN
+,True,0.0,,True,5998.0,True,2005.0,2000.0,,MeasurementAnnotation,,,,MeasurementAnnotation,,0.0,25 mg,CD
+,,,,,6178.0,True,10.0,1.0,,Chunk,,,,Chunk,,,435791816,CD
+,,,,,6183.0,True,12.0,11.0,,Chunk,,,,Chunk,,,|,","
+,,,,,6188.0,True,18.0,13.0,,Chunk,,,,Chunk,,,CULHS,NN
+,,,,,6193.0,True,20.0,19.0,,Chunk,,,,Chunk,,,|,","
+,,,,,6198.0,True,29.0,21.0,,Chunk,,,,Chunk,,,80771325,CD
+,,,,,6203.0,True,31.0,30.0,,Chunk,,,,Chunk,,,|,","
+,,,,,6208.0,True,55.0,32.0,,Chunk,,,,Chunk,,,| 428219 | 1 / 12 / 1994 12,","
+,,,,,6213.0,True,56.0,55.0,,Chunk,,,,Chunk,,,:,:
+,,,,,6218.0,True,58.0,56.0,,Chunk,,,,Chunk,,,00,CD
+,,,,,6223.0,True,59.0,58.0,,Chunk,,,,Chunk,,,:,:
+,,,,,6228.0,True,64.0,59.0,,Chunk,,,,Chunk,,,00 AM,CD
+,,,,,6233.0,True,66.0,65.0,,Chunk,,,,Chunk,,,|,","
+,,,,,6238.0,True,118.0,67.0,,Chunk,,,,Chunk,,,Discharge Summary | Unsigned | DIS | Admission Date,NN
+,,,,,6243.0,True,143.0,120.0,,Chunk,,,,Chunk,,,1 / 12 / 1994 Report Status,CD
+,,,,,6248.0,True,153.0,145.0,,Chunk,,,,Chunk,,,Unsigned,JJ
+,,,,,6253.0,True,169.0,155.0,,Chunk,,,,Chunk,,,Discharge Date,JJ
+,,,,,6258.0,True,180.0,171.0,,Chunk,,,,Chunk,,,9 / 15 / 1994,CD
+,,,,,6263.0,True,200.0,181.0,,Chunk,,,,Chunk,,,PRINCIPAL DIAGNOSIS,JJ
+,,,,,6268.0,True,225.0,202.0,,Chunk,,,,Chunk,,,CORONARY ARTERY DISEASE,JJ
+,,,,,6273.0,True,253.0,227.0,,Chunk,,,,Chunk,,,HISTORY OF PRESENT ILLNESS,NN
+,,,,,6278.0,True,237.0,235.0,,Chunk,,,,Chunk,,,OF,IN
+,,,,,6283.0,True,253.0,238.0,,Chunk,,,,Chunk,,,PRESENT ILLNESS,JJ
+,,,,,6288.0,True,265.0,255.0,,Chunk,,,,Chunk,,,Mr. Weddel,NNP
+,,,,,6293.0,True,268.0,266.0,,Chunk,,,,Chunk,,,is,VBZ
+,,,,,6298.0,True,293.0,269.0,,Chunk,,,,Chunk,,,a 52 - year - old man status,DT
+,,,,,6303.0,True,293.0,273.0,,Chunk,,,,Chunk,,,- year - old man status,HYPH
+,,,,,6308.0,True,298.0,294.0,,Chunk,,,,Chunk,,,post,IN
+,,,,,6313.0,True,330.0,299.0,,Chunk,,,,Chunk,,,coronary artery bypass graft x1,JJ
+,,,,,6318.0,True,337.0,333.0,,Chunk,,,,Chunk,,,with,IN
+,,,,,6323.0,True,398.0,338.0,,Chunk,,,,Chunk,,,saphenous vein graft to the left anterior descending in 1976,JJ
+,,,,,6328.0,True,361.0,359.0,,Chunk,,,,Chunk,,,to,IN
+,,,,,6333.0,True,390.0,362.0,,Chunk,,,,Chunk,,,the left anterior descending,DT
+,,,,,6338.0,True,393.0,391.0,,Chunk,,,,Chunk,,,in,IN
+,,,,,6343.0,True,398.0,394.0,,Chunk,,,,Chunk,,,1976,CD
+,,,,,6348.0,True,402.0,400.0,,Chunk,,,,Chunk,,,He,PRP
+,,,,,6353.0,True,411.0,403.0,,Chunk,,,,Chunk,,,presents,VBZ
+,,,,,6358.0,True,416.0,412.0,,Chunk,,,,Chunk,,,with,IN
+,,,,,6363.0,True,454.0,417.0,,Chunk,,,,Chunk,,,a 5 - 6 week history of unstable angina,DT
+,,,,,6368.0,True,438.0,436.0,,Chunk,,,,Chunk,,,of,IN
+,,,,,6373.0,True,454.0,439.0,,Chunk,,,,Chunk,,,unstable angina,JJ
+,,,,,6378.0,True,458.0,456.0,,Chunk,,,,Chunk,,,He,PRP
+,,,,,6383.0,True,462.0,459.0,,Chunk,,,,Chunk,,,had,VBD
+,,,,,6388.0,True,465.0,463.0,,Chunk,,,,Chunk,,,an,NN
+,,,,,6393.0,True,486.0,466.0,,Chunk,,,,Chunk,,,echocardiogram which,NN
+,,,,,6398.0,True,486.0,481.0,,Chunk,,,,Chunk,,,which,WDT
+,,,,,6403.0,True,495.0,487.0,,Chunk,,,,Chunk,,,revealed,VBD
+,,,,,6408.0,True,529.0,496.0,,Chunk,,,,Chunk,,,recurrent coronary artery disease,JJ
+,,,,,6413.0,True,542.0,531.0,,Chunk,,,,Chunk,,,The patient,DT
+,,,,,6418.0,True,555.0,543.0,,Chunk,,,,Chunk,,,was referred,VBD
+,,,,,6423.0,True,558.0,556.0,,Chunk,,,,Chunk,,,to,IN
+,,,,,6428.0,True,595.0,559.0,,Chunk,,,,Chunk,,,Dr. Finstad for reoperative coronary,NNP
+,,,,,6433.0,True,574.0,571.0,,Chunk,,,,Chunk,,,for,IN
+,,,,,6438.0,True,595.0,575.0,,Chunk,,,,Chunk,,,reoperative coronary,JJ
+,,,,,6443.0,True,615.0,596.0,,Chunk,,,,Chunk,,,artery bypass graft,NN
+,,,,,6448.0,True,637.0,617.0,,Chunk,,,,Chunk,,,PAST MEDICAL HISTORY,JJ
+,,,,,6453.0,True,650.0,639.0,,Chunk,,,,Chunk,,,The patient,DT
+,,,,,6458.0,True,654.0,651.0,,Chunk,,,,Chunk,,,has,VBZ
+,,,,,6463.0,True,683.0,655.0,,Chunk,,,,Chunk,,,a history of coronary artery,DT
+,,,,,6468.0,True,683.0,668.0,,Chunk,,,,Chunk,,,coronary artery,JJ
+,,,,,6473.0,True,691.0,684.0,,Chunk,,,,Chunk,,,disease,NN
+,,,,,6478.0,True,695.0,692.0,,Chunk,,,,Chunk,,,and,CC
+,,,,,6483.0,True,723.0,696.0,,Chunk,,,,Chunk,,,peripheral vascular disease,JJ
+,,,,,6488.0,True,746.0,725.0,,Chunk,,,,Chunk,,,PAST SURGICAL HISTORY,JJ
+,,,,,6493.0,True,759.0,748.0,,Chunk,,,,Chunk,,,The patient,DT
+,,,,,6498.0,True,762.0,760.0,,Chunk,,,,Chunk,,,is,VBZ
+,,,,,6503.0,True,784.0,763.0,,Chunk,,,,Chunk,,,status post a radical,NN
+,,,,,6508.0,True,774.0,770.0,,Chunk,,,,Chunk,,,post,IN
+,,,,,6513.0,True,784.0,775.0,,Chunk,,,,Chunk,,,a radical,DT
+,,,,,6518.0,True,798.0,785.0,,Chunk,,,,Chunk,,,prostatectomy,NN
+,,,,,6523.0,True,810.0,799.0,,Chunk,,,,Chunk,,,complicated,VBN
+,,,,,6528.0,True,813.0,811.0,,Chunk,,,,Chunk,,,by,IN
+,,,,,6533.0,True,828.0,814.0,,Chunk,,,,Chunk,,,osteitis pubis,NN
+,,,,,6538.0,True,832.0,829.0,,Chunk,,,,Chunk,,,and,CC
+,,,,,6543.0,True,859.0,833.0,,Chunk,,,,Chunk,,,a urethral colonic fistula,DT
+,,,,,6548.0,True,880.0,861.0,,Chunk,,,,Chunk,,,CURRENT MEDICATIONS,JJ
+,,,,,6553.0,True,889.0,882.0,,Chunk,,,,Chunk,,,Aspirin,NNP
+,,,,,6558.0,True,891.0,890.0,,Chunk,,,,Chunk,,,",",","
+,,,,,6563.0,True,901.0,892.0,,Chunk,,,,Chunk,,,Lopressor,NNP
+,,,,,6568.0,True,903.0,902.0,,Chunk,,,,Chunk,,,",",","
+,,,,,6573.0,True,930.0,904.0,,Chunk,,,,Chunk,,,"Procardia XL , intravenous",NNP
+,,,,,6578.0,True,938.0,931.0,,Chunk,,,,Chunk,,,heparin,NN
+,,,,,6583.0,True,942.0,939.0,,Chunk,,,,Chunk,,,and,CC
+,,,,,6588.0,True,968.0,943.0,,Chunk,,,,Chunk,,,intravenous nitroglycerin,JJ
+,,,,,6593.0,True,979.0,970.0,,Chunk,,,,Chunk,,,ALLERGIES,NNS
+,,,,,6598.0,True,1004.0,981.0,,Chunk,,,,Chunk,,,No known drug allergies,DT
+,,,,,6603.0,True,1021.0,1006.0,,Chunk,,,,Chunk,,,LABORATORY DATA,NN
+,,,,,6608.0,True,1026.0,1023.0,,Chunk,,,,Chunk,,,BUN,NN
+,,,,,6613.0,True,1030.0,1027.0,,Chunk,,,,Chunk,,,and,CC
+,,,,,6618.0,True,1048.0,1031.0,,Chunk,,,,Chunk,,,creatinine 16 / 1.2,NN
+,,,,,6623.0,True,1050.0,1049.0,,Chunk,,,,Chunk,,,",",","
+,,,,,6628.0,True,1067.0,1051.0,,Chunk,,,,Chunk,,,white count 5500,JJ
+,,,,,6633.0,True,1067.0,1063.0,,Chunk,,,,Chunk,,,5500,CD
+,,,,,6638.0,True,1083.0,1070.0,,Chunk,,,,Chunk,,,hematocrit 46,NN
+,,,,,6643.0,True,1100.0,1085.0,,Chunk,,,,Chunk,,,HOSPITAL COURSE,NN
+,,,,,6648.0,True,1113.0,1102.0,,Chunk,,,,Chunk,,,The patient,DT
+,,,,,6653.0,True,1126.0,1114.0,,Chunk,,,,Chunk,,,was admitted,VBD
+,,,,,6658.0,True,1129.0,1127.0,,Chunk,,,,Chunk,,,to,IN
+,,,,,6663.0,True,1144.0,1130.0,,Chunk,,,,Chunk,,,the Cardiology,DT
+,,,,,6668.0,True,1172.0,1145.0,,Chunk,,,,Chunk,,,"Service on September , 1994",NN
+,,,,,6673.0,True,1155.0,1153.0,,Chunk,,,,Chunk,,,on,IN
+,,,,,6678.0,True,1172.0,1156.0,,Chunk,,,,Chunk,,,"September , 1994",NNP
+,,,,,6683.0,True,1174.0,1173.0,,Chunk,,,,Chunk,,,",",","
+,,,,,6688.0,True,1180.0,1175.0,,Chunk,,,,Chunk,,,where,WRB
+,,,,,6693.0,True,1183.0,1181.0,,Chunk,,,,Chunk,,,he,PRP
+,,,,,6698.0,True,1187.0,1184.0,,Chunk,,,,Chunk,,,was,VBD
+,,,,,6703.0,True,1198.0,1188.0,,Chunk,,,,Chunk,,,stabilized,VBN
+,,,,,6708.0,True,1202.0,1199.0,,Chunk,,,,Chunk,,,and,CC
+,,,,,6713.0,True,1216.0,1203.0,,Chunk,,,,Chunk,,,finally taken,RB
+,,,,,6718.0,True,1219.0,1217.0,,Chunk,,,,Chunk,,,to,IN
+,,,,,6723.0,True,1246.0,1220.0,,Chunk,,,,Chunk,,,the Operating Room on July,DT
+,,,,,6728.0,True,1241.0,1239.0,,Chunk,,,,Chunk,,,on,IN
+,,,,,6733.0,True,1246.0,1242.0,,Chunk,,,,Chunk,,,July,NNP
+,,,,,6738.0,True,1253.0,1249.0,,Chunk,,,,Chunk,,,1994,CD
+,,,,,6743.0,True,1255.0,1254.0,,Chunk,,,,Chunk,,,",",","
+,,,,,6748.0,True,1258.0,1256.0,,Chunk,,,,Chunk,,,at,IN
+,,,,,6753.0,True,1272.0,1259.0,,Chunk,,,,Chunk,,,which time he,WDT
+,,,,,6758.0,True,1272.0,1270.0,,Chunk,,,,Chunk,,,he,PRP
+,,,,,6763.0,True,1282.0,1273.0,,Chunk,,,,Chunk,,,underwent,VBD
+,,,,,6768.0,True,1312.0,1283.0,,Chunk,,,,Chunk,,,a reoperative coronary artery,DT
+,,,,,6773.0,True,1328.0,1313.0,,Chunk,,,,Chunk,,,bypass graft x3,NN
+,,,,,6778.0,True,1330.0,1329.0,,Chunk,,,,Chunk,,,",",","
+,,,,,6783.0,True,1335.0,1331.0,,Chunk,,,,Chunk,,,with,IN
+,,,,,6788.0,True,1378.0,1336.0,,Chunk,,,,Chunk,,,a left interior mammary artery to the left,DT
+,,,,,6793.0,True,1369.0,1367.0,,Chunk,,,,Chunk,,,to,IN
+,,,,,6798.0,True,1378.0,1370.0,,Chunk,,,,Chunk,,,the left,DT
+,,,,,6803.0,True,1398.0,1379.0,,Chunk,,,,Chunk,,,anterior descending,JJ
+,,,,,6808.0,True,1411.0,1400.0,,Chunk,,,,Chunk,,,The patient,DT
+,,,,,6813.0,True,1421.0,1412.0,,Chunk,,,,Chunk,,,tolerated,VBD
+,,,,,6818.0,True,1435.0,1422.0,,Chunk,,,,Chunk,,,the procedure,DT
+,,,,,6823.0,True,1440.0,1436.0,,Chunk,,,,Chunk,,,well,RB
+,,,,,6828.0,True,1448.0,1445.0,,Chunk,,,,Chunk,,,was,VBD
+,,,,,6833.0,True,1471.0,1449.0,,Chunk,,,,Chunk,,,hemodynamically stable,RB
+,,,,,6838.0,True,1474.0,1472.0,,Chunk,,,,Chunk,,,in,IN
+,,,,,6843.0,True,1483.0,1475.0,,Chunk,,,,Chunk,,,the unit,DT
+,,,,,6848.0,True,1487.0,1485.0,,Chunk,,,,Chunk,,,He,PRP
+,,,,,6853.0,True,1498.0,1488.0,,Chunk,,,,Chunk,,,was weaned,VBD
+,,,,,6858.0,True,1508.0,1499.0,,Chunk,,,,Chunk,,,overnight,JJ
+,,,,,6863.0,True,1512.0,1509.0,,Chunk,,,,Chunk,,,and,CC
+,,,,,6868.0,True,1522.0,1513.0,,Chunk,,,,Chunk,,,extubated,VBN
+,,,,,6873.0,True,1525.0,1523.0,,Chunk,,,,Chunk,,,on,IN
+,,,,,6878.0,True,1543.0,1526.0,,Chunk,,,,Chunk,,,postoperative day,JJ
+,,,,,6883.0,True,1546.0,1544.0,,Chunk,,,,Chunk,,,1.,.
+,,,,,6888.0,True,1549.0,1547.0,,Chunk,,,,Chunk,,,He,PRP
+,,,,,6893.0,True,1561.0,1550.0,,Chunk,,,,Chunk,,,was started,VBD
+,,,,,6898.0,True,1564.0,1562.0,,Chunk,,,,Chunk,,,on,IN
+,,,,,6903.0,True,1572.0,1565.0,,Chunk,,,,Chunk,,,aspirin,NN
+,,,,,6908.0,True,1576.0,1573.0,,Chunk,,,,Chunk,,,and,CC
+,,,,,6913.0,True,1586.0,1577.0,,Chunk,,,,Chunk,,,Lopressor,NNP
+,,,,,6918.0,True,1588.0,1587.0,,Chunk,,,,Chunk,,,",",","
+,,,,,6923.0,True,1595.0,1589.0,,Chunk,,,,Chunk,,,weaned,VBD
+,,,,,6928.0,True,1599.0,1596.0,,Chunk,,,,Chunk,,,off,IN
+,,,,,6933.0,True,1606.0,1600.0,,Chunk,,,,Chunk,,,his O2,PRP$
+,,,,,6938.0,True,1610.0,1607.0,,Chunk,,,,Chunk,,,and,CC
+,,,,,6943.0,True,1618.0,1611.0,,Chunk,,,,Chunk,,,started,VBN
+,,,,,6948.0,True,1621.0,1619.0,,Chunk,,,,Chunk,,,on,IN
+,,,,,6953.0,True,1631.0,1622.0,,Chunk,,,,Chunk,,,diuretics,NNS
+,,,,,6958.0,True,1635.0,1633.0,,Chunk,,,,Chunk,,,He,PRP
+,,,,,6963.0,True,1639.0,1636.0,,Chunk,,,,Chunk,,,was,VBD
+,,,,,6968.0,True,1651.0,1640.0,,Chunk,,,,Chunk,,,transferred,VBN
+,,,,,6973.0,True,1654.0,1652.0,,Chunk,,,,Chunk,,,to,IN
+,,,,,6978.0,True,1686.0,1655.0,,Chunk,,,,Chunk,,,the unit on postoperative day 1,DT
+,,,,,6983.0,True,1666.0,1664.0,,Chunk,,,,Chunk,,,on,IN
+,,,,,6988.0,True,1686.0,1667.0,,Chunk,,,,Chunk,,,postoperative day 1,JJ
+,,,,,6993.0,True,1692.0,1688.0,,Chunk,,,,Chunk,,,Once,RB
+,,,,,6998.0,True,1695.0,1693.0,,Chunk,,,,Chunk,,,on,IN
+,,,,,7003.0,True,1716.0,1696.0,,Chunk,,,,Chunk,,,the unit the patient,DT
+,,,,,7008.0,True,1716.0,1705.0,,Chunk,,,,Chunk,,,the patient,DT
+,,,,,7013.0,True,1739.0,1717.0,,Chunk,,,,Chunk,,,was gradually advanced,VBD
+,,,,,7018.0,True,1742.0,1740.0,,Chunk,,,,Chunk,,,to,IN
+,,,,,7023.0,True,1752.0,1743.0,,Chunk,,,,Chunk,,,a regular,DT
+,,,,,7028.0,True,1757.0,1753.0,,Chunk,,,,Chunk,,,diet,NN
+,,,,,7033.0,True,1761.0,1758.0,,Chunk,,,,Chunk,,,and,CC
+,,,,,7038.0,True,1768.0,1762.0,,Chunk,,,,Chunk,,,weaned,VBD
+,,,,,7043.0,True,1772.0,1769.0,,Chunk,,,,Chunk,,,off,IN
+,,,,,7048.0,True,1779.0,1773.0,,Chunk,,,,Chunk,,,his O2,PRP$
+,,,,,7053.0,True,1783.0,1781.0,,Chunk,,,,Chunk,,,He,PRP
+,,,,,7058.0,True,1796.0,1784.0,,Chunk,,,,Chunk,,,was diuresed,VBD
+,,,,,7063.0,True,1801.0,1797.0,,Chunk,,,,Chunk,,,down,RB
+,,,,,7068.0,True,1804.0,1802.0,,Chunk,,,,Chunk,,,to,IN
+,,,,,7073.0,True,1808.0,1805.0,,Chunk,,,,Chunk,,,his,PRP$
+,,,,,7078.0,True,1828.0,1809.0,,Chunk,,,,Chunk,,,preoperative weight,JJ
+,,,,,7083.0,True,1832.0,1830.0,,Chunk,,,,Chunk,,,He,PRP
+,,,,,7088.0,True,1836.0,1833.0,,Chunk,,,,Chunk,,,had,VBD
+,,,,,7093.0,True,1867.0,1837.0,,Chunk,,,,Chunk,,,a routine postoperative course,DT
+,,,,,7098.0,True,1880.0,1869.0,,Chunk,,,,Chunk,,,DISPOSITION,NN
+,,,,,7103.0,True,1903.0,1882.0,,Chunk,,,,Chunk,,,"Home on August , 1994",NN
+,,,,,7108.0,True,1889.0,1887.0,,Chunk,,,,Chunk,,,on,IN
+,,,,,7113.0,True,1903.0,1890.0,,Chunk,,,,Chunk,,,"August , 1994",NNP
+,,,,,7118.0,True,1927.0,1905.0,,Chunk,,,,Chunk,,,CONDITION ON DISCHARGE,NN
+,,,,,7123.0,True,1917.0,1915.0,,Chunk,,,,Chunk,,,ON,IN
+,,,,,7128.0,True,1927.0,1918.0,,Chunk,,,,Chunk,,,DISCHARGE,NNP
+,,,,,7133.0,True,1933.0,1929.0,,Chunk,,,,Chunk,,,Good,JJ
+,,,,,7138.0,True,1956.0,1935.0,,Chunk,,,,Chunk,,,DISCHARGE MEDICATIONS,NN
+,,,,,7143.0,True,1988.0,1958.0,,Chunk,,,,Chunk,,,Aspirin one tablet p.o. q. day,NNP
+,,,,,7148.0,True,1976.0,1966.0,,Chunk,,,,Chunk,,,one tablet,CD
+,,,,,7153.0,True,1988.0,1977.0,,Chunk,,,,Chunk,,,p.o. q. day,FW
+,,,,,7158.0,True,1999.0,1990.0,,Chunk,,,,Chunk,,,Lopressor,NNP
+,,,,,7163.0,True,2017.0,2000.0,,Chunk,,,,Chunk,,,25 mg p.o. t.i.d .,CD
+,,,,,7168.0,True,2010.0,2006.0,,Chunk,,,,Chunk,,,p.o.,FW
+,,,,,7173.0,True,2016.0,2011.0,,Chunk,,,,Chunk,,,t.i.d,FW
+,,,,,7178.0,True,2017.0,2016.0,,Chunk,,,,Chunk,,,.,.
+,,,,,7183.0,True,2018.0,2017.0,,Chunk,,,,Chunk,,,;,","
+,,,,,7188.0,True,2022.0,2019.0,,Chunk,,,,Chunk,,,and,CC
+,,,,,7193.0,True,2031.0,2023.0,,Chunk,,,,Chunk,,,Percocet,NNP
+,,,,,7198.0,True,2033.0,2032.0,,Chunk,,,,Chunk,,,p,RB
+,,,,,7203.0,True,2034.0,2033.0,,Chunk,,,,Chunk,,,.,IN
+,,,,,7208.0,True,2035.0,2034.0,,Chunk,,,,Chunk,,,r,JJ
+,,,,,7213.0,True,2036.0,2035.0,,Chunk,,,,Chunk,,,.,.
+,,,,,7218.0,True,2037.0,2036.0,,Chunk,,,,Chunk,,,n,RB
+,,,,,7223.0,True,2047.0,2039.0,,Chunk,,,,Chunk,,,FOLLOWUP,NN
+,,,,,7228.0,True,2060.0,2049.0,,Chunk,,,,Chunk,,,The patient,DT
+,,,,,7233.0,True,2072.0,2061.0,,Chunk,,,,Chunk,,,will follow,MD
+,,,,,7238.0,True,2075.0,2073.0,,Chunk,,,,Chunk,,,up,RP
+,,,,,7243.0,True,2080.0,2076.0,,Chunk,,,,Chunk,,,with,IN
+,,,,,7248.0,True,2091.0,2081.0,,Chunk,,,,Chunk,,,Dr. Mcgoff,NNP
+,,,,,7253.0,True,2095.0,2092.0,,Chunk,,,,Chunk,,,and,CC
+,,,,,7258.0,True,2100.0,2096.0,,Chunk,,,,Chunk,,,will,RB
+,,,,,7263.0,True,2108.0,2101.0,,Chunk,,,,Chunk,,,contact,VB
+,,,,,7268.0,True,2154.0,2109.0,,Chunk,,,,Chunk,,,his office for an appointment after discharge,PRP$
+,,,,,7273.0,True,2123.0,2120.0,,Chunk,,,,Chunk,,,for,IN
+,,,,,7278.0,True,2138.0,2124.0,,Chunk,,,,Chunk,,,an appointment,DT
+,,,,,7283.0,True,2144.0,2139.0,,Chunk,,,,Chunk,,,after,IN
+,,,,,7288.0,True,2154.0,2145.0,,Chunk,,,,Chunk,,,discharge,NN
+,,,,,7293.0,True,2164.0,2156.0,,Chunk,,,,Chunk,,,Dictated,VBN
+,,,,,7298.0,True,2167.0,2165.0,,Chunk,,,,Chunk,,,By,IN
+,,,,,7303.0,True,2186.0,2169.0,,Chunk,,,,Chunk,,,CLINTON H. BARRET,NNP
+,,,,,7308.0,True,2188.0,2187.0,,Chunk,,,,Chunk,,,",",","
+,,,,,7313.0,True,2192.0,2189.0,,Chunk,,,,Chunk,,,M . D,NNP
+,,,,,7318.0,True,2197.0,2194.0,,Chunk,,,,Chunk,,,TM2,NN
+,,,,,7323.0,True,2207.0,2198.0,,Chunk,,,,Chunk,,,Attending,NN
+,,,,,7328.0,True,2223.0,2209.0,,Chunk,,,,Chunk,,,DANIAL C. DELL,JJ
+,,,,,7333.0,True,2225.0,2224.0,,Chunk,,,,Chunk,,,",",","
+,,,,,7338.0,True,2229.0,2226.0,,Chunk,,,,Chunk,,,M . D,NNP
+,,,,,7343.0,True,2246.0,2231.0,,Chunk,,,,Chunk,,,SY3 RZ941 / 4768,NN
+,,,,,7348.0,True,2242.0,2241.0,,Chunk,,,,Chunk,,,/,SYM
+,,,,,7353.0,True,2246.0,2242.0,,Chunk,,,,Chunk,,,4768,CD
+,,,,,7358.0,True,2252.0,2247.0,,Chunk,,,,Chunk,,,Batch,NN
+,,,,,7363.0,True,2280.0,2254.0,,Chunk,,,,Chunk,,,8363 Index No. K1QM0GBOY D,CD
+,,,,,7368.0,True,2281.0,2280.0,,Chunk,,,,Chunk,,,:,:
+,,,,,7373.0,True,2289.0,2282.0,,Chunk,,,,Chunk,,,1 / 13 / 94,CD
+,,,,,7378.0,True,2291.0,2290.0,,Chunk,,,,Chunk,,,T,NN
+,,,,,7383.0,True,2292.0,2291.0,,Chunk,,,,Chunk,,,:,:
+,,,,,7388.0,True,2300.0,2293.0,,Chunk,,,,Chunk,,,6 / 15 / 94,CD
+373873005,True,0.0,C0013227,True,7987.0,False,880.0,869.0,Pharmaceutical Preparations,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,MEDICATIONS,NNS
+105903003,True,0.0,C0013227,True,7977.0,False,880.0,869.0,Pharmaceutical Preparations,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,MEDICATIONS,NNS
+410942007,True,0.0,C0013227,True,7967.0,False,880.0,869.0,Pharmaceutical Preparations,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,MEDICATIONS,NNS
+1191,True,0.0,C0004057,True,8401.0,False,889.0,882.0,Aspirin,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,Aspirin,NNP
+7947003,True,0.0,C0004057,True,8451.0,False,889.0,882.0,Aspirin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,Aspirin,NNP
+7947003,True,0.0,C0004057,True,8421.0,False,889.0,882.0,Aspirin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,Aspirin,NNP
+387458008,True,0.0,C0004057,True,8441.0,False,889.0,882.0,Aspirin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,Aspirin,NNP
+387458008,True,0.0,C0004057,True,8411.0,False,889.0,882.0,Aspirin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,Aspirin,NNP
+1191,True,0.0,C0004057,True,8431.0,False,889.0,882.0,Aspirin,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,Aspirin,NNP
+203344,True,0.0,C0700776,True,8032.0,False,901.0,892.0,Lopressor,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,Lopressor,NNP
+203344,True,0.0,C0700776,True,8042.0,False,901.0,892.0,Lopressor,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,Lopressor,NNP
+134409,True,0.0,C0524665,True,7825.0,False,916.0,904.0,Procardia XL,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,Procardia XL,NNP
+134409,True,0.0,C0524665,True,7815.0,False,916.0,904.0,Procardia XL,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,Procardia XL,NNP
+203423,True,0.0,C0700861,True,8673.0,False,913.0,904.0,Procardia,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,Procardia,NNP
+203423,True,0.0,C0700861,True,8663.0,False,913.0,904.0,Procardia,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,Procardia,NNP
+372877000,True,0.0,C0019134,True,8529.0,False,938.0,931.0,Heparin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,heparin,NN
+372877000,True,0.0,C0019134,True,8609.0,False,938.0,931.0,Heparin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,heparin,NN
+5224,True,0.0,C0019134,True,8499.0,False,938.0,931.0,Heparin,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,heparin,NN
+5224,True,0.0,C0019134,True,8579.0,False,938.0,931.0,Heparin,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,heparin,NN
+96382006,True,0.0,C0019134,True,8549.0,False,938.0,931.0,Heparin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T123,0.0,heparin,NN
+84812008,True,0.0,C0019134,True,8519.0,False,938.0,931.0,Heparin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,heparin,NN
+84812008,True,0.0,C0019134,True,8599.0,False,938.0,931.0,Heparin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,heparin,NN
+372877000,True,0.0,C0019134,True,8569.0,False,938.0,931.0,Heparin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T123,0.0,heparin,NN
+5224,True,0.0,C0019134,True,8539.0,False,938.0,931.0,Heparin,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T123,0.0,heparin,NN
+96382006,True,0.0,C0019134,True,8509.0,False,938.0,931.0,Heparin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,heparin,NN
+96382006,True,0.0,C0019134,True,8589.0,False,938.0,931.0,Heparin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,heparin,NN
+84812008,True,0.0,C0019134,True,8559.0,False,938.0,931.0,Heparin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T123,0.0,heparin,NN
+387404004,True,0.0,C0017887,True,8289.0,False,968.0,955.0,Nitroglycerin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,nitroglycerin,NN
+387404004,True,0.0,C0017887,True,8259.0,False,968.0,955.0,Nitroglycerin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,nitroglycerin,NN
+4917,True,0.0,C0017887,True,8279.0,False,968.0,955.0,Nitroglycerin,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,nitroglycerin,NN
+4917,True,0.0,C0017887,True,8249.0,False,968.0,955.0,Nitroglycerin,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,nitroglycerin,NN
+71759000,True,0.0,C0017887,True,8299.0,False,968.0,955.0,Nitroglycerin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,nitroglycerin,NN
+71759000,True,0.0,C0017887,True,8269.0,False,968.0,955.0,Nitroglycerin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,nitroglycerin,NN
+410942007,True,0.0,C0013227,True,7685.0,True,994.0,990.0,Pharmaceutical Preparations,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,drug,NN
+373873005,True,0.0,C0013227,True,7705.0,True,994.0,990.0,Pharmaceutical Preparations,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,drug,NN
+105903003,True,0.0,C0013227,True,7695.0,True,994.0,990.0,Pharmaceutical Preparations,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,drug,NN
+72341003,True,0.0,C0600137,True,7587.0,False,1026.0,1023.0,Blood Urea Nitrogen,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T197,0.0,BUN,NN
+72341003,True,0.0,C0600137,True,7577.0,False,1026.0,1023.0,Blood Urea Nitrogen,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T123,0.0,BUN,NN
+15373003,True,0.0,C0010294,True,7457.0,False,1041.0,1031.0,Creatinine,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,creatinine,NN
+15373003,True,0.0,C0010294,True,7477.0,False,1041.0,1031.0,Creatinine,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T123,0.0,creatinine,NN
+2913,True,0.0,C0010294,True,7447.0,False,1041.0,1031.0,Creatinine,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,creatinine,NN
+2913,True,0.0,C0010294,True,7467.0,False,1041.0,1031.0,Creatinine,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T123,0.0,creatinine,NN
+7947003,True,0.0,C0004057,True,7889.0,False,1572.0,1565.0,Aspirin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,aspirin,NN
+387458008,True,0.0,C0004057,True,7909.0,False,1572.0,1565.0,Aspirin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,aspirin,NN
+387458008,True,0.0,C0004057,True,7879.0,False,1572.0,1565.0,Aspirin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,aspirin,NN
+1191,True,0.0,C0004057,True,7899.0,False,1572.0,1565.0,Aspirin,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,aspirin,NN
+1191,True,0.0,C0004057,True,7869.0,False,1572.0,1565.0,Aspirin,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,aspirin,NN
+7947003,True,0.0,C0004057,True,7919.0,False,1572.0,1565.0,Aspirin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,aspirin,NN
+203344,True,0.0,C0700776,True,7641.0,False,1586.0,1577.0,Lopressor,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,Lopressor,NNP
+203344,True,0.0,C0700776,True,7631.0,False,1586.0,1577.0,Lopressor,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,Lopressor,NNP
+30492008,True,0.0,C0012798,True,8357.0,False,1631.0,1622.0,Diuretics,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,diuretics,NNS
+372695000,True,0.0,C0012798,True,8347.0,False,1631.0,1622.0,Diuretics,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,diuretics,NNS
+105903003,True,0.0,C0013227,True,7760.0,False,1956.0,1945.0,Pharmaceutical Preparations,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,MEDICATIONS,NNS
+410942007,True,0.0,C0013227,True,7750.0,False,1956.0,1945.0,Pharmaceutical Preparations,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,MEDICATIONS,NNS
+373873005,True,0.0,C0013227,True,7770.0,False,1956.0,1945.0,Pharmaceutical Preparations,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,MEDICATIONS,NNS
+387458008,True,0.0,C0004057,True,8161.0,False,1965.0,1958.0,Aspirin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,Aspirin,NNP
+1191,True,0.0,C0004057,True,8181.0,False,1965.0,1958.0,Aspirin,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,Aspirin,NNP
+1191,True,0.0,C0004057,True,8151.0,False,1965.0,1958.0,Aspirin,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,Aspirin,NNP
+7947003,True,0.0,C0004057,True,8201.0,False,1965.0,1958.0,Aspirin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,Aspirin,NNP
+7947003,True,0.0,C0004057,True,8171.0,False,1965.0,1958.0,Aspirin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,Aspirin,NNP
+387458008,True,0.0,C0004057,True,8191.0,False,1965.0,1958.0,Aspirin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,Aspirin,NNP
+385055001,True,0.0,C0039225,True,8096.0,False,1976.0,1970.0,Tablet Dosage Form,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T122,0.0,tablet,NN
+10311,True,0.0,C0039225,True,8086.0,False,1976.0,1970.0,Tablet Dosage Form,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T122,0.0,tablet,NN
+46992007,True,0.0,C0039225,True,8106.0,False,1976.0,1970.0,Tablet Dosage Form,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T122,0.0,tablet,NN
+203344,True,0.0,C0700776,True,7393.0,False,1999.0,1990.0,Lopressor,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,Lopressor,NNP
+203344,True,0.0,C0700776,True,7403.0,False,1999.0,1990.0,Lopressor,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,Lopressor,NNP
+42844,True,0.0,C0086787,True,7523.0,False,2031.0,2023.0,Percocet,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,Percocet,NNP
+42844,True,0.0,C0086787,True,7533.0,False,2031.0,2023.0,Percocet,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,Percocet,NNP
+700489002,True,0.0,C1970187,True,9080.0,False,101.0,98.0,"Deafness, Sensorineural, And Male Infertility",UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,DIS,NN
+64572001,True,0.0,C0012634,True,9090.0,False,101.0,98.0,Disease,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,DIS,NN
+414024009,True,0.0,C1956346,True,9365.0,False,225.0,202.0,Coronary Artery Disease,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,CORONARY ARTERY DISEASE,JJ
+53741008,True,0.0,C1956346,True,9355.0,False,225.0,202.0,Coronary Artery Disease,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,CORONARY ARTERY DISEASE,JJ
+39823006,True,0.0,C0852949,True,9520.0,False,225.0,211.0,Arteriopathic disease,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,ARTERY DISEASE,NN
+359557001,True,0.0,C0852949,True,9530.0,False,225.0,211.0,Arteriopathic disease,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,ARTERY DISEASE,NN
+64572001,True,0.0,C0012634,True,8772.0,False,225.0,218.0,Disease,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,DISEASE,NN
+51742006,True,0.0,C0751437,True,9179.0,False,379.0,371.0,Adenohypophyseal Diseases,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,anterior,JJ
+25106000,True,0.0,C0002965,True,8727.0,True,454.0,439.0,"Angina, Unstable",UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,unstable angina,JJ
+4557003,True,0.0,C0002965,True,8717.0,True,454.0,439.0,"Angina, Unstable",UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,unstable angina,JJ
+53741008,True,0.0,C1956346,True,9025.0,False,529.0,506.0,Coronary Artery Disease,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,coronary artery disease,JJ
+414024009,True,0.0,C1956346,True,9035.0,False,529.0,506.0,Coronary Artery Disease,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,coronary artery disease,JJ
+359557001,True,0.0,C0852949,True,8936.0,False,529.0,515.0,Arteriopathic disease,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,artery disease,NN
+39823006,True,0.0,C0852949,True,8926.0,False,529.0,515.0,Arteriopathic disease,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,artery disease,NN
+64572001,True,0.0,C0012634,True,9575.0,False,529.0,522.0,Disease,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,disease,NN
+64572001,True,0.0,C0012634,True,9223.0,False,691.0,684.0,Disease,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,1.0,disease,NN
+399957001,True,0.0,C0085096,True,9619.0,False,723.0,696.0,Peripheral Vascular Diseases,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,peripheral vascular disease,JJ
+400047006,True,0.0,C0085096,True,9629.0,False,723.0,696.0,Peripheral Vascular Diseases,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,peripheral vascular disease,JJ
+27550009,True,0.0,C0042373,True,9311.0,False,723.0,707.0,Vascular Diseases,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,1.0,vascular disease,JJ
+64572001,True,0.0,C0012634,True,9267.0,False,723.0,716.0,Disease,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,disease,NN
+75564005,True,0.0,C0221010,True,8882.0,False,828.0,814.0,Osteitis of pelvic region,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,osteitis pubis,NN
+274144001,True,0.0,C0029400,True,9475.0,False,822.0,814.0,Osteitis,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,osteitis,NN
+44462005,True,0.0,C0029400,True,9465.0,False,822.0,814.0,Osteitis,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,osteitis,NN
+197250003,True,0.0,C0341365,True,8981.0,False,859.0,844.0,Colonic fistula,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T190,0.0,colonic fistula,JJ
+419351001,True,0.0,C0016169,True,8816.0,False,859.0,852.0,pathologic fistula,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T190,0.0,fistula,NN
+118622000,True,0.0,C0016169,True,8836.0,False,859.0,852.0,pathologic fistula,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T190,0.0,fistula,NN
+428794004,True,0.0,C0016169,True,8826.0,False,859.0,852.0,pathologic fistula,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T190,0.0,fistula,NN
+416093006,True,0.0,C0013182,True,9410.0,True,1004.0,990.0,Drug Allergy,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,drug allergies,NN
+416098002,True,0.0,C0013182,True,9420.0,True,1004.0,990.0,Drug Allergy,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,drug allergies,NN
+51742006,True,0.0,C0751437,True,9135.0,False,1387.0,1379.0,Adenohypophyseal Diseases,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,anterior,JJ
+64572001,True,0.0,C0012634,True,9674.0,False,1914.0,1905.0,Disease,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,CONDITION,NN
+410546004,True,0.0,C1444662,True,9847.0,False,101.0,98.0,Discontinued,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,DIS,NN
+308552006,True,0.0,C0586177,True,10181.0,False,143.0,130.0,Report status,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,Report Status,NN
+439401001,True,0.0,C0011900,True,10353.0,False,200.0,191.0,Diagnosis,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,DIAGNOSIS,NN
+392521001,True,0.0,C0262926,True,9998.0,False,234.0,227.0,Medical History,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,HISTORY,NN
+39104002,True,0.0,C0221423,True,10396.0,False,253.0,246.0,Illness (finding),UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,ILLNESS,NN
+392521001,True,0.0,C0262926,True,9718.0,False,435.0,428.0,Medical History,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,history,NN
+263922001,True,0.0,C0443343,True,9804.0,False,447.0,439.0,Unstable status,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,unstable,JJ
+225566008,True,0.0,C0002962,True,10051.0,False,454.0,448.0,Angina Pectoris,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,angina,NN
+194828000,True,0.0,C0002962,True,10041.0,False,454.0,448.0,Angina Pectoris,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,angina,NN
+417662000,True,0.0,C0455458,True,10224.0,False,637.0,617.0,PMH - past medical history,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,PAST MEDICAL HISTORY,JJ
+392521001,True,0.0,C0262926,True,10095.0,False,637.0,630.0,Medical History,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,HISTORY,NN
+392521001,True,0.0,C0262926,True,10310.0,False,664.0,657.0,Medical History,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,history,NN
+392521001,True,0.0,C0262926,True,10267.0,False,746.0,739.0,Medical History,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,HISTORY,NN
+418634005,True,0.0,C0020517,True,9890.0,False,979.0,970.0,Hypersensitivity,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T046,0.0,ALLERGIES,NNS
+421961002,True,0.0,C0020517,True,9900.0,False,979.0,970.0,Hypersensitivity,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T046,0.0,ALLERGIES,NNS
+421961002,True,0.0,C0020517,True,9954.0,True,1004.0,995.0,Hypersensitivity,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T046,0.0,allergies,NNS
+418634005,True,0.0,C0020517,True,9944.0,True,1004.0,995.0,Hypersensitivity,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T046,0.0,allergies,NNS
+224930009,True,0.0,C0557854,True,9761.0,False,1152.0,1145.0,Services,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T057,0.0,Service,NN
+301459008,True,0.0,C0578150,True,10138.0,False,1471.0,1449.0,Hemodynamically stable,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,hemodynamically stable,RB
+90205004,True,0.0,C0010055,True,10914.0,False,321.0,299.0,Coronary Artery Bypass Surgery,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,coronary artery bypass,JJ
+67166004,True,0.0,C0010055,True,10904.0,False,321.0,299.0,Coronary Artery Bypass Surgery,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,coronary artery bypass,JJ
+232717009,True,0.0,C0010055,True,10924.0,False,321.0,299.0,Coronary Artery Bypass Surgery,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,coronary artery bypass,JJ
+34518000,True,0.0,C0189695,True,10688.0,False,327.0,308.0,Anastomosis of artery with bypass graft (procedure),UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,artery bypass graft,NN
+116360008,True,0.0,C0189695,True,10698.0,False,327.0,308.0,Anastomosis of artery with bypass graft (procedure),UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,artery bypass graft,NN
+48537004,True,0.0,C0185098,True,10967.0,False,327.0,315.0,Bypass graft,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,bypass graft,NN
+88834003,True,0.0,C0741847,True,10647.0,False,321.0,315.0,Bypass,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,bypass,NN
+40701008,True,0.0,C0013516,True,10863.0,False,480.0,466.0,Echocardiography,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T060,0.0,echocardiogram,NN
+116360008,True,0.0,C0189695,True,10564.0,False,615.0,596.0,Anastomosis of artery with bypass graft (procedure),UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,artery bypass graft,NN
+34518000,True,0.0,C0189695,True,10554.0,False,615.0,596.0,Anastomosis of artery with bypass graft (procedure),UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,artery bypass graft,NN
+48537004,True,0.0,C0185098,True,11008.0,False,615.0,603.0,Bypass graft,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,bypass graft,NN
+88834003,True,0.0,C0741847,True,10740.0,False,609.0,603.0,Bypass,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,bypass,NN
+90470006,True,0.0,C0033573,True,10781.0,False,798.0,785.0,Prostatectomy,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,prostatectomy,NN
+269814003,True,0.0,C0022885,True,10501.0,False,1016.0,1006.0,Laboratory Procedures,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T059,0.0,LABORATORY,NN
+108252007,True,0.0,C0022885,True,10491.0,False,1016.0,1006.0,Laboratory Procedures,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T059,0.0,LABORATORY,NN
+15220000,True,0.0,C0022885,True,10511.0,False,1016.0,1006.0,Laboratory Procedures,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T059,0.0,LABORATORY,NN
+250623007,True,0.0,C0005845,True,10449.0,False,1026.0,1023.0,Blood urea nitrogen measurement,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T059,0.0,BUN,NN
+105011006,True,0.0,C0005845,True,10439.0,False,1026.0,1023.0,Blood urea nitrogen measurement,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T059,0.0,BUN,NN
+28317006,True,0.0,C0018935,True,11090.0,False,1080.0,1070.0,Hematocrit procedure,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T059,0.0,hematocrit,NN
+250231008,True,0.0,C0018935,True,11100.0,False,1080.0,1070.0,Hematocrit procedure,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T059,0.0,hematocrit,NN
+48537004,True,0.0,C0185098,True,11049.0,False,1325.0,1313.0,Bypass graft,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,bypass graft,NN
+88834003,True,0.0,C0741847,True,10822.0,False,1319.0,1313.0,Bypass,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,bypass,NN
+71388002,True,0.0,C0184661,True,11142.0,False,1435.0,1426.0,Interventional procedure,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,procedure,NN
+39857003,True,0.0,C1305866,True,10606.0,False,1828.0,1822.0,Weighing patient,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T060,0.0,weight,NN
+41801008,True,0.0,C0205042,True,11953.0,False,217.0,202.0,Coronary artery,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,CORONARY ARTERY,JJ
+80891009,True,0.0,C0018787,True,11579.0,False,210.0,202.0,Heart,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,CORONARY,JJ
+51114001,True,0.0,C0003842,True,12168.0,False,217.0,211.0,Arteries,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,ARTERY,NN
+41801008,True,0.0,C0205042,True,12202.0,False,314.0,299.0,Coronary artery,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,coronary artery,JJ
+80891009,True,0.0,C0018787,True,11817.0,False,307.0,299.0,Heart,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,coronary,JJ
+51114001,True,0.0,C0003842,True,11183.0,False,314.0,308.0,Arteries,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,artery,NN
+24486003,True,0.0,C0332835,True,11681.0,False,327.0,322.0,Transplanted tissue,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T024,0.0,graft,NN
+312140007,True,0.0,C0729538,True,11251.0,False,358.0,338.0,Saphenous vein graft,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,saphenous vein graft,JJ
+60734001,True,0.0,C0036186,True,11510.0,False,352.0,338.0,Saphenous Vein,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,saphenous vein,JJ
+362072009,True,0.0,C0036186,True,11500.0,False,352.0,338.0,Saphenous Vein,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,saphenous vein,JJ
+29092000,True,0.0,C0042449,True,11613.0,False,352.0,348.0,Veins,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,vein,NN
+24486003,True,0.0,C0332835,True,11466.0,False,358.0,353.0,Transplanted tissue,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T024,0.0,graft,NN
+41801008,True,0.0,C0205042,True,11783.0,False,521.0,506.0,Coronary artery,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,coronary artery,JJ
+80891009,True,0.0,C0018787,True,11364.0,False,514.0,506.0,Heart,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,coronary,JJ
+51114001,True,0.0,C0003842,True,11885.0,False,521.0,515.0,Arteries,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,artery,NN
+80891009,True,0.0,C0018787,True,11330.0,False,595.0,587.0,Heart,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,coronary,JJ
+51114001,True,0.0,C0003842,True,11919.0,False,602.0,596.0,Arteries,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,artery,NN
+24486003,True,0.0,C0332835,True,12021.0,False,615.0,610.0,Transplanted tissue,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T024,0.0,graft,NN
+41801008,True,0.0,C0205042,True,11715.0,False,683.0,668.0,Coronary artery,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,coronary artery,JJ
+80891009,True,0.0,C0018787,True,12089.0,False,676.0,668.0,Heart,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,coronary,JJ
+51114001,True,0.0,C0003842,True,11545.0,False,683.0,677.0,Arteries,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,artery,NN
+59820001,True,0.0,C0005847,True,11987.0,False,715.0,707.0,Blood Vessel,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,vascular,JJ
+66040006,True,0.0,C0034014,True,11647.0,False,828.0,823.0,Bone structure of pubis,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,pubis,NN
+13648007,True,0.0,C0041967,True,12133.0,False,843.0,835.0,Urethra,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,urethral,JJ
+264255005,True,0.0,C0041967,True,12123.0,False,843.0,835.0,Urethra,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,urethral,JJ
+71854001,True,0.0,C0009368,True,11285.0,False,851.0,844.0,Colon structure (body structure),UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,colonic,JJ
+263977005,True,0.0,C0009368,True,11295.0,False,851.0,844.0,Colon structure (body structure),UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,colonic,JJ
+41801008,True,0.0,C0205042,True,11217.0,False,1312.0,1297.0,Coronary artery,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,coronary artery,JJ
+80891009,True,0.0,C0018787,True,11851.0,False,1305.0,1297.0,Heart,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,coronary,JJ
+51114001,True,0.0,C0003842,True,11398.0,False,1312.0,1306.0,Arteries,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,artery,NN
+24486003,True,0.0,C0332835,True,11749.0,False,1325.0,1320.0,Transplanted tissue,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T024,0.0,graft,NN
+76752008,True,0.0,C0006141,True,12055.0,False,1359.0,1352.0,Breast,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,mammary,JJ
+51114001,True,0.0,C0003842,True,11432.0,False,1366.0,1360.0,Arteries,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,artery,NN
+,,,,,12236.0,True,119.0,1.0,,ConllDependencyNode,,,,ConllDependencyNode,,,435791816 | CULHS | 80771325 | | 428219 | 1 / 12 / 1994 12 : 00 : 00 AM | Discharge Summary | Unsigned | DIS | Admission Date :,CD
+,,,,,12250.0,True,10.0,1.0,,ConllDependencyNode,,,,ConllDependencyNode,,,435791816,CD
+,,,,,12264.0,True,12.0,11.0,,ConllDependencyNode,,,,ConllDependencyNode,,,|,","
+,,,,,12278.0,True,18.0,13.0,,ConllDependencyNode,,,,ConllDependencyNode,,,CULHS,NN
+,,,,,12292.0,True,20.0,19.0,,ConllDependencyNode,,,,ConllDependencyNode,,,|,","
+,,,,,12306.0,True,29.0,21.0,,ConllDependencyNode,,,,ConllDependencyNode,,,80771325,CD
+,,,,,12320.0,True,31.0,30.0,,ConllDependencyNode,,,,ConllDependencyNode,,,|,","
+,,,,,12334.0,True,33.0,32.0,,ConllDependencyNode,,,,ConllDependencyNode,,,|,","
+,,,,,12348.0,True,40.0,34.0,,ConllDependencyNode,,,,ConllDependencyNode,,,428219,CD
+,,,,,12362.0,True,42.0,41.0,,ConllDependencyNode,,,,ConllDependencyNode,,,|,","
+,,,,,12376.0,True,44.0,43.0,,ConllDependencyNode,,,,ConllDependencyNode,,,1,CD
+,,,,,12390.0,True,45.0,44.0,,ConllDependencyNode,,,,ConllDependencyNode,,,/,SYM
+,,,,,12404.0,True,47.0,45.0,,ConllDependencyNode,,,,ConllDependencyNode,,,12,CD
+,,,,,12418.0,True,48.0,47.0,,ConllDependencyNode,,,,ConllDependencyNode,,,/,SYM
+,,,,,12432.0,True,52.0,48.0,,ConllDependencyNode,,,,ConllDependencyNode,,,1994,CD
+,,,,,12446.0,True,55.0,53.0,,ConllDependencyNode,,,,ConllDependencyNode,,,12,CD
+,,,,,12460.0,True,56.0,55.0,,ConllDependencyNode,,,,ConllDependencyNode,,,:,:
+,,,,,12474.0,True,58.0,56.0,,ConllDependencyNode,,,,ConllDependencyNode,,,00,CD
+,,,,,12488.0,True,59.0,58.0,,ConllDependencyNode,,,,ConllDependencyNode,,,:,:
+,,,,,12502.0,True,61.0,59.0,,ConllDependencyNode,,,,ConllDependencyNode,,,00,CD
+,,,,,12516.0,True,64.0,62.0,,ConllDependencyNode,,,,ConllDependencyNode,,,AM,NN
+,,,,,12530.0,True,66.0,65.0,,ConllDependencyNode,,,,ConllDependencyNode,,,|,","
+,,,,,12544.0,True,76.0,67.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Discharge,NN
+,,,,,12558.0,True,84.0,77.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Summary,NN
+,,,,,12572.0,True,86.0,85.0,,ConllDependencyNode,,,,ConllDependencyNode,,,|,","
+,,,,,12586.0,True,95.0,87.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Unsigned,JJ
+,,,,,12600.0,True,97.0,96.0,,ConllDependencyNode,,,,ConllDependencyNode,,,|,","
+,,,,,12614.0,True,101.0,98.0,,ConllDependencyNode,,,,ConllDependencyNode,,,DIS,NN
+,,,,,12628.0,True,103.0,102.0,,ConllDependencyNode,,,,ConllDependencyNode,,,|,","
+,,,,,12642.0,True,113.0,104.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Admission,NN
+,,,,,12656.0,True,118.0,114.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Date,NN
+,,,,,12670.0,True,119.0,118.0,,ConllDependencyNode,,,,ConllDependencyNode,,,:,:
+,,,,,12684.0,True,144.0,120.0,,ConllDependencyNode,,,,ConllDependencyNode,,,1 / 12 / 1994 Report Status :,CD
+,,,,,12698.0,True,121.0,120.0,,ConllDependencyNode,,,,ConllDependencyNode,,,1,CD
+,,,,,12712.0,True,122.0,121.0,,ConllDependencyNode,,,,ConllDependencyNode,,,/,SYM
+,,,,,12726.0,True,124.0,122.0,,ConllDependencyNode,,,,ConllDependencyNode,,,12,CD
+,,,,,12740.0,True,125.0,124.0,,ConllDependencyNode,,,,ConllDependencyNode,,,/,SYM
+,,,,,12754.0,True,129.0,125.0,,ConllDependencyNode,,,,ConllDependencyNode,,,1994,CD
+,,,,,12768.0,True,136.0,130.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Report,NN
+,,,,,12782.0,True,143.0,137.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Status,NN
+,,,,,12796.0,True,144.0,143.0,,ConllDependencyNode,,,,ConllDependencyNode,,,:,:
+,,,,,12810.0,True,153.0,145.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Unsigned,JJ
+,,,,,12824.0,True,153.0,145.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Unsigned,JJ
+,,,,,12838.0,True,170.0,155.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Discharge Date :,JJ
+,,,,,12852.0,True,164.0,155.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Discharge,JJ
+,,,,,12866.0,True,169.0,165.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Date,NN
+,,,,,12880.0,True,170.0,169.0,,ConllDependencyNode,,,,ConllDependencyNode,,,:,:
+,,,,,12894.0,True,180.0,171.0,,ConllDependencyNode,,,,ConllDependencyNode,,,9 / 15 / 1994,CD
+,,,,,12908.0,True,172.0,171.0,,ConllDependencyNode,,,,ConllDependencyNode,,,9,CD
+,,,,,12922.0,True,173.0,172.0,,ConllDependencyNode,,,,ConllDependencyNode,,,/,SYM
+,,,,,12936.0,True,175.0,173.0,,ConllDependencyNode,,,,ConllDependencyNode,,,15,CD
+,,,,,12950.0,True,176.0,175.0,,ConllDependencyNode,,,,ConllDependencyNode,,,/,SYM
+,,,,,12964.0,True,180.0,176.0,,ConllDependencyNode,,,,ConllDependencyNode,,,1994,CD
+,,,,,12978.0,True,201.0,181.0,,ConllDependencyNode,,,,ConllDependencyNode,,,PRINCIPAL DIAGNOSIS :,JJ
+,,,,,12992.0,True,190.0,181.0,,ConllDependencyNode,,,,ConllDependencyNode,,,PRINCIPAL,JJ
+,,,,,13006.0,True,200.0,191.0,,ConllDependencyNode,,,,ConllDependencyNode,,,DIAGNOSIS,NN
+,,,,,13020.0,True,201.0,200.0,,ConllDependencyNode,,,,ConllDependencyNode,,,:,:
+,,,,,13034.0,True,226.0,202.0,,ConllDependencyNode,,,,ConllDependencyNode,,,CORONARY ARTERY DISEASE .,JJ
+,,,,,13048.0,True,210.0,202.0,,ConllDependencyNode,,,,ConllDependencyNode,,,CORONARY,JJ
+,,,,,13062.0,True,217.0,211.0,,ConllDependencyNode,,,,ConllDependencyNode,,,ARTERY,NN
+,,,,,13076.0,True,225.0,218.0,,ConllDependencyNode,,,,ConllDependencyNode,,,DISEASE,NN
+,,,,,13090.0,True,226.0,225.0,,ConllDependencyNode,,,,ConllDependencyNode,,,.,.
+,,,,,13104.0,True,254.0,227.0,,ConllDependencyNode,,,,ConllDependencyNode,,,HISTORY OF PRESENT ILLNESS :,NN
+,,,,,13118.0,True,234.0,227.0,,ConllDependencyNode,,,,ConllDependencyNode,,,HISTORY,NN
+,,,,,13132.0,True,237.0,235.0,,ConllDependencyNode,,,,ConllDependencyNode,,,OF,IN
+,,,,,13146.0,True,245.0,238.0,,ConllDependencyNode,,,,ConllDependencyNode,,,PRESENT,JJ
+,,,,,13160.0,True,253.0,246.0,,ConllDependencyNode,,,,ConllDependencyNode,,,ILLNESS,NN
+,,,,,13174.0,True,254.0,253.0,,ConllDependencyNode,,,,ConllDependencyNode,,,:,:
+,,,,,13188.0,True,293.0,255.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Mr. Weddel is a 52 - year - old man status,NNP
+,,,,,13202.0,True,258.0,255.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Mr.,NNP
+,,,,,13216.0,True,265.0,259.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Weddel,NNP
+,,,,,13230.0,True,268.0,266.0,,ConllDependencyNode,,,,ConllDependencyNode,,,is,VBZ
+,,,,,13244.0,True,270.0,269.0,,ConllDependencyNode,,,,ConllDependencyNode,,,a,DT
+,,,,,13258.0,True,273.0,271.0,,ConllDependencyNode,,,,ConllDependencyNode,,,52,CD
+,,,,,13272.0,True,274.0,273.0,,ConllDependencyNode,,,,ConllDependencyNode,,,-,HYPH
+,,,,,13286.0,True,278.0,274.0,,ConllDependencyNode,,,,ConllDependencyNode,,,year,NN
+,,,,,13300.0,True,279.0,278.0,,ConllDependencyNode,,,,ConllDependencyNode,,,-,HYPH
+,,,,,13314.0,True,282.0,279.0,,ConllDependencyNode,,,,ConllDependencyNode,,,old,JJ
+,,,,,13328.0,True,286.0,283.0,,ConllDependencyNode,,,,ConllDependencyNode,,,man,NN
+,,,,,13342.0,True,293.0,287.0,,ConllDependencyNode,,,,ConllDependencyNode,,,status,NN
+,,,,,13356.0,True,332.0,294.0,,ConllDependencyNode,,,,ConllDependencyNode,,,"post coronary artery bypass graft x1 ,",IN
+,,,,,13370.0,True,298.0,294.0,,ConllDependencyNode,,,,ConllDependencyNode,,,post,IN
+,,,,,13384.0,True,307.0,299.0,,ConllDependencyNode,,,,ConllDependencyNode,,,coronary,JJ
+,,,,,13398.0,True,314.0,308.0,,ConllDependencyNode,,,,ConllDependencyNode,,,artery,NN
+,,,,,13412.0,True,321.0,315.0,,ConllDependencyNode,,,,ConllDependencyNode,,,bypass,NN
+,,,,,13426.0,True,327.0,322.0,,ConllDependencyNode,,,,ConllDependencyNode,,,graft,NN
+,,,,,13440.0,True,330.0,328.0,,ConllDependencyNode,,,,ConllDependencyNode,,,x1,NN
+,,,,,13454.0,True,332.0,331.0,,ConllDependencyNode,,,,ConllDependencyNode,,,",",","
+,,,,,13468.0,True,399.0,333.0,,ConllDependencyNode,,,,ConllDependencyNode,,,with saphenous vein graft to the left anterior descending in 1976 .,IN
+,,,,,13482.0,True,337.0,333.0,,ConllDependencyNode,,,,ConllDependencyNode,,,with,IN
+,,,,,13496.0,True,347.0,338.0,,ConllDependencyNode,,,,ConllDependencyNode,,,saphenous,JJ
+,,,,,13510.0,True,352.0,348.0,,ConllDependencyNode,,,,ConllDependencyNode,,,vein,NN
+,,,,,13524.0,True,358.0,353.0,,ConllDependencyNode,,,,ConllDependencyNode,,,graft,NN
+,,,,,13538.0,True,361.0,359.0,,ConllDependencyNode,,,,ConllDependencyNode,,,to,IN
+,,,,,13552.0,True,365.0,362.0,,ConllDependencyNode,,,,ConllDependencyNode,,,the,DT
+,,,,,13566.0,True,370.0,366.0,,ConllDependencyNode,,,,ConllDependencyNode,,,left,JJ
+,,,,,13580.0,True,379.0,371.0,,ConllDependencyNode,,,,ConllDependencyNode,,,anterior,JJ
+,,,,,13594.0,True,390.0,380.0,,ConllDependencyNode,,,,ConllDependencyNode,,,descending,VBG
+,,,,,13608.0,True,393.0,391.0,,ConllDependencyNode,,,,ConllDependencyNode,,,in,IN
+,,,,,13622.0,True,398.0,394.0,,ConllDependencyNode,,,,ConllDependencyNode,,,1976,CD
+,,,,,13636.0,True,399.0,398.0,,ConllDependencyNode,,,,ConllDependencyNode,,,.,.
+,,,,,13650.0,True,455.0,400.0,,ConllDependencyNode,,,,ConllDependencyNode,,,He presents with a 5 - 6 week history of unstable angina .,PRP
+,,,,,13664.0,True,402.0,400.0,,ConllDependencyNode,,,,ConllDependencyNode,,,He,PRP
+,,,,,13678.0,True,411.0,403.0,,ConllDependencyNode,,,,ConllDependencyNode,,,presents,VBZ
+,,,,,13692.0,True,416.0,412.0,,ConllDependencyNode,,,,ConllDependencyNode,,,with,IN
+,,,,,13706.0,True,418.0,417.0,,ConllDependencyNode,,,,ConllDependencyNode,,,a,DT
+,,,,,13720.0,True,420.0,419.0,,ConllDependencyNode,,,,ConllDependencyNode,,,5,CD
+,,,,,13734.0,True,421.0,420.0,,ConllDependencyNode,,,,ConllDependencyNode,,,-,HYPH
+,,,,,13748.0,True,422.0,421.0,,ConllDependencyNode,,,,ConllDependencyNode,,,6,CD
+,,,,,13762.0,True,427.0,423.0,,ConllDependencyNode,,,,ConllDependencyNode,,,week,NN
+,,,,,13776.0,True,435.0,428.0,,ConllDependencyNode,,,,ConllDependencyNode,,,history,NN
+,,,,,13790.0,True,438.0,436.0,,ConllDependencyNode,,,,ConllDependencyNode,,,of,IN
+,,,,,13804.0,True,447.0,439.0,,ConllDependencyNode,,,,ConllDependencyNode,,,unstable,JJ
+,,,,,13818.0,True,454.0,448.0,,ConllDependencyNode,,,,ConllDependencyNode,,,angina,NN
+,,,,,13832.0,True,455.0,454.0,,ConllDependencyNode,,,,ConllDependencyNode,,,.,.
+,,,,,13846.0,True,465.0,456.0,,ConllDependencyNode,,,,ConllDependencyNode,,,He had an,PRP
+,,,,,13860.0,True,458.0,456.0,,ConllDependencyNode,,,,ConllDependencyNode,,,He,PRP
+,,,,,13874.0,True,462.0,459.0,,ConllDependencyNode,,,,ConllDependencyNode,,,had,VBD
+,,,,,13888.0,True,465.0,463.0,,ConllDependencyNode,,,,ConllDependencyNode,,,an,NN
+,,,,,13902.0,True,530.0,466.0,,ConllDependencyNode,,,,ConllDependencyNode,,,echocardiogram which revealed recurrent coronary artery disease .,NN
+,,,,,13916.0,True,480.0,466.0,,ConllDependencyNode,,,,ConllDependencyNode,,,echocardiogram,NN
+,,,,,13930.0,True,486.0,481.0,,ConllDependencyNode,,,,ConllDependencyNode,,,which,WDT
+,,,,,13944.0,True,495.0,487.0,,ConllDependencyNode,,,,ConllDependencyNode,,,revealed,VBD
+,,,,,13958.0,True,505.0,496.0,,ConllDependencyNode,,,,ConllDependencyNode,,,recurrent,JJ
+,,,,,13972.0,True,514.0,506.0,,ConllDependencyNode,,,,ConllDependencyNode,,,coronary,JJ
+,,,,,13986.0,True,521.0,515.0,,ConllDependencyNode,,,,ConllDependencyNode,,,artery,NN
+,,,,,14000.0,True,529.0,522.0,,ConllDependencyNode,,,,ConllDependencyNode,,,disease,NN
+,,,,,14014.0,True,530.0,529.0,,ConllDependencyNode,,,,ConllDependencyNode,,,.,.
+,,,,,14028.0,True,595.0,531.0,,ConllDependencyNode,,,,ConllDependencyNode,,,The patient was referred to Dr. Finstad for reoperative coronary,DT
+,,,,,14042.0,True,534.0,531.0,,ConllDependencyNode,,,,ConllDependencyNode,,,The,DT
+,,,,,14056.0,True,542.0,535.0,,ConllDependencyNode,,,,ConllDependencyNode,,,patient,NN
+,,,,,14070.0,True,546.0,543.0,,ConllDependencyNode,,,,ConllDependencyNode,,,was,VBD
+,,,,,14084.0,True,555.0,547.0,,ConllDependencyNode,,,,ConllDependencyNode,,,referred,VBN
+,,,,,14098.0,True,558.0,556.0,,ConllDependencyNode,,,,ConllDependencyNode,,,to,IN
+,,,,,14112.0,True,562.0,559.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Dr.,NNP
+,,,,,14126.0,True,570.0,563.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Finstad,NNP
+,,,,,14140.0,True,574.0,571.0,,ConllDependencyNode,,,,ConllDependencyNode,,,for,IN
+,,,,,14154.0,True,586.0,575.0,,ConllDependencyNode,,,,ConllDependencyNode,,,reoperative,JJ
+,,,,,14168.0,True,595.0,587.0,,ConllDependencyNode,,,,ConllDependencyNode,,,coronary,JJ
+,,,,,14182.0,True,616.0,596.0,,ConllDependencyNode,,,,ConllDependencyNode,,,artery bypass graft .,NN
+,,,,,14196.0,True,602.0,596.0,,ConllDependencyNode,,,,ConllDependencyNode,,,artery,NN
+,,,,,14210.0,True,609.0,603.0,,ConllDependencyNode,,,,ConllDependencyNode,,,bypass,NN
+,,,,,14224.0,True,615.0,610.0,,ConllDependencyNode,,,,ConllDependencyNode,,,graft,NN
+,,,,,14238.0,True,616.0,615.0,,ConllDependencyNode,,,,ConllDependencyNode,,,.,.
+,,,,,14252.0,True,638.0,617.0,,ConllDependencyNode,,,,ConllDependencyNode,,,PAST MEDICAL HISTORY :,JJ
+,,,,,14266.0,True,621.0,617.0,,ConllDependencyNode,,,,ConllDependencyNode,,,PAST,JJ
+,,,,,14280.0,True,629.0,622.0,,ConllDependencyNode,,,,ConllDependencyNode,,,MEDICAL,JJ
+,,,,,14294.0,True,637.0,630.0,,ConllDependencyNode,,,,ConllDependencyNode,,,HISTORY,NN
+,,,,,14308.0,True,638.0,637.0,,ConllDependencyNode,,,,ConllDependencyNode,,,:,:
+,,,,,14322.0,True,683.0,639.0,,ConllDependencyNode,,,,ConllDependencyNode,,,The patient has a history of coronary artery,DT
+,,,,,14336.0,True,642.0,639.0,,ConllDependencyNode,,,,ConllDependencyNode,,,The,DT
+,,,,,14350.0,True,650.0,643.0,,ConllDependencyNode,,,,ConllDependencyNode,,,patient,NN
+,,,,,14364.0,True,654.0,651.0,,ConllDependencyNode,,,,ConllDependencyNode,,,has,VBZ
+,,,,,14378.0,True,656.0,655.0,,ConllDependencyNode,,,,ConllDependencyNode,,,a,DT
+,,,,,14392.0,True,664.0,657.0,,ConllDependencyNode,,,,ConllDependencyNode,,,history,NN
+,,,,,14406.0,True,667.0,665.0,,ConllDependencyNode,,,,ConllDependencyNode,,,of,IN
+,,,,,14420.0,True,676.0,668.0,,ConllDependencyNode,,,,ConllDependencyNode,,,coronary,JJ
+,,,,,14434.0,True,683.0,677.0,,ConllDependencyNode,,,,ConllDependencyNode,,,artery,NN
+,,,,,14448.0,True,724.0,684.0,,ConllDependencyNode,,,,ConllDependencyNode,,,disease and peripheral vascular disease .,NN
+,,,,,14462.0,True,691.0,684.0,,ConllDependencyNode,,,,ConllDependencyNode,,,disease,NN
+,,,,,14476.0,True,695.0,692.0,,ConllDependencyNode,,,,ConllDependencyNode,,,and,CC
+,,,,,14490.0,True,706.0,696.0,,ConllDependencyNode,,,,ConllDependencyNode,,,peripheral,JJ
+,,,,,14504.0,True,715.0,707.0,,ConllDependencyNode,,,,ConllDependencyNode,,,vascular,JJ
+,,,,,14518.0,True,723.0,716.0,,ConllDependencyNode,,,,ConllDependencyNode,,,disease,NN
+,,,,,14532.0,True,724.0,723.0,,ConllDependencyNode,,,,ConllDependencyNode,,,.,.
+,,,,,14546.0,True,747.0,725.0,,ConllDependencyNode,,,,ConllDependencyNode,,,PAST SURGICAL HISTORY :,JJ
+,,,,,14560.0,True,729.0,725.0,,ConllDependencyNode,,,,ConllDependencyNode,,,PAST,JJ
+,,,,,14574.0,True,738.0,730.0,,ConllDependencyNode,,,,ConllDependencyNode,,,SURGICAL,JJ
+,,,,,14588.0,True,746.0,739.0,,ConllDependencyNode,,,,ConllDependencyNode,,,HISTORY,NN
+,,,,,14602.0,True,747.0,746.0,,ConllDependencyNode,,,,ConllDependencyNode,,,:,:
+,,,,,14616.0,True,784.0,748.0,,ConllDependencyNode,,,,ConllDependencyNode,,,The patient is status post a radical,DT
+,,,,,14630.0,True,751.0,748.0,,ConllDependencyNode,,,,ConllDependencyNode,,,The,DT
+,,,,,14644.0,True,759.0,752.0,,ConllDependencyNode,,,,ConllDependencyNode,,,patient,NN
+,,,,,14658.0,True,762.0,760.0,,ConllDependencyNode,,,,ConllDependencyNode,,,is,VBZ
+,,,,,14672.0,True,769.0,763.0,,ConllDependencyNode,,,,ConllDependencyNode,,,status,NN
+,,,,,14686.0,True,774.0,770.0,,ConllDependencyNode,,,,ConllDependencyNode,,,post,IN
+,,,,,14700.0,True,776.0,775.0,,ConllDependencyNode,,,,ConllDependencyNode,,,a,DT
+,,,,,14714.0,True,784.0,777.0,,ConllDependencyNode,,,,ConllDependencyNode,,,radical,JJ
+,,,,,14728.0,True,828.0,785.0,,ConllDependencyNode,,,,ConllDependencyNode,,,prostatectomy complicated by osteitis pubis,NN
+,,,,,14742.0,True,798.0,785.0,,ConllDependencyNode,,,,ConllDependencyNode,,,prostatectomy,NN
+,,,,,14756.0,True,810.0,799.0,,ConllDependencyNode,,,,ConllDependencyNode,,,complicated,VBN
+,,,,,14770.0,True,813.0,811.0,,ConllDependencyNode,,,,ConllDependencyNode,,,by,IN
+,,,,,14784.0,True,822.0,814.0,,ConllDependencyNode,,,,ConllDependencyNode,,,osteitis,NN
+,,,,,14798.0,True,828.0,823.0,,ConllDependencyNode,,,,ConllDependencyNode,,,pubis,NN
+,,,,,14812.0,True,860.0,829.0,,ConllDependencyNode,,,,ConllDependencyNode,,,and a urethral colonic fistula .,CC
+,,,,,14826.0,True,832.0,829.0,,ConllDependencyNode,,,,ConllDependencyNode,,,and,CC
+,,,,,14840.0,True,834.0,833.0,,ConllDependencyNode,,,,ConllDependencyNode,,,a,DT
+,,,,,14854.0,True,843.0,835.0,,ConllDependencyNode,,,,ConllDependencyNode,,,urethral,JJ
+,,,,,14868.0,True,851.0,844.0,,ConllDependencyNode,,,,ConllDependencyNode,,,colonic,JJ
+,,,,,14882.0,True,859.0,852.0,,ConllDependencyNode,,,,ConllDependencyNode,,,fistula,NN
+,,,,,14896.0,True,860.0,859.0,,ConllDependencyNode,,,,ConllDependencyNode,,,.,.
+,,,,,14910.0,True,881.0,861.0,,ConllDependencyNode,,,,ConllDependencyNode,,,CURRENT MEDICATIONS :,JJ
+,,,,,14924.0,True,868.0,861.0,,ConllDependencyNode,,,,ConllDependencyNode,,,CURRENT,JJ
+,,,,,14938.0,True,880.0,869.0,,ConllDependencyNode,,,,ConllDependencyNode,,,MEDICATIONS,NNS
+,,,,,14952.0,True,881.0,880.0,,ConllDependencyNode,,,,ConllDependencyNode,,,:,:
+,,,,,14966.0,True,930.0,882.0,,ConllDependencyNode,,,,ConllDependencyNode,,,"Aspirin , Lopressor , Procardia XL , intravenous",NNP
+,,,,,14980.0,True,889.0,882.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Aspirin,NNP
+,,,,,14994.0,True,891.0,890.0,,ConllDependencyNode,,,,ConllDependencyNode,,,",",","
+,,,,,15008.0,True,901.0,892.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Lopressor,NNP
+,,,,,15022.0,True,903.0,902.0,,ConllDependencyNode,,,,ConllDependencyNode,,,",",","
+,,,,,15036.0,True,913.0,904.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Procardia,NNP
+,,,,,15050.0,True,916.0,914.0,,ConllDependencyNode,,,,ConllDependencyNode,,,XL,NNP
+,,,,,15064.0,True,918.0,917.0,,ConllDependencyNode,,,,ConllDependencyNode,,,",",","
+,,,,,15078.0,True,930.0,919.0,,ConllDependencyNode,,,,ConllDependencyNode,,,intravenous,JJ
+,,,,,15092.0,True,969.0,931.0,,ConllDependencyNode,,,,ConllDependencyNode,,,heparin and intravenous nitroglycerin .,NN
+,,,,,15106.0,True,938.0,931.0,,ConllDependencyNode,,,,ConllDependencyNode,,,heparin,NN
+,,,,,15120.0,True,942.0,939.0,,ConllDependencyNode,,,,ConllDependencyNode,,,and,CC
+,,,,,15134.0,True,954.0,943.0,,ConllDependencyNode,,,,ConllDependencyNode,,,intravenous,JJ
+,,,,,15148.0,True,968.0,955.0,,ConllDependencyNode,,,,ConllDependencyNode,,,nitroglycerin,NN
+,,,,,15162.0,True,969.0,968.0,,ConllDependencyNode,,,,ConllDependencyNode,,,.,.
+,,,,,15176.0,True,980.0,970.0,,ConllDependencyNode,,,,ConllDependencyNode,,,ALLERGIES :,NNS
+,,,,,15190.0,True,979.0,970.0,,ConllDependencyNode,,,,ConllDependencyNode,,,ALLERGIES,NNS
+,,,,,15204.0,True,980.0,979.0,,ConllDependencyNode,,,,ConllDependencyNode,,,:,:
+,,,,,15218.0,True,1005.0,981.0,,ConllDependencyNode,,,,ConllDependencyNode,,,No known drug allergies .,DT
+,,,,,15232.0,True,983.0,981.0,,ConllDependencyNode,,,,ConllDependencyNode,,,No,DT
+,,,,,15246.0,True,989.0,984.0,,ConllDependencyNode,,,,ConllDependencyNode,,,known,JJ
+,,,,,15260.0,True,994.0,990.0,,ConllDependencyNode,,,,ConllDependencyNode,,,drug,NN
+,,,,,15274.0,True,1004.0,995.0,,ConllDependencyNode,,,,ConllDependencyNode,,,allergies,NNS
+,,,,,15288.0,True,1005.0,1004.0,,ConllDependencyNode,,,,ConllDependencyNode,,,.,.
+,,,,,15302.0,True,1022.0,1006.0,,ConllDependencyNode,,,,ConllDependencyNode,,,LABORATORY DATA :,NN
+,,,,,15316.0,True,1016.0,1006.0,,ConllDependencyNode,,,,ConllDependencyNode,,,LABORATORY,NN
+,,,,,15330.0,True,1021.0,1017.0,,ConllDependencyNode,,,,ConllDependencyNode,,,DATA,NN
+,,,,,15344.0,True,1022.0,1021.0,,ConllDependencyNode,,,,ConllDependencyNode,,,:,:
+,,,,,15358.0,True,1069.0,1023.0,,ConllDependencyNode,,,,ConllDependencyNode,,,"BUN and creatinine 16 / 1.2 , white count 5500 ,",NN
+,,,,,15372.0,True,1026.0,1023.0,,ConllDependencyNode,,,,ConllDependencyNode,,,BUN,NN
+,,,,,15386.0,True,1030.0,1027.0,,ConllDependencyNode,,,,ConllDependencyNode,,,and,CC
+,,,,,15400.0,True,1041.0,1031.0,,ConllDependencyNode,,,,ConllDependencyNode,,,creatinine,NN
+,,,,,15414.0,True,1044.0,1042.0,,ConllDependencyNode,,,,ConllDependencyNode,,,16,CD
+,,,,,15428.0,True,1045.0,1044.0,,ConllDependencyNode,,,,ConllDependencyNode,,,/,SYM
+,,,,,15442.0,True,1048.0,1045.0,,ConllDependencyNode,,,,ConllDependencyNode,,,1.2,CD
+,,,,,15456.0,True,1050.0,1049.0,,ConllDependencyNode,,,,ConllDependencyNode,,,",",","
+,,,,,15470.0,True,1056.0,1051.0,,ConllDependencyNode,,,,ConllDependencyNode,,,white,JJ
+,,,,,15484.0,True,1062.0,1057.0,,ConllDependencyNode,,,,ConllDependencyNode,,,count,NN
+,,,,,15498.0,True,1067.0,1063.0,,ConllDependencyNode,,,,ConllDependencyNode,,,5500,CD
+,,,,,15512.0,True,1069.0,1068.0,,ConllDependencyNode,,,,ConllDependencyNode,,,",",","
+,,,,,15526.0,True,1084.0,1070.0,,ConllDependencyNode,,,,ConllDependencyNode,,,hematocrit 46 .,NN
+,,,,,15540.0,True,1080.0,1070.0,,ConllDependencyNode,,,,ConllDependencyNode,,,hematocrit,NN
+,,,,,15554.0,True,1083.0,1081.0,,ConllDependencyNode,,,,ConllDependencyNode,,,46,CD
+,,,,,15568.0,True,1084.0,1083.0,,ConllDependencyNode,,,,ConllDependencyNode,,,.,.
+,,,,,15582.0,True,1101.0,1085.0,,ConllDependencyNode,,,,ConllDependencyNode,,,HOSPITAL COURSE :,NN
+,,,,,15596.0,True,1093.0,1085.0,,ConllDependencyNode,,,,ConllDependencyNode,,,HOSPITAL,NN
+,,,,,15610.0,True,1100.0,1094.0,,ConllDependencyNode,,,,ConllDependencyNode,,,COURSE,NN
+,,,,,15624.0,True,1101.0,1100.0,,ConllDependencyNode,,,,ConllDependencyNode,,,:,:
+,,,,,15638.0,True,1144.0,1102.0,,ConllDependencyNode,,,,ConllDependencyNode,,,The patient was admitted to the Cardiology,DT
+,,,,,15652.0,True,1105.0,1102.0,,ConllDependencyNode,,,,ConllDependencyNode,,,The,DT
+,,,,,15666.0,True,1113.0,1106.0,,ConllDependencyNode,,,,ConllDependencyNode,,,patient,NN
+,,,,,15680.0,True,1117.0,1114.0,,ConllDependencyNode,,,,ConllDependencyNode,,,was,VBD
+,,,,,15694.0,True,1126.0,1118.0,,ConllDependencyNode,,,,ConllDependencyNode,,,admitted,VBN
+,,,,,15708.0,True,1129.0,1127.0,,ConllDependencyNode,,,,ConllDependencyNode,,,to,IN
+,,,,,15722.0,True,1133.0,1130.0,,ConllDependencyNode,,,,ConllDependencyNode,,,the,DT
+,,,,,15736.0,True,1144.0,1134.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Cardiology,NN
+,,,,,15750.0,True,1187.0,1145.0,,ConllDependencyNode,,,,ConllDependencyNode,,,"Service on September , 1994 , where he was",NN
+,,,,,15764.0,True,1152.0,1145.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Service,NN
+,,,,,15778.0,True,1155.0,1153.0,,ConllDependencyNode,,,,ConllDependencyNode,,,on,IN
+,,,,,15792.0,True,1165.0,1156.0,,ConllDependencyNode,,,,ConllDependencyNode,,,September,NNP
+,,,,,15806.0,True,1167.0,1166.0,,ConllDependencyNode,,,,ConllDependencyNode,,,",",","
+,,,,,15820.0,True,1172.0,1168.0,,ConllDependencyNode,,,,ConllDependencyNode,,,1994,CD
+,,,,,15834.0,True,1174.0,1173.0,,ConllDependencyNode,,,,ConllDependencyNode,,,",",","
+,,,,,15848.0,True,1180.0,1175.0,,ConllDependencyNode,,,,ConllDependencyNode,,,where,WRB
+,,,,,15862.0,True,1183.0,1181.0,,ConllDependencyNode,,,,ConllDependencyNode,,,he,PRP
+,,,,,15876.0,True,1187.0,1184.0,,ConllDependencyNode,,,,ConllDependencyNode,,,was,VBD
+,,,,,15890.0,True,1248.0,1188.0,,ConllDependencyNode,,,,ConllDependencyNode,,,"stabilized and finally taken to the Operating Room on July ,",VBN
+,,,,,15904.0,True,1198.0,1188.0,,ConllDependencyNode,,,,ConllDependencyNode,,,stabilized,VBN
+,,,,,15918.0,True,1202.0,1199.0,,ConllDependencyNode,,,,ConllDependencyNode,,,and,CC
+,,,,,15932.0,True,1210.0,1203.0,,ConllDependencyNode,,,,ConllDependencyNode,,,finally,RB
+,,,,,15946.0,True,1216.0,1211.0,,ConllDependencyNode,,,,ConllDependencyNode,,,taken,VBN
+,,,,,15960.0,True,1219.0,1217.0,,ConllDependencyNode,,,,ConllDependencyNode,,,to,IN
+,,,,,15974.0,True,1223.0,1220.0,,ConllDependencyNode,,,,ConllDependencyNode,,,the,DT
+,,,,,15988.0,True,1233.0,1224.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Operating,NN
+,,,,,16002.0,True,1238.0,1234.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Room,NN
+,,,,,16016.0,True,1241.0,1239.0,,ConllDependencyNode,,,,ConllDependencyNode,,,on,IN
+,,,,,16030.0,True,1246.0,1242.0,,ConllDependencyNode,,,,ConllDependencyNode,,,July,NNP
+,,,,,16044.0,True,1248.0,1247.0,,ConllDependencyNode,,,,ConllDependencyNode,,,",",","
+,,,,,16058.0,True,1312.0,1249.0,,ConllDependencyNode,,,,ConllDependencyNode,,,"1994 , at which time he underwent a reoperative coronary artery",CD
+,,,,,16072.0,True,1253.0,1249.0,,ConllDependencyNode,,,,ConllDependencyNode,,,1994,CD
+,,,,,16086.0,True,1255.0,1254.0,,ConllDependencyNode,,,,ConllDependencyNode,,,",",","
+,,,,,16100.0,True,1258.0,1256.0,,ConllDependencyNode,,,,ConllDependencyNode,,,at,IN
+,,,,,16114.0,True,1264.0,1259.0,,ConllDependencyNode,,,,ConllDependencyNode,,,which,WDT
+,,,,,16128.0,True,1269.0,1265.0,,ConllDependencyNode,,,,ConllDependencyNode,,,time,NN
+,,,,,16142.0,True,1272.0,1270.0,,ConllDependencyNode,,,,ConllDependencyNode,,,he,PRP
+,,,,,16156.0,True,1282.0,1273.0,,ConllDependencyNode,,,,ConllDependencyNode,,,underwent,VBD
+,,,,,16170.0,True,1284.0,1283.0,,ConllDependencyNode,,,,ConllDependencyNode,,,a,DT
+,,,,,16184.0,True,1296.0,1285.0,,ConllDependencyNode,,,,ConllDependencyNode,,,reoperative,JJ
+,,,,,16198.0,True,1305.0,1297.0,,ConllDependencyNode,,,,ConllDependencyNode,,,coronary,JJ
+,,,,,16212.0,True,1312.0,1306.0,,ConllDependencyNode,,,,ConllDependencyNode,,,artery,NN
+,,,,,16226.0,True,1378.0,1313.0,,ConllDependencyNode,,,,ConllDependencyNode,,,"bypass graft x3 , with a left interior mammary artery to the left",NN
+,,,,,16240.0,True,1319.0,1313.0,,ConllDependencyNode,,,,ConllDependencyNode,,,bypass,NN
+,,,,,16254.0,True,1325.0,1320.0,,ConllDependencyNode,,,,ConllDependencyNode,,,graft,NN
+,,,,,16268.0,True,1328.0,1326.0,,ConllDependencyNode,,,,ConllDependencyNode,,,x3,NN
+,,,,,16282.0,True,1330.0,1329.0,,ConllDependencyNode,,,,ConllDependencyNode,,,",",","
+,,,,,16296.0,True,1335.0,1331.0,,ConllDependencyNode,,,,ConllDependencyNode,,,with,IN
+,,,,,16310.0,True,1337.0,1336.0,,ConllDependencyNode,,,,ConllDependencyNode,,,a,DT
+,,,,,16324.0,True,1342.0,1338.0,,ConllDependencyNode,,,,ConllDependencyNode,,,left,JJ
+,,,,,16338.0,True,1351.0,1343.0,,ConllDependencyNode,,,,ConllDependencyNode,,,interior,JJ
+,,,,,16352.0,True,1359.0,1352.0,,ConllDependencyNode,,,,ConllDependencyNode,,,mammary,JJ
+,,,,,16366.0,True,1366.0,1360.0,,ConllDependencyNode,,,,ConllDependencyNode,,,artery,NN
+,,,,,16380.0,True,1369.0,1367.0,,ConllDependencyNode,,,,ConllDependencyNode,,,to,IN
+,,,,,16394.0,True,1373.0,1370.0,,ConllDependencyNode,,,,ConllDependencyNode,,,the,DT
+,,,,,16408.0,True,1378.0,1374.0,,ConllDependencyNode,,,,ConllDependencyNode,,,left,JJ
+,,,,,16422.0,True,1399.0,1379.0,,ConllDependencyNode,,,,ConllDependencyNode,,,anterior descending .,JJ
+,,,,,16436.0,True,1387.0,1379.0,,ConllDependencyNode,,,,ConllDependencyNode,,,anterior,JJ
+,,,,,16450.0,True,1398.0,1388.0,,ConllDependencyNode,,,,ConllDependencyNode,,,descending,VBG
+,,,,,16464.0,True,1399.0,1398.0,,ConllDependencyNode,,,,ConllDependencyNode,,,.,.
+,,,,,16478.0,True,1444.0,1400.0,,ConllDependencyNode,,,,ConllDependencyNode,,,The patient tolerated the procedure well and,DT
+,,,,,16492.0,True,1403.0,1400.0,,ConllDependencyNode,,,,ConllDependencyNode,,,The,DT
+,,,,,16506.0,True,1411.0,1404.0,,ConllDependencyNode,,,,ConllDependencyNode,,,patient,NN
+,,,,,16520.0,True,1421.0,1412.0,,ConllDependencyNode,,,,ConllDependencyNode,,,tolerated,VBD
+,,,,,16534.0,True,1425.0,1422.0,,ConllDependencyNode,,,,ConllDependencyNode,,,the,DT
+,,,,,16548.0,True,1435.0,1426.0,,ConllDependencyNode,,,,ConllDependencyNode,,,procedure,NN
+,,,,,16562.0,True,1440.0,1436.0,,ConllDependencyNode,,,,ConllDependencyNode,,,well,RB
+,,,,,16576.0,True,1444.0,1441.0,,ConllDependencyNode,,,,ConllDependencyNode,,,and,.
+,,,,,16590.0,True,1484.0,1445.0,,ConllDependencyNode,,,,ConllDependencyNode,,,was hemodynamically stable in the unit .,VBD
+,,,,,16604.0,True,1448.0,1445.0,,ConllDependencyNode,,,,ConllDependencyNode,,,was,VBD
+,,,,,16618.0,True,1464.0,1449.0,,ConllDependencyNode,,,,ConllDependencyNode,,,hemodynamically,RB
+,,,,,16632.0,True,1471.0,1465.0,,ConllDependencyNode,,,,ConllDependencyNode,,,stable,JJ
+,,,,,16646.0,True,1474.0,1472.0,,ConllDependencyNode,,,,ConllDependencyNode,,,in,IN
+,,,,,16660.0,True,1478.0,1475.0,,ConllDependencyNode,,,,ConllDependencyNode,,,the,DT
+,,,,,16674.0,True,1483.0,1479.0,,ConllDependencyNode,,,,ConllDependencyNode,,,unit,NN
+,,,,,16688.0,True,1484.0,1483.0,,ConllDependencyNode,,,,ConllDependencyNode,,,.,.
+,,,,,16702.0,True,1508.0,1485.0,,ConllDependencyNode,,,,ConllDependencyNode,,,He was weaned overnight,PRP
+,,,,,16716.0,True,1487.0,1485.0,,ConllDependencyNode,,,,ConllDependencyNode,,,He,PRP
+,,,,,16730.0,True,1491.0,1488.0,,ConllDependencyNode,,,,ConllDependencyNode,,,was,VBD
+,,,,,16744.0,True,1498.0,1492.0,,ConllDependencyNode,,,,ConllDependencyNode,,,weaned,VBN
+,,,,,16758.0,True,1508.0,1499.0,,ConllDependencyNode,,,,ConllDependencyNode,,,overnight,JJ
+,,,,,16772.0,True,1572.0,1509.0,,ConllDependencyNode,,,,ConllDependencyNode,,,and extubated on postoperative day 1. He was started on aspirin,CC
+,,,,,16786.0,True,1512.0,1509.0,,ConllDependencyNode,,,,ConllDependencyNode,,,and,CC
+,,,,,16800.0,True,1522.0,1513.0,,ConllDependencyNode,,,,ConllDependencyNode,,,extubated,VBN
+,,,,,16814.0,True,1525.0,1523.0,,ConllDependencyNode,,,,ConllDependencyNode,,,on,IN
+,,,,,16828.0,True,1539.0,1526.0,,ConllDependencyNode,,,,ConllDependencyNode,,,postoperative,JJ
+,,,,,16842.0,True,1543.0,1540.0,,ConllDependencyNode,,,,ConllDependencyNode,,,day,NN
+,,,,,16856.0,True,1546.0,1544.0,,ConllDependencyNode,,,,ConllDependencyNode,,,1.,.
+,,,,,16870.0,True,1549.0,1547.0,,ConllDependencyNode,,,,ConllDependencyNode,,,He,PRP
+,,,,,16884.0,True,1553.0,1550.0,,ConllDependencyNode,,,,ConllDependencyNode,,,was,VBD
+,,,,,16898.0,True,1561.0,1554.0,,ConllDependencyNode,,,,ConllDependencyNode,,,started,VBN
+,,,,,16912.0,True,1564.0,1562.0,,ConllDependencyNode,,,,ConllDependencyNode,,,on,IN
+,,,,,16926.0,True,1572.0,1565.0,,ConllDependencyNode,,,,ConllDependencyNode,,,aspirin,NN
+,,,,,16940.0,True,1632.0,1573.0,,ConllDependencyNode,,,,ConllDependencyNode,,,"and Lopressor , weaned off his O2 and started on diuretics .",CC
+,,,,,16954.0,True,1576.0,1573.0,,ConllDependencyNode,,,,ConllDependencyNode,,,and,CC
+,,,,,16968.0,True,1586.0,1577.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Lopressor,NNP
+,,,,,16982.0,True,1588.0,1587.0,,ConllDependencyNode,,,,ConllDependencyNode,,,",",","
+,,,,,16996.0,True,1595.0,1589.0,,ConllDependencyNode,,,,ConllDependencyNode,,,weaned,VBD
+,,,,,17010.0,True,1599.0,1596.0,,ConllDependencyNode,,,,ConllDependencyNode,,,off,IN
+,,,,,17024.0,True,1603.0,1600.0,,ConllDependencyNode,,,,ConllDependencyNode,,,his,PRP$
+,,,,,17038.0,True,1606.0,1604.0,,ConllDependencyNode,,,,ConllDependencyNode,,,O2,NNP
+,,,,,17052.0,True,1610.0,1607.0,,ConllDependencyNode,,,,ConllDependencyNode,,,and,CC
+,,,,,17066.0,True,1618.0,1611.0,,ConllDependencyNode,,,,ConllDependencyNode,,,started,VBN
+,,,,,17080.0,True,1621.0,1619.0,,ConllDependencyNode,,,,ConllDependencyNode,,,on,IN
+,,,,,17094.0,True,1631.0,1622.0,,ConllDependencyNode,,,,ConllDependencyNode,,,diuretics,NNS
+,,,,,17108.0,True,1632.0,1631.0,,ConllDependencyNode,,,,ConllDependencyNode,,,.,.
+,,,,,17122.0,True,1639.0,1633.0,,ConllDependencyNode,,,,ConllDependencyNode,,,He was,PRP
+,,,,,17136.0,True,1635.0,1633.0,,ConllDependencyNode,,,,ConllDependencyNode,,,He,PRP
+,,,,,17150.0,True,1639.0,1636.0,,ConllDependencyNode,,,,ConllDependencyNode,,,was,VBD
+,,,,,17164.0,True,1687.0,1640.0,,ConllDependencyNode,,,,ConllDependencyNode,,,transferred to the unit on postoperative day 1 .,VBN
+,,,,,17178.0,True,1651.0,1640.0,,ConllDependencyNode,,,,ConllDependencyNode,,,transferred,VBN
+,,,,,17192.0,True,1654.0,1652.0,,ConllDependencyNode,,,,ConllDependencyNode,,,to,IN
+,,,,,17206.0,True,1658.0,1655.0,,ConllDependencyNode,,,,ConllDependencyNode,,,the,DT
+,,,,,17220.0,True,1663.0,1659.0,,ConllDependencyNode,,,,ConllDependencyNode,,,unit,NN
+,,,,,17234.0,True,1666.0,1664.0,,ConllDependencyNode,,,,ConllDependencyNode,,,on,IN
+,,,,,17248.0,True,1680.0,1667.0,,ConllDependencyNode,,,,ConllDependencyNode,,,postoperative,JJ
+,,,,,17262.0,True,1684.0,1681.0,,ConllDependencyNode,,,,ConllDependencyNode,,,day,NN
+,,,,,17276.0,True,1686.0,1685.0,,ConllDependencyNode,,,,ConllDependencyNode,,,1,CD
+,,,,,17290.0,True,1687.0,1686.0,,ConllDependencyNode,,,,ConllDependencyNode,,,.,.
+,,,,,17304.0,True,1752.0,1688.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Once on the unit the patient was gradually advanced to a regular,RB
+,,,,,17318.0,True,1692.0,1688.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Once,RB
+,,,,,17332.0,True,1695.0,1693.0,,ConllDependencyNode,,,,ConllDependencyNode,,,on,IN
+,,,,,17346.0,True,1699.0,1696.0,,ConllDependencyNode,,,,ConllDependencyNode,,,the,DT
+,,,,,17360.0,True,1704.0,1700.0,,ConllDependencyNode,,,,ConllDependencyNode,,,unit,NN
+,,,,,17374.0,True,1708.0,1705.0,,ConllDependencyNode,,,,ConllDependencyNode,,,the,DT
+,,,,,17388.0,True,1716.0,1709.0,,ConllDependencyNode,,,,ConllDependencyNode,,,patient,NN
+,,,,,17402.0,True,1720.0,1717.0,,ConllDependencyNode,,,,ConllDependencyNode,,,was,VBD
+,,,,,17416.0,True,1730.0,1721.0,,ConllDependencyNode,,,,ConllDependencyNode,,,gradually,RB
+,,,,,17430.0,True,1739.0,1731.0,,ConllDependencyNode,,,,ConllDependencyNode,,,advanced,VBN
+,,,,,17444.0,True,1742.0,1740.0,,ConllDependencyNode,,,,ConllDependencyNode,,,to,IN
+,,,,,17458.0,True,1744.0,1743.0,,ConllDependencyNode,,,,ConllDependencyNode,,,a,DT
+,,,,,17472.0,True,1752.0,1745.0,,ConllDependencyNode,,,,ConllDependencyNode,,,regular,JJ
+,,,,,17486.0,True,1780.0,1753.0,,ConllDependencyNode,,,,ConllDependencyNode,,,diet and weaned off his O2 .,NN
+,,,,,17500.0,True,1757.0,1753.0,,ConllDependencyNode,,,,ConllDependencyNode,,,diet,NN
+,,,,,17514.0,True,1761.0,1758.0,,ConllDependencyNode,,,,ConllDependencyNode,,,and,CC
+,,,,,17528.0,True,1768.0,1762.0,,ConllDependencyNode,,,,ConllDependencyNode,,,weaned,VBD
+,,,,,17542.0,True,1772.0,1769.0,,ConllDependencyNode,,,,ConllDependencyNode,,,off,IN
+,,,,,17556.0,True,1776.0,1773.0,,ConllDependencyNode,,,,ConllDependencyNode,,,his,PRP$
+,,,,,17570.0,True,1779.0,1777.0,,ConllDependencyNode,,,,ConllDependencyNode,,,O2,NN
+,,,,,17584.0,True,1780.0,1779.0,,ConllDependencyNode,,,,ConllDependencyNode,,,.,.
+,,,,,17598.0,True,1808.0,1781.0,,ConllDependencyNode,,,,ConllDependencyNode,,,He was diuresed down to his,PRP
+,,,,,17612.0,True,1783.0,1781.0,,ConllDependencyNode,,,,ConllDependencyNode,,,He,PRP
+,,,,,17626.0,True,1787.0,1784.0,,ConllDependencyNode,,,,ConllDependencyNode,,,was,VBD
+,,,,,17640.0,True,1796.0,1788.0,,ConllDependencyNode,,,,ConllDependencyNode,,,diuresed,VBN
+,,,,,17654.0,True,1801.0,1797.0,,ConllDependencyNode,,,,ConllDependencyNode,,,down,RB
+,,,,,17668.0,True,1804.0,1802.0,,ConllDependencyNode,,,,ConllDependencyNode,,,to,IN
+,,,,,17682.0,True,1808.0,1805.0,,ConllDependencyNode,,,,ConllDependencyNode,,,his,PRP$
+,,,,,17696.0,True,1829.0,1809.0,,ConllDependencyNode,,,,ConllDependencyNode,,,preoperative weight .,JJ
+,,,,,17710.0,True,1821.0,1809.0,,ConllDependencyNode,,,,ConllDependencyNode,,,preoperative,JJ
+,,,,,17724.0,True,1828.0,1822.0,,ConllDependencyNode,,,,ConllDependencyNode,,,weight,NN
+,,,,,17738.0,True,1829.0,1828.0,,ConllDependencyNode,,,,ConllDependencyNode,,,.,.
+,,,,,17752.0,True,1868.0,1830.0,,ConllDependencyNode,,,,ConllDependencyNode,,,He had a routine postoperative course .,PRP
+,,,,,17766.0,True,1832.0,1830.0,,ConllDependencyNode,,,,ConllDependencyNode,,,He,PRP
+,,,,,17780.0,True,1836.0,1833.0,,ConllDependencyNode,,,,ConllDependencyNode,,,had,VBD
+,,,,,17794.0,True,1838.0,1837.0,,ConllDependencyNode,,,,ConllDependencyNode,,,a,DT
+,,,,,17808.0,True,1846.0,1839.0,,ConllDependencyNode,,,,ConllDependencyNode,,,routine,JJ
+,,,,,17822.0,True,1860.0,1847.0,,ConllDependencyNode,,,,ConllDependencyNode,,,postoperative,JJ
+,,,,,17836.0,True,1867.0,1861.0,,ConllDependencyNode,,,,ConllDependencyNode,,,course,NN
+,,,,,17850.0,True,1868.0,1867.0,,ConllDependencyNode,,,,ConllDependencyNode,,,.,.
+,,,,,17864.0,True,1881.0,1869.0,,ConllDependencyNode,,,,ConllDependencyNode,,,DISPOSITION :,NN
+,,,,,17878.0,True,1880.0,1869.0,,ConllDependencyNode,,,,ConllDependencyNode,,,DISPOSITION,NN
+,,,,,17892.0,True,1881.0,1880.0,,ConllDependencyNode,,,,ConllDependencyNode,,,:,:
+,,,,,17906.0,True,1904.0,1882.0,,ConllDependencyNode,,,,ConllDependencyNode,,,"Home on August , 1994 .",NN
+,,,,,17920.0,True,1886.0,1882.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Home,NN
+,,,,,17934.0,True,1889.0,1887.0,,ConllDependencyNode,,,,ConllDependencyNode,,,on,IN
+,,,,,17948.0,True,1896.0,1890.0,,ConllDependencyNode,,,,ConllDependencyNode,,,August,NNP
+,,,,,17962.0,True,1898.0,1897.0,,ConllDependencyNode,,,,ConllDependencyNode,,,",",","
+,,,,,17976.0,True,1903.0,1899.0,,ConllDependencyNode,,,,ConllDependencyNode,,,1994,CD
+,,,,,17990.0,True,1904.0,1903.0,,ConllDependencyNode,,,,ConllDependencyNode,,,.,.
+,,,,,18004.0,True,1928.0,1905.0,,ConllDependencyNode,,,,ConllDependencyNode,,,CONDITION ON DISCHARGE :,NN
+,,,,,18018.0,True,1914.0,1905.0,,ConllDependencyNode,,,,ConllDependencyNode,,,CONDITION,NN
+,,,,,18032.0,True,1917.0,1915.0,,ConllDependencyNode,,,,ConllDependencyNode,,,ON,IN
+,,,,,18046.0,True,1927.0,1918.0,,ConllDependencyNode,,,,ConllDependencyNode,,,DISCHARGE,NNP
+,,,,,18060.0,True,1928.0,1927.0,,ConllDependencyNode,,,,ConllDependencyNode,,,:,:
+,,,,,18074.0,True,1934.0,1929.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Good .,JJ
+,,,,,18088.0,True,1933.0,1929.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Good,JJ
+,,,,,18102.0,True,1934.0,1933.0,,ConllDependencyNode,,,,ConllDependencyNode,,,.,.
+,,,,,18116.0,True,1957.0,1935.0,,ConllDependencyNode,,,,ConllDependencyNode,,,DISCHARGE MEDICATIONS :,NN
+,,,,,18130.0,True,1944.0,1935.0,,ConllDependencyNode,,,,ConllDependencyNode,,,DISCHARGE,NN
+,,,,,18144.0,True,1956.0,1945.0,,ConllDependencyNode,,,,ConllDependencyNode,,,MEDICATIONS,NNS
+,,,,,18158.0,True,1957.0,1956.0,,ConllDependencyNode,,,,ConllDependencyNode,,,:,:
+,,,,,18172.0,True,1989.0,1958.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Aspirin one tablet p.o. q. day ;,NNP
+,,,,,18186.0,True,1965.0,1958.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Aspirin,NNP
+,,,,,18200.0,True,1969.0,1966.0,,ConllDependencyNode,,,,ConllDependencyNode,,,one,CD
+,,,,,18214.0,True,1976.0,1970.0,,ConllDependencyNode,,,,ConllDependencyNode,,,tablet,NN
+,,,,,18228.0,True,1981.0,1977.0,,ConllDependencyNode,,,,ConllDependencyNode,,,p.o.,FW
+,,,,,18242.0,True,1984.0,1982.0,,ConllDependencyNode,,,,ConllDependencyNode,,,q.,FW
+,,,,,18256.0,True,1988.0,1985.0,,ConllDependencyNode,,,,ConllDependencyNode,,,day,NN
+,,,,,18270.0,True,1989.0,1988.0,,ConllDependencyNode,,,,ConllDependencyNode,,,;,:
+,,,,,18284.0,True,1999.0,1990.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Lopressor,NNP
+,,,,,18298.0,True,1999.0,1990.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Lopressor,NNP
+,,,,,18312.0,True,2038.0,2000.0,,ConllDependencyNode,,,,ConllDependencyNode,,,25 mg p.o. t.i.d . ; and Percocet p . r . n .,CD
+,,,,,18326.0,True,2002.0,2000.0,,ConllDependencyNode,,,,ConllDependencyNode,,,25,CD
+,,,,,18340.0,True,2005.0,2003.0,,ConllDependencyNode,,,,ConllDependencyNode,,,mg,NNS
+,,,,,18354.0,True,2010.0,2006.0,,ConllDependencyNode,,,,ConllDependencyNode,,,p.o.,FW
+,,,,,18368.0,True,2016.0,2011.0,,ConllDependencyNode,,,,ConllDependencyNode,,,t.i.d,FW
+,,,,,18382.0,True,2017.0,2016.0,,ConllDependencyNode,,,,ConllDependencyNode,,,.,.
+,,,,,18396.0,True,2018.0,2017.0,,ConllDependencyNode,,,,ConllDependencyNode,,,;,","
+,,,,,18410.0,True,2022.0,2019.0,,ConllDependencyNode,,,,ConllDependencyNode,,,and,CC
+,,,,,18424.0,True,2031.0,2023.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Percocet,NNP
+,,,,,18438.0,True,2033.0,2032.0,,ConllDependencyNode,,,,ConllDependencyNode,,,p,RB
+,,,,,18452.0,True,2034.0,2033.0,,ConllDependencyNode,,,,ConllDependencyNode,,,.,IN
+,,,,,18466.0,True,2035.0,2034.0,,ConllDependencyNode,,,,ConllDependencyNode,,,r,JJ
+,,,,,18480.0,True,2036.0,2035.0,,ConllDependencyNode,,,,ConllDependencyNode,,,.,.
+,,,,,18494.0,True,2037.0,2036.0,,ConllDependencyNode,,,,ConllDependencyNode,,,n,RB
+,,,,,18508.0,True,2038.0,2037.0,,ConllDependencyNode,,,,ConllDependencyNode,,,.,.
+,,,,,18522.0,True,2048.0,2039.0,,ConllDependencyNode,,,,ConllDependencyNode,,,FOLLOWUP :,NN
+,,,,,18536.0,True,2047.0,2039.0,,ConllDependencyNode,,,,ConllDependencyNode,,,FOLLOWUP,NN
+,,,,,18550.0,True,2048.0,2047.0,,ConllDependencyNode,,,,ConllDependencyNode,,,:,:
+,,,,,18564.0,True,2100.0,2049.0,,ConllDependencyNode,,,,ConllDependencyNode,,,The patient will follow up with Dr. Mcgoff and will,DT
+,,,,,18578.0,True,2052.0,2049.0,,ConllDependencyNode,,,,ConllDependencyNode,,,The,DT
+,,,,,18592.0,True,2060.0,2053.0,,ConllDependencyNode,,,,ConllDependencyNode,,,patient,NN
+,,,,,18606.0,True,2065.0,2061.0,,ConllDependencyNode,,,,ConllDependencyNode,,,will,MD
+,,,,,18620.0,True,2072.0,2066.0,,ConllDependencyNode,,,,ConllDependencyNode,,,follow,VB
+,,,,,18634.0,True,2075.0,2073.0,,ConllDependencyNode,,,,ConllDependencyNode,,,up,RP
+,,,,,18648.0,True,2080.0,2076.0,,ConllDependencyNode,,,,ConllDependencyNode,,,with,IN
+,,,,,18662.0,True,2084.0,2081.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Dr.,NNP
+,,,,,18676.0,True,2091.0,2085.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Mcgoff,NNP
+,,,,,18690.0,True,2095.0,2092.0,,ConllDependencyNode,,,,ConllDependencyNode,,,and,CC
+,,,,,18704.0,True,2100.0,2096.0,,ConllDependencyNode,,,,ConllDependencyNode,,,will,RB
+,,,,,18718.0,True,2155.0,2101.0,,ConllDependencyNode,,,,ConllDependencyNode,,,contact his office for an appointment after discharge .,VB
+,,,,,18732.0,True,2108.0,2101.0,,ConllDependencyNode,,,,ConllDependencyNode,,,contact,VB
+,,,,,18746.0,True,2112.0,2109.0,,ConllDependencyNode,,,,ConllDependencyNode,,,his,PRP$
+,,,,,18760.0,True,2119.0,2113.0,,ConllDependencyNode,,,,ConllDependencyNode,,,office,NN
+,,,,,18774.0,True,2123.0,2120.0,,ConllDependencyNode,,,,ConllDependencyNode,,,for,IN
+,,,,,18788.0,True,2126.0,2124.0,,ConllDependencyNode,,,,ConllDependencyNode,,,an,DT
+,,,,,18802.0,True,2138.0,2127.0,,ConllDependencyNode,,,,ConllDependencyNode,,,appointment,NN
+,,,,,18816.0,True,2144.0,2139.0,,ConllDependencyNode,,,,ConllDependencyNode,,,after,IN
+,,,,,18830.0,True,2154.0,2145.0,,ConllDependencyNode,,,,ConllDependencyNode,,,discharge,NN
+,,,,,18844.0,True,2155.0,2154.0,,ConllDependencyNode,,,,ConllDependencyNode,,,.,.
+,,,,,18858.0,True,2168.0,2156.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Dictated By :,VBN
+,,,,,18872.0,True,2164.0,2156.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Dictated,VBN
+,,,,,18886.0,True,2167.0,2165.0,,ConllDependencyNode,,,,ConllDependencyNode,,,By,IN
+,,,,,18900.0,True,2168.0,2167.0,,ConllDependencyNode,,,,ConllDependencyNode,,,:,:
+,,,,,18914.0,True,2193.0,2169.0,,ConllDependencyNode,,,,ConllDependencyNode,,,"CLINTON H. BARRET , M . D .",NNP
+,,,,,18928.0,True,2176.0,2169.0,,ConllDependencyNode,,,,ConllDependencyNode,,,CLINTON,NNP
+,,,,,18942.0,True,2179.0,2177.0,,ConllDependencyNode,,,,ConllDependencyNode,,,H.,NNP
+,,,,,18956.0,True,2186.0,2180.0,,ConllDependencyNode,,,,ConllDependencyNode,,,BARRET,NNP
+,,,,,18970.0,True,2188.0,2187.0,,ConllDependencyNode,,,,ConllDependencyNode,,,",",","
+,,,,,18984.0,True,2190.0,2189.0,,ConllDependencyNode,,,,ConllDependencyNode,,,M,NNP
+,,,,,18998.0,True,2191.0,2190.0,,ConllDependencyNode,,,,ConllDependencyNode,,,.,NNP
+,,,,,19012.0,True,2192.0,2191.0,,ConllDependencyNode,,,,ConllDependencyNode,,,D,NNP
+,,,,,19026.0,True,2193.0,2192.0,,ConllDependencyNode,,,,ConllDependencyNode,,,.,.
+,,,,,19040.0,True,2197.0,2194.0,,ConllDependencyNode,,,,ConllDependencyNode,,,TM2,NN
+,,,,,19054.0,True,2197.0,2194.0,,ConllDependencyNode,,,,ConllDependencyNode,,,TM2,NN
+,,,,,19068.0,True,2208.0,2198.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Attending :,NN
+,,,,,19082.0,True,2207.0,2198.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Attending,NN
+,,,,,19096.0,True,2208.0,2207.0,,ConllDependencyNode,,,,ConllDependencyNode,,,:,:
+,,,,,19110.0,True,2230.0,2209.0,,ConllDependencyNode,,,,ConllDependencyNode,,,"DANIAL C. DELL , M . D .",JJ
+,,,,,19124.0,True,2215.0,2209.0,,ConllDependencyNode,,,,ConllDependencyNode,,,DANIAL,JJ
+,,,,,19138.0,True,2218.0,2216.0,,ConllDependencyNode,,,,ConllDependencyNode,,,C.,NNP
+,,,,,19152.0,True,2223.0,2219.0,,ConllDependencyNode,,,,ConllDependencyNode,,,DELL,NNP
+,,,,,19166.0,True,2225.0,2224.0,,ConllDependencyNode,,,,ConllDependencyNode,,,",",","
+,,,,,19180.0,True,2227.0,2226.0,,ConllDependencyNode,,,,ConllDependencyNode,,,M,NNP
+,,,,,19194.0,True,2228.0,2227.0,,ConllDependencyNode,,,,ConllDependencyNode,,,.,NNP
+,,,,,19208.0,True,2229.0,2228.0,,ConllDependencyNode,,,,ConllDependencyNode,,,D,NNP
+,,,,,19222.0,True,2230.0,2229.0,,ConllDependencyNode,,,,ConllDependencyNode,,,.,.
+,,,,,19236.0,True,2246.0,2231.0,,ConllDependencyNode,,,,ConllDependencyNode,,,SY3 RZ941 / 4768,NN
+,,,,,19250.0,True,2234.0,2231.0,,ConllDependencyNode,,,,ConllDependencyNode,,,SY3,NN
+,,,,,19264.0,True,2241.0,2236.0,,ConllDependencyNode,,,,ConllDependencyNode,,,RZ941,NN
+,,,,,19278.0,True,2242.0,2241.0,,ConllDependencyNode,,,,ConllDependencyNode,,,/,SYM
+,,,,,19292.0,True,2246.0,2242.0,,ConllDependencyNode,,,,ConllDependencyNode,,,4768,CD
+,,,,,19306.0,True,2253.0,2247.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Batch :,NN
+,,,,,19320.0,True,2252.0,2247.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Batch,NN
+,,,,,19334.0,True,2253.0,2252.0,,ConllDependencyNode,,,,ConllDependencyNode,,,:,:
+,,,,,19348.0,True,2289.0,2254.0,,ConllDependencyNode,,,,ConllDependencyNode,,,8363 Index No. K1QM0GBOY D : 1 / 13 / 94,CD
+,,,,,19362.0,True,2258.0,2254.0,,ConllDependencyNode,,,,ConllDependencyNode,,,8363,CD
+,,,,,19376.0,True,2264.0,2259.0,,ConllDependencyNode,,,,ConllDependencyNode,,,Index,NNP
+,,,,,19390.0,True,2268.0,2265.0,,ConllDependencyNode,,,,ConllDependencyNode,,,No.,NN
+,,,,,19404.0,True,2278.0,2269.0,,ConllDependencyNode,,,,ConllDependencyNode,,,K1QM0GBOY,NN
+,,,,,19418.0,True,2280.0,2279.0,,ConllDependencyNode,,,,ConllDependencyNode,,,D,NN
+,,,,,19432.0,True,2281.0,2280.0,,ConllDependencyNode,,,,ConllDependencyNode,,,:,:
+,,,,,19446.0,True,2283.0,2282.0,,ConllDependencyNode,,,,ConllDependencyNode,,,1,CD
+,,,,,19460.0,True,2284.0,2283.0,,ConllDependencyNode,,,,ConllDependencyNode,,,/,SYM
+,,,,,19474.0,True,2286.0,2284.0,,ConllDependencyNode,,,,ConllDependencyNode,,,13,CD
+,,,,,19488.0,True,2287.0,2286.0,,ConllDependencyNode,,,,ConllDependencyNode,,,/,SYM
+,,,,,19502.0,True,2289.0,2287.0,,ConllDependencyNode,,,,ConllDependencyNode,,,94,CD
+,,,,,19516.0,True,2300.0,2290.0,,ConllDependencyNode,,,,ConllDependencyNode,,,T : 6 / 15 / 94,NN
+,,,,,19530.0,True,2291.0,2290.0,,ConllDependencyNode,,,,ConllDependencyNode,,,T,NN
+,,,,,19544.0,True,2292.0,2291.0,,ConllDependencyNode,,,,ConllDependencyNode,,,:,:
+,,,,,19558.0,True,2294.0,2293.0,,ConllDependencyNode,,,,ConllDependencyNode,,,6,CD
+,,,,,19572.0,True,2295.0,2294.0,,ConllDependencyNode,,,,ConllDependencyNode,,,/,SYM
+,,,,,19586.0,True,2297.0,2295.0,,ConllDependencyNode,,,,ConllDependencyNode,,,15,CD
+,,,,,19600.0,True,2298.0,2297.0,,ConllDependencyNode,,,,ConllDependencyNode,,,/,SYM
+,,,,,19614.0,True,2300.0,2298.0,,ConllDependencyNode,,,,ConllDependencyNode,,,94,CD
+,,,,,19628.0,True,268.0,266.0,,Predicate,,,,Predicate,,,is,VBZ
+,,,,,19674.0,True,390.0,380.0,,Predicate,,,,Predicate,,,descending,VBG
+,,,,,19720.0,True,411.0,403.0,,Predicate,,,,Predicate,,,presents,VBZ
+,,,,,19766.0,True,462.0,459.0,,Predicate,,,,Predicate,,,had,VBD
+,,,,,19812.0,True,495.0,487.0,,Predicate,,,,Predicate,,,revealed,VBD
+,,,,,19877.0,True,546.0,543.0,,Predicate,,,,Predicate,,,was,VBD
+,,,,,19884.0,True,555.0,547.0,,Predicate,,,,Predicate,,,referred,VBN
+,,,,,19949.0,True,654.0,651.0,,Predicate,,,,Predicate,,,has,VBZ
+,,,,,19995.0,True,762.0,760.0,,Predicate,,,,Predicate,,,is,VBZ
+,,,,,20041.0,True,810.0,799.0,,Predicate,,,,Predicate,,,complicated,VBN
+,,,,,20087.0,True,1117.0,1114.0,,Predicate,,,,Predicate,,,was,VBD
+,,,,,20094.0,True,1126.0,1118.0,,Predicate,,,,Predicate,,,admitted,VBN
+,,,,,20140.0,True,1187.0,1184.0,,Predicate,,,,Predicate,,,was,VBD
+,,,,,20186.0,True,1198.0,1188.0,,Predicate,,,,Predicate,,,stabilized,VBN
+,,,,,20193.0,True,1216.0,1211.0,,Predicate,,,,Predicate,,,taken,VBN
+,,,,,20258.0,True,1282.0,1273.0,,Predicate,,,,Predicate,,,underwent,VBD
+,,,,,20342.0,True,1398.0,1388.0,,Predicate,,,,Predicate,,,descending,VBG
+,,,,,20369.0,True,1421.0,1412.0,,Predicate,,,,Predicate,,,tolerated,VBD
+,,,,,20434.0,True,1448.0,1445.0,,Predicate,,,,Predicate,,,was,VBD
+,,,,,20480.0,True,1491.0,1488.0,,Predicate,,,,Predicate,,,was,VBD
+,,,,,20487.0,True,1498.0,1492.0,,Predicate,,,,Predicate,,,weaned,VBN
+,,,,,20533.0,True,1522.0,1513.0,,Predicate,,,,Predicate,,,extubated,VBN
+,,,,,20540.0,True,1553.0,1550.0,,Predicate,,,,Predicate,,,was,VBD
+,,,,,20547.0,True,1561.0,1554.0,,Predicate,,,,Predicate,,,started,VBN
+,,,,,20613.0,True,1595.0,1589.0,,Predicate,,,,Predicate,,,weaned,VBD
+,,,,,20620.0,True,1618.0,1611.0,,Predicate,,,,Predicate,,,started,VBN
+,,,,,20705.0,True,1639.0,1636.0,,Predicate,,,,Predicate,,,was,VBD
+,,,,,20732.0,True,1651.0,1640.0,,Predicate,,,,Predicate,,,transferred,VBN
+,,,,,20778.0,True,1720.0,1717.0,,Predicate,,,,Predicate,,,was,VBD
+,,,,,20785.0,True,1739.0,1731.0,,Predicate,,,,Predicate,,,advanced,VBN
+,,,,,20869.0,True,1768.0,1762.0,,Predicate,,,,Predicate,,,weaned,VBD
+,,,,,20896.0,True,1787.0,1784.0,,Predicate,,,,Predicate,,,was,VBD
+,,,,,20903.0,True,1796.0,1788.0,,Predicate,,,,Predicate,,,diuresed,VBN
+,,,,,20949.0,True,1836.0,1833.0,,Predicate,,,,Predicate,,,had,VBD
+,,,,,20995.0,True,2072.0,2066.0,,Predicate,,,,Predicate,,,follow,VB
+,,,,,21079.0,True,2108.0,2101.0,,Predicate,,,,Predicate,,,contact,VB
+,,,,,21125.0,True,2164.0,2156.0,,Predicate,,,,Predicate,,,Dictated,VBN
+,,,,,19635.0,True,265.0,259.0,,SemanticArgument,,,,SemanticArgument,,,Weddel,NNP
+,,,,,19641.0,True,286.0,283.0,,SemanticArgument,,,,SemanticArgument,,,man,NN
+,,,,,19681.0,True,379.0,371.0,,SemanticArgument,,,,SemanticArgument,,,anterior,JJ
+,,,,,19687.0,True,393.0,391.0,,SemanticArgument,,,,SemanticArgument,,,in,IN
+,,,,,19727.0,True,402.0,400.0,,SemanticArgument,,,,SemanticArgument,,,He,PRP
+,,,,,19733.0,True,416.0,412.0,,SemanticArgument,,,,SemanticArgument,,,with,IN
+,,,,,19773.0,True,458.0,456.0,,SemanticArgument,,,,SemanticArgument,,,He,PRP
+,,,,,19779.0,True,465.0,463.0,,SemanticArgument,,,,SemanticArgument,,,an,NN
+,,,,,19819.0,True,480.0,466.0,,SemanticArgument,,,,SemanticArgument,,,echocardiogram,NN
+,,,,,19825.0,True,486.0,481.0,,SemanticArgument,,,,SemanticArgument,,,which,WDT
+,,,,,19831.0,True,529.0,522.0,,SemanticArgument,,,,SemanticArgument,,,disease,NN
+,,,,,19891.0,True,542.0,535.0,,SemanticArgument,,,,SemanticArgument,,,patient,NN
+,,,,,19897.0,True,558.0,556.0,,SemanticArgument,,,,SemanticArgument,,,to,IN
+,,,,,19903.0,True,574.0,571.0,,SemanticArgument,,,,SemanticArgument,,,for,IN
+,,,,,19956.0,True,650.0,643.0,,SemanticArgument,,,,SemanticArgument,,,patient,NN
+,,,,,19962.0,True,664.0,657.0,,SemanticArgument,,,,SemanticArgument,,,history,NN
+,,,,,20002.0,True,759.0,752.0,,SemanticArgument,,,,SemanticArgument,,,patient,NN
+,,,,,20008.0,True,769.0,763.0,,SemanticArgument,,,,SemanticArgument,,,status,NN
+,,,,,20048.0,True,798.0,785.0,,SemanticArgument,,,,SemanticArgument,,,prostatectomy,NN
+,,,,,20054.0,True,813.0,811.0,,SemanticArgument,,,,SemanticArgument,,,by,IN
+,,,,,20101.0,True,1113.0,1106.0,,SemanticArgument,,,,SemanticArgument,,,patient,NN
+,,,,,20107.0,True,1129.0,1127.0,,SemanticArgument,,,,SemanticArgument,,,to,IN
+,,,,,20147.0,True,1180.0,1175.0,,SemanticArgument,,,,SemanticArgument,,,where,WRB
+,,,,,20153.0,True,1183.0,1181.0,,SemanticArgument,,,,SemanticArgument,,,he,PRP
+,,,,,20200.0,True,1210.0,1203.0,,SemanticArgument,,,,SemanticArgument,,,finally,RB
+,,,,,20206.0,True,1219.0,1217.0,,SemanticArgument,,,,SemanticArgument,,,to,IN
+,,,,,20212.0,True,1241.0,1239.0,,SemanticArgument,,,,SemanticArgument,,,on,IN
+,,,,,20265.0,True,1253.0,1249.0,,SemanticArgument,,,,SemanticArgument,,,1994,CD
+,,,,,20271.0,True,1258.0,1256.0,,SemanticArgument,,,,SemanticArgument,,,at,IN
+,,,,,20277.0,True,1272.0,1270.0,,SemanticArgument,,,,SemanticArgument,,,he,PRP
+,,,,,20283.0,True,1312.0,1306.0,,SemanticArgument,,,,SemanticArgument,,,artery,NN
+,,,,,20349.0,True,1387.0,1379.0,,SemanticArgument,,,,SemanticArgument,,,anterior,JJ
+,,,,,20376.0,True,1411.0,1404.0,,SemanticArgument,,,,SemanticArgument,,,patient,NN
+,,,,,20382.0,True,1435.0,1426.0,,SemanticArgument,,,,SemanticArgument,,,procedure,NN
+,,,,,20388.0,True,1440.0,1436.0,,SemanticArgument,,,,SemanticArgument,,,well,RB
+,,,,,20441.0,True,1471.0,1465.0,,SemanticArgument,,,,SemanticArgument,,,stable,JJ
+,,,,,20447.0,True,1474.0,1472.0,,SemanticArgument,,,,SemanticArgument,,,in,IN
+,,,,,20494.0,True,1487.0,1485.0,,SemanticArgument,,,,SemanticArgument,,,He,PRP
+,,,,,20500.0,True,1508.0,1499.0,,SemanticArgument,,,,SemanticArgument,,,overnight,JJ
+,,,,,20554.0,True,1525.0,1523.0,,SemanticArgument,,,,SemanticArgument,,,on,IN
+,,,,,20560.0,True,1549.0,1547.0,,SemanticArgument,,,,SemanticArgument,,,He,PRP
+,,,,,20566.0,True,1564.0,1562.0,,SemanticArgument,,,,SemanticArgument,,,on,IN
+,,,,,20627.0,True,1586.0,1577.0,,SemanticArgument,,,,SemanticArgument,,,Lopressor,NNP
+,,,,,20633.0,True,1586.0,1577.0,,SemanticArgument,,,,SemanticArgument,,,Lopressor,NNP
+,,,,,20639.0,True,1599.0,1596.0,,SemanticArgument,,,,SemanticArgument,,,off,IN
+,,,,,20645.0,True,1621.0,1619.0,,SemanticArgument,,,,SemanticArgument,,,on,IN
+,,,,,20712.0,True,1635.0,1633.0,,SemanticArgument,,,,SemanticArgument,,,He,PRP
+,,,,,20739.0,True,1654.0,1652.0,,SemanticArgument,,,,SemanticArgument,,,to,IN
+,,,,,20745.0,True,1666.0,1664.0,,SemanticArgument,,,,SemanticArgument,,,on,IN
+,,,,,20792.0,True,1695.0,1693.0,,SemanticArgument,,,,SemanticArgument,,,on,IN
+,,,,,20798.0,True,1716.0,1709.0,,SemanticArgument,,,,SemanticArgument,,,patient,NN
+,,,,,20804.0,True,1730.0,1721.0,,SemanticArgument,,,,SemanticArgument,,,gradually,RB
+,,,,,20810.0,True,1742.0,1740.0,,SemanticArgument,,,,SemanticArgument,,,to,IN
+,,,,,20876.0,True,1772.0,1769.0,,SemanticArgument,,,,SemanticArgument,,,off,IN
+,,,,,20910.0,True,1783.0,1781.0,,SemanticArgument,,,,SemanticArgument,,,He,PRP
+,,,,,20916.0,True,1801.0,1797.0,,SemanticArgument,,,,SemanticArgument,,,down,RB
+,,,,,20956.0,True,1832.0,1830.0,,SemanticArgument,,,,SemanticArgument,,,He,PRP
+,,,,,20962.0,True,1867.0,1861.0,,SemanticArgument,,,,SemanticArgument,,,course,NN
+,,,,,21002.0,True,2060.0,2053.0,,SemanticArgument,,,,SemanticArgument,,,patient,NN
+,,,,,21008.0,True,2065.0,2061.0,,SemanticArgument,,,,SemanticArgument,,,will,MD
+,,,,,21014.0,True,2075.0,2073.0,,SemanticArgument,,,,SemanticArgument,,,up,RP
+,,,,,21020.0,True,2080.0,2076.0,,SemanticArgument,,,,SemanticArgument,,,with,IN
+,,,,,21086.0,True,2119.0,2113.0,,SemanticArgument,,,,SemanticArgument,,,office,NN
+,,,,,21092.0,True,2123.0,2120.0,,SemanticArgument,,,,SemanticArgument,,,for,IN
+,,,,,21132.0,True,2167.0,2165.0,,SemanticArgument,,,,SemanticArgument,,,By,IN
+,True,0.0,,,20159.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20414.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20651.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20826.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20014.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20751.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20299.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,21108.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20978.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,19785.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20024.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20319.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20718.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20678.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20453.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,21046.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20516.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20169.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20836.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,21026.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20816.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,21056.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20113.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20572.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20932.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20404.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,19857.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,19847.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20463.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,19693.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20238.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,19837.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,19795.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20599.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,19703.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,19739.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20968.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20761.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20218.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20309.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,19909.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20070.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,19978.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20060.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20882.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,19968.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,19749.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20582.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20355.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,21036.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20688.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20846.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,19647.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,21138.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,21098.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20123.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,19919.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20661.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20289.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,19657.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20228.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20394.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,19929.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20922.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,True,0.0,,,20506.0,True,,,,SemanticRoleRelation,,,,SemanticRoleRelation,,0.0,,
+,,,,,20674.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20701.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20080.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20991.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,21075.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20476.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20988.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20892.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20430.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,21069.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,19759.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,19716.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,19867.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20862.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20473.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20671.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,19713.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20083.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20365.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20945.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20595.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,19808.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20034.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20592.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,19870.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,19939.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,19873.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20859.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,21066.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,21148.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,19945.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20771.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,19762.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20427.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20728.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20865.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20609.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20182.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,19988.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,19670.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20526.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20037.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20254.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20329.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20335.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20424.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20179.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20332.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,19942.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20251.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20774.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20942.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20529.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,19805.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20856.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,21121.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20698.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,19991.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20338.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20248.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20136.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,21118.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,19667.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,20133.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,21072.0,True,,,,NonEmptyFSList,,,,NonEmptyFSList,,,,
+,,,,,1.0,True,,,,Sofa,,,,Sofa,,,,
+373873005,,,C0013227,,7987.0,True,,,Pharmaceutical Preparations,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T121,,,
+105903003,,,C0013227,,7977.0,True,,,Pharmaceutical Preparations,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T121,,,
+410942007,,,C0013227,,7967.0,True,,,Pharmaceutical Preparations,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T121,,,
+1191,,,C0004057,,8401.0,True,,,Aspirin,UmlsConcept,RXNORM,0.0,,UmlsConcept,T109,,,
+7947003,,,C0004057,,8451.0,True,,,Aspirin,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T121,,,
+7947003,,,C0004057,,8421.0,True,,,Aspirin,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T109,,,
+387458008,,,C0004057,,8441.0,True,,,Aspirin,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T121,,,
+387458008,,,C0004057,,8411.0,True,,,Aspirin,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T109,,,
+1191,,,C0004057,,8431.0,True,,,Aspirin,UmlsConcept,RXNORM,0.0,,UmlsConcept,T121,,,
+203344,,,C0700776,,8032.0,True,,,Lopressor,UmlsConcept,RXNORM,0.0,,UmlsConcept,T109,,,
+203344,,,C0700776,,8042.0,True,,,Lopressor,UmlsConcept,RXNORM,0.0,,UmlsConcept,T121,,,
+134409,,,C0524665,,7825.0,True,,,Procardia XL,UmlsConcept,RXNORM,0.0,,UmlsConcept,T121,,,
+134409,,,C0524665,,7815.0,True,,,Procardia XL,UmlsConcept,RXNORM,0.0,,UmlsConcept,T109,,,
+203423,,,C0700861,,8673.0,True,,,Procardia,UmlsConcept,RXNORM,0.0,,UmlsConcept,T121,,,
+203423,,,C0700861,,8663.0,True,,,Procardia,UmlsConcept,RXNORM,0.0,,UmlsConcept,T109,,,
+372877000,,,C0019134,,8529.0,True,,,Heparin,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T109,,,
+372877000,,,C0019134,,8609.0,True,,,Heparin,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T121,,,
+5224,,,C0019134,,8499.0,True,,,Heparin,UmlsConcept,RXNORM,0.0,,UmlsConcept,T109,,,
+5224,,,C0019134,,8579.0,True,,,Heparin,UmlsConcept,RXNORM,0.0,,UmlsConcept,T121,,,
+96382006,,,C0019134,,8549.0,True,,,Heparin,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T123,,,
+84812008,,,C0019134,,8519.0,True,,,Heparin,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T109,,,
+84812008,,,C0019134,,8599.0,True,,,Heparin,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T121,,,
+372877000,,,C0019134,,8569.0,True,,,Heparin,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T123,,,
+5224,,,C0019134,,8539.0,True,,,Heparin,UmlsConcept,RXNORM,0.0,,UmlsConcept,T123,,,
+96382006,,,C0019134,,8509.0,True,,,Heparin,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T109,,,
+96382006,,,C0019134,,8589.0,True,,,Heparin,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T121,,,
+84812008,,,C0019134,,8559.0,True,,,Heparin,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T123,,,
+387404004,,,C0017887,,8289.0,True,,,Nitroglycerin,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T121,,,
+387404004,,,C0017887,,8259.0,True,,,Nitroglycerin,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T109,,,
+4917,,,C0017887,,8279.0,True,,,Nitroglycerin,UmlsConcept,RXNORM,0.0,,UmlsConcept,T121,,,
+4917,,,C0017887,,8249.0,True,,,Nitroglycerin,UmlsConcept,RXNORM,0.0,,UmlsConcept,T109,,,
+71759000,,,C0017887,,8299.0,True,,,Nitroglycerin,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T121,,,
+71759000,,,C0017887,,8269.0,True,,,Nitroglycerin,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T109,,,
+410942007,,,C0013227,,7685.0,True,,,Pharmaceutical Preparations,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T121,,,
+373873005,,,C0013227,,7705.0,True,,,Pharmaceutical Preparations,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T121,,,
+105903003,,,C0013227,,7695.0,True,,,Pharmaceutical Preparations,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T121,,,
+72341003,,,C0600137,,7587.0,True,,,Blood Urea Nitrogen,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T197,,,
+72341003,,,C0600137,,7577.0,True,,,Blood Urea Nitrogen,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T123,,,
+15373003,,,C0010294,,7457.0,True,,,Creatinine,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T109,,,
+15373003,,,C0010294,,7477.0,True,,,Creatinine,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T123,,,
+2913,,,C0010294,,7447.0,True,,,Creatinine,UmlsConcept,RXNORM,0.0,,UmlsConcept,T109,,,
+2913,,,C0010294,,7467.0,True,,,Creatinine,UmlsConcept,RXNORM,0.0,,UmlsConcept,T123,,,
+7947003,,,C0004057,,7889.0,True,,,Aspirin,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T109,,,
+387458008,,,C0004057,,7909.0,True,,,Aspirin,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T121,,,
+387458008,,,C0004057,,7879.0,True,,,Aspirin,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T109,,,
+1191,,,C0004057,,7899.0,True,,,Aspirin,UmlsConcept,RXNORM,0.0,,UmlsConcept,T121,,,
+1191,,,C0004057,,7869.0,True,,,Aspirin,UmlsConcept,RXNORM,0.0,,UmlsConcept,T109,,,
+7947003,,,C0004057,,7919.0,True,,,Aspirin,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T121,,,
+203344,,,C0700776,,7641.0,True,,,Lopressor,UmlsConcept,RXNORM,0.0,,UmlsConcept,T121,,,
+203344,,,C0700776,,7631.0,True,,,Lopressor,UmlsConcept,RXNORM,0.0,,UmlsConcept,T109,,,
+30492008,,,C0012798,,8357.0,True,,,Diuretics,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T121,,,
+372695000,,,C0012798,,8347.0,True,,,Diuretics,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T121,,,
+105903003,,,C0013227,,7760.0,True,,,Pharmaceutical Preparations,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T121,,,
+410942007,,,C0013227,,7750.0,True,,,Pharmaceutical Preparations,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T121,,,
+373873005,,,C0013227,,7770.0,True,,,Pharmaceutical Preparations,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T121,,,
+387458008,,,C0004057,,8161.0,True,,,Aspirin,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T109,,,
+1191,,,C0004057,,8181.0,True,,,Aspirin,UmlsConcept,RXNORM,0.0,,UmlsConcept,T121,,,
+1191,,,C0004057,,8151.0,True,,,Aspirin,UmlsConcept,RXNORM,0.0,,UmlsConcept,T109,,,
+7947003,,,C0004057,,8201.0,True,,,Aspirin,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T121,,,
+7947003,,,C0004057,,8171.0,True,,,Aspirin,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T109,,,
+387458008,,,C0004057,,8191.0,True,,,Aspirin,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T121,,,
+385055001,,,C0039225,,8096.0,True,,,Tablet Dosage Form,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T122,,,
+10311,,,C0039225,,8086.0,True,,,Tablet Dosage Form,UmlsConcept,RXNORM,0.0,,UmlsConcept,T122,,,
+46992007,,,C0039225,,8106.0,True,,,Tablet Dosage Form,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T122,,,
+203344,,,C0700776,,7393.0,True,,,Lopressor,UmlsConcept,RXNORM,0.0,,UmlsConcept,T109,,,
+203344,,,C0700776,,7403.0,True,,,Lopressor,UmlsConcept,RXNORM,0.0,,UmlsConcept,T121,,,
+42844,,,C0086787,,7523.0,True,,,Percocet,UmlsConcept,RXNORM,0.0,,UmlsConcept,T109,,,
+42844,,,C0086787,,7533.0,True,,,Percocet,UmlsConcept,RXNORM,0.0,,UmlsConcept,T121,,,
+700489002,,,C1970187,,9080.0,True,,,"Deafness, Sensorineural, And Male Infertility",UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T047,,,
+64572001,,,C0012634,,9090.0,True,,,Disease,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T047,,,
+414024009,,,C1956346,,9365.0,True,,,Coronary Artery Disease,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T047,,,
+53741008,,,C1956346,,9355.0,True,,,Coronary Artery Disease,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T047,,,
+39823006,,,C0852949,,9520.0,True,,,Arteriopathic disease,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T047,,,
+359557001,,,C0852949,,9530.0,True,,,Arteriopathic disease,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T047,,,
+64572001,,,C0012634,,8772.0,True,,,Disease,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T047,,,
+51742006,,,C0751437,,9179.0,True,,,Adenohypophyseal Diseases,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T047,,,
+25106000,,,C0002965,,8727.0,True,,,"Angina, Unstable",UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T047,,,
+4557003,,,C0002965,,8717.0,True,,,"Angina, Unstable",UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T047,,,
+53741008,,,C1956346,,9025.0,True,,,Coronary Artery Disease,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T047,,,
+414024009,,,C1956346,,9035.0,True,,,Coronary Artery Disease,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T047,,,
+359557001,,,C0852949,,8936.0,True,,,Arteriopathic disease,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T047,,,
+39823006,,,C0852949,,8926.0,True,,,Arteriopathic disease,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T047,,,
+64572001,,,C0012634,,9575.0,True,,,Disease,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T047,,,
+64572001,,,C0012634,,9223.0,True,,,Disease,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T047,,,
+399957001,,,C0085096,,9619.0,True,,,Peripheral Vascular Diseases,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T047,,,
+400047006,,,C0085096,,9629.0,True,,,Peripheral Vascular Diseases,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T047,,,
+27550009,,,C0042373,,9311.0,True,,,Vascular Diseases,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T047,,,
+64572001,,,C0012634,,9267.0,True,,,Disease,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T047,,,
+75564005,,,C0221010,,8882.0,True,,,Osteitis of pelvic region,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T047,,,
+274144001,,,C0029400,,9475.0,True,,,Osteitis,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T047,,,
+44462005,,,C0029400,,9465.0,True,,,Osteitis,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T047,,,
+197250003,,,C0341365,,8981.0,True,,,Colonic fistula,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T190,,,
+419351001,,,C0016169,,8816.0,True,,,pathologic fistula,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T190,,,
+118622000,,,C0016169,,8836.0,True,,,pathologic fistula,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T190,,,
+428794004,,,C0016169,,8826.0,True,,,pathologic fistula,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T190,,,
+416093006,,,C0013182,,9410.0,True,,,Drug Allergy,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T047,,,
+416098002,,,C0013182,,9420.0,True,,,Drug Allergy,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T047,,,
+51742006,,,C0751437,,9135.0,True,,,Adenohypophyseal Diseases,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T047,,,
+64572001,,,C0012634,,9674.0,True,,,Disease,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T047,,,
+410546004,,,C1444662,,9847.0,True,,,Discontinued,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T033,,,
+308552006,,,C0586177,,10181.0,True,,,Report status,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T033,,,
+439401001,,,C0011900,,10353.0,True,,,Diagnosis,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T033,,,
+392521001,,,C0262926,,9998.0,True,,,Medical History,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T033,,,
+39104002,,,C0221423,,10396.0,True,,,Illness (finding),UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T184,,,
+392521001,,,C0262926,,9718.0,True,,,Medical History,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T033,,,
+263922001,,,C0443343,,9804.0,True,,,Unstable status,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T033,,,
+225566008,,,C0002962,,10051.0,True,,,Angina Pectoris,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T033,,,
+194828000,,,C0002962,,10041.0,True,,,Angina Pectoris,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T033,,,
+417662000,,,C0455458,,10224.0,True,,,PMH - past medical history,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T033,,,
+392521001,,,C0262926,,10095.0,True,,,Medical History,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T033,,,
+392521001,,,C0262926,,10310.0,True,,,Medical History,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T033,,,
+392521001,,,C0262926,,10267.0,True,,,Medical History,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T033,,,
+418634005,,,C0020517,,9890.0,True,,,Hypersensitivity,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T046,,,
+421961002,,,C0020517,,9900.0,True,,,Hypersensitivity,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T046,,,
+421961002,,,C0020517,,9954.0,True,,,Hypersensitivity,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T046,,,
+418634005,,,C0020517,,9944.0,True,,,Hypersensitivity,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T046,,,
+224930009,,,C0557854,,9761.0,True,,,Services,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T057,,,
+301459008,,,C0578150,,10138.0,True,,,Hemodynamically stable,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T033,,,
+90205004,,,C0010055,,10914.0,True,,,Coronary Artery Bypass Surgery,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T061,,,
+67166004,,,C0010055,,10904.0,True,,,Coronary Artery Bypass Surgery,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T061,,,
+232717009,,,C0010055,,10924.0,True,,,Coronary Artery Bypass Surgery,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T061,,,
+34518000,,,C0189695,,10688.0,True,,,Anastomosis of artery with bypass graft (procedure),UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T061,,,
+116360008,,,C0189695,,10698.0,True,,,Anastomosis of artery with bypass graft (procedure),UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T061,,,
+48537004,,,C0185098,,10967.0,True,,,Bypass graft,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T061,,,
+88834003,,,C0741847,,10647.0,True,,,Bypass,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T061,,,
+40701008,,,C0013516,,10863.0,True,,,Echocardiography,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T060,,,
+116360008,,,C0189695,,10564.0,True,,,Anastomosis of artery with bypass graft (procedure),UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T061,,,
+34518000,,,C0189695,,10554.0,True,,,Anastomosis of artery with bypass graft (procedure),UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T061,,,
+48537004,,,C0185098,,11008.0,True,,,Bypass graft,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T061,,,
+88834003,,,C0741847,,10740.0,True,,,Bypass,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T061,,,
+90470006,,,C0033573,,10781.0,True,,,Prostatectomy,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T061,,,
+269814003,,,C0022885,,10501.0,True,,,Laboratory Procedures,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T059,,,
+108252007,,,C0022885,,10491.0,True,,,Laboratory Procedures,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T059,,,
+15220000,,,C0022885,,10511.0,True,,,Laboratory Procedures,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T059,,,
+250623007,,,C0005845,,10449.0,True,,,Blood urea nitrogen measurement,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T059,,,
+105011006,,,C0005845,,10439.0,True,,,Blood urea nitrogen measurement,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T059,,,
+28317006,,,C0018935,,11090.0,True,,,Hematocrit procedure,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T059,,,
+250231008,,,C0018935,,11100.0,True,,,Hematocrit procedure,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T059,,,
+48537004,,,C0185098,,11049.0,True,,,Bypass graft,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T061,,,
+88834003,,,C0741847,,10822.0,True,,,Bypass,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T061,,,
+71388002,,,C0184661,,11142.0,True,,,Interventional procedure,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T061,,,
+39857003,,,C1305866,,10606.0,True,,,Weighing patient,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T060,,,
+41801008,,,C0205042,,11953.0,True,,,Coronary artery,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T023,,,
+80891009,,,C0018787,,11579.0,True,,,Heart,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T023,,,
+51114001,,,C0003842,,12168.0,True,,,Arteries,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T023,,,
+41801008,,,C0205042,,12202.0,True,,,Coronary artery,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T023,,,
+80891009,,,C0018787,,11817.0,True,,,Heart,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T023,,,
+51114001,,,C0003842,,11183.0,True,,,Arteries,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T023,,,
+24486003,,,C0332835,,11681.0,True,,,Transplanted tissue,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T024,,,
+312140007,,,C0729538,,11251.0,True,,,Saphenous vein graft,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T023,,,
+60734001,,,C0036186,,11510.0,True,,,Saphenous Vein,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T023,,,
+362072009,,,C0036186,,11500.0,True,,,Saphenous Vein,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T023,,,
+29092000,,,C0042449,,11613.0,True,,,Veins,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T023,,,
+24486003,,,C0332835,,11466.0,True,,,Transplanted tissue,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T024,,,
+41801008,,,C0205042,,11783.0,True,,,Coronary artery,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T023,,,
+80891009,,,C0018787,,11364.0,True,,,Heart,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T023,,,
+51114001,,,C0003842,,11885.0,True,,,Arteries,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T023,,,
+80891009,,,C0018787,,11330.0,True,,,Heart,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T023,,,
+51114001,,,C0003842,,11919.0,True,,,Arteries,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T023,,,
+24486003,,,C0332835,,12021.0,True,,,Transplanted tissue,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T024,,,
+41801008,,,C0205042,,11715.0,True,,,Coronary artery,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T023,,,
+80891009,,,C0018787,,12089.0,True,,,Heart,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T023,,,
+51114001,,,C0003842,,11545.0,True,,,Arteries,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T023,,,
+59820001,,,C0005847,,11987.0,True,,,Blood Vessel,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T023,,,
+66040006,,,C0034014,,11647.0,True,,,Bone structure of pubis,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T023,,,
+13648007,,,C0041967,,12133.0,True,,,Urethra,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T023,,,
+264255005,,,C0041967,,12123.0,True,,,Urethra,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T023,,,
+71854001,,,C0009368,,11285.0,True,,,Colon structure (body structure),UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T023,,,
+263977005,,,C0009368,,11295.0,True,,,Colon structure (body structure),UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T023,,,
+41801008,,,C0205042,,11217.0,True,,,Coronary artery,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T023,,,
+80891009,,,C0018787,,11851.0,True,,,Heart,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T023,,,
+51114001,,,C0003842,,11398.0,True,,,Arteries,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T023,,,
+24486003,,,C0332835,,11749.0,True,,,Transplanted tissue,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T024,,,
+76752008,,,C0006141,,12055.0,True,,,Breast,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T023,,,
+51114001,,,C0003842,,11432.0,True,,,Arteries,UmlsConcept,SNOMEDCT_US,0.0,,UmlsConcept,T023,,,
+,,,,,20677.0,True,,,,EmptyFSList,,,,EmptyFSList,,,,
+,,,,,20704.0,True,,,,EmptyFSList,,,,EmptyFSList,,,,
+,,,,,20994.0,True,,,,EmptyFSList,,,,EmptyFSList,,,,
+,,,,,21078.0,True,,,,EmptyFSList,,,,EmptyFSList,,,,
+,,,,,20479.0,True,,,,EmptyFSList,,,,EmptyFSList,,,,
+,,,,,20895.0,True,,,,EmptyFSList,,,,EmptyFSList,,,,
+,,,,,20433.0,True,,,,EmptyFSList,,,,EmptyFSList,,,,
+,,,,,19719.0,True,,,,EmptyFSList,,,,EmptyFSList,,,,
+,,,,,20086.0,True,,,,EmptyFSList,,,,EmptyFSList,,,,
+,,,,,20368.0,True,,,,EmptyFSList,,,,EmptyFSList,,,,
+,,,,,20948.0,True,,,,EmptyFSList,,,,EmptyFSList,,,,
+,,,,,20598.0,True,,,,EmptyFSList,,,,EmptyFSList,,,,
+,,,,,19811.0,True,,,,EmptyFSList,,,,EmptyFSList,,,,
+,,,,,19876.0,True,,,,EmptyFSList,,,,EmptyFSList,,,,
+,,,,,21151.0,True,,,,EmptyFSList,,,,EmptyFSList,,,,
+,,,,,19948.0,True,,,,EmptyFSList,,,,EmptyFSList,,,,
+,,,,,19765.0,True,,,,EmptyFSList,,,,EmptyFSList,,,,
+,,,,,20731.0,True,,,,EmptyFSList,,,,EmptyFSList,,,,
+,,,,,20868.0,True,,,,EmptyFSList,,,,EmptyFSList,,,,
+,,,,,20612.0,True,,,,EmptyFSList,,,,EmptyFSList,,,,
+,,,,,20185.0,True,,,,EmptyFSList,,,,EmptyFSList,,,,
+,,,,,19673.0,True,,,,EmptyFSList,,,,EmptyFSList,,,,
+,,,,,20040.0,True,,,,EmptyFSList,,,,EmptyFSList,,,,
+,,,,,20257.0,True,,,,EmptyFSList,,,,EmptyFSList,,,,
+,,,,,20777.0,True,,,,EmptyFSList,,,,EmptyFSList,,,,
+,,,,,20532.0,True,,,,EmptyFSList,,,,EmptyFSList,,,,
+,,,,,21124.0,True,,,,EmptyFSList,,,,EmptyFSList,,,,
+,,,,,19994.0,True,,,,EmptyFSList,,,,EmptyFSList,,,,
+,,,,,20341.0,True,,,,EmptyFSList,,,,EmptyFSList,,,,
+,,,,,20139.0,True,,,,EmptyFSList,,,,EmptyFSList,,,,
+,,,,,,True,,,,,,,,View,,,,

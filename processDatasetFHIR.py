@@ -20,7 +20,7 @@ for filename in os.listdir(path):
     reference = fhirhelper.createReference(patient)
     df = pd.read_csv(path + filename)
     documentId = next(iter(df['true_text'][df['textsem'] == 'NumToken']), None)
-    #print(df.to_string())
+    print(df.to_string())
     # filter out every semantic element except for disease-mentions and group by cui for unique results
     for disease in df[df["textsem"] == "DiseaseDisorderMention"].groupby("id"):
         #print(disease[1].to_string())

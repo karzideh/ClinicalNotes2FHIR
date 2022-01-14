@@ -1,0 +1,869 @@
+code,conditional,confidence,cui,generic,id,negated,pos_end,pos_start,preferred_text,refsem,scheme,score,subject,textsem,tui,uncertainty,true_text,part_of_speech
+105903003,True,0.0,C0013227,True,51200,True,1280,1276,Pharmaceutical Preparations,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,drug,NN
+410942007,True,0.0,C0013227,True,51190,True,1280,1276,Pharmaceutical Preparations,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,drug,NN
+373873005,True,0.0,C0013227,True,51210,True,1280,1276,Pharmaceutical Preparations,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,drug,NN
+105903003,True,0.0,C0013227,True,51265,False,1303,1292,Pharmaceutical Preparations,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,MEDICATIONS,NNS
+410942007,True,0.0,C0013227,True,51255,False,1303,1292,Pharmaceutical Preparations,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,MEDICATIONS,NNS
+373873005,True,0.0,C0013227,True,51275,False,1303,1292,Pharmaceutical Preparations,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,MEDICATIONS,NNS
+219686,True,0.0,C0723094,True,47730,False,1331,1321,Ritalin-SR,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,Ritalin - SR,NNP
+219686,True,0.0,C0723094,True,47720,False,1331,1321,Ritalin-SR,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,Ritalin - SR,NNP
+224917,True,0.0,C0728759,True,49281,False,1328,1321,Ritalin,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,Ritalin,NNP
+224917,True,0.0,C0728759,True,49291,False,1328,1321,Ritalin,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,Ritalin,NNP
+218002,True,0.0,C0721346,True,50626,False,1360,1353,Levoxyl,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,Levoxyl,NNP
+218002,True,0.0,C0721346,True,50616,False,1360,1353,Levoxyl,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T116,0.0,Levoxyl,NNP
+284663,True,0.0,C0939260,True,45971,False,1432,1426,Aviane,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,Aviane,NN
+284663,True,0.0,C0939260,True,45981,False,1432,1426,Aviane,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,Aviane,NN
+46992007,True,0.0,C0039225,True,50690,False,1449,1443,Tablet Dosage Form,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T122,0.0,tablet,NN
+385055001,True,0.0,C0039225,True,50680,False,1449,1443,Tablet Dosage Form,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T122,0.0,tablet,NN
+10311,True,0.0,C0039225,True,50670,False,1449,1443,Tablet Dosage Form,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T122,0.0,tablet,NN
+202645,True,0.0,C0699389,True,49539,False,1471,1465,Cortef,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,Cortef,NNP
+202645,True,0.0,C0699389,True,49529,False,1471,1465,Cortef,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T125,0.0,Cortef,NNP
+202645,True,0.0,C0699389,True,49519,False,1471,1465,Cortef,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,Cortef,NNP
+203658,True,0.0,C0701195,True,47665,False,1498,1493,DDAVP,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T125,0.0,DDAVP,NNP
+203658,True,0.0,C0701195,True,47655,False,1498,1493,DDAVP,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T116,0.0,DDAVP,NNP
+203658,True,0.0,C0701195,True,47675,False,1498,1493,DDAVP,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,DDAVP,NNP
+10632007,True,0.0,C0301532,True,45732,False,1556,1544,Multivitamin preparation,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T127,0.0,Multivitamin,NN
+10632007,True,0.0,C0301532,True,45722,False,1556,1544,Multivitamin preparation,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,Multivitamin,NN
+10632007,True,0.0,C0301532,True,45742,False,1556,1544,Multivitamin preparation,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,Multivitamin,NN
+6711,True,0.0,C0025219,True,51488,False,1570,1561,Melatonin,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,Melatonin,NN
+6711,True,0.0,C0025219,True,51458,False,1570,1561,Melatonin,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T125,0.0,Melatonin,NN
+6711,True,0.0,C0025219,True,51428,False,1570,1561,Melatonin,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,Melatonin,NN
+41199001,True,0.0,C0025219,True,51508,False,1570,1561,Melatonin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,Melatonin,NN
+41199001,True,0.0,C0025219,True,51478,False,1570,1561,Melatonin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T125,0.0,Melatonin,NN
+41199001,True,0.0,C0025219,True,51448,False,1570,1561,Melatonin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,Melatonin,NN
+116523008,True,0.0,C0025219,True,51498,False,1570,1561,Melatonin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,Melatonin,NN
+116523008,True,0.0,C0025219,True,51468,False,1570,1561,Melatonin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T125,0.0,Melatonin,NN
+116523008,True,0.0,C0025219,True,51438,False,1570,1561,Melatonin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,Melatonin,NN
+202563,True,0.0,C0699283,True,45570,False,1590,1584,No Doz,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,No Doz,DT
+202563,True,0.0,C0699283,True,45560,False,1590,1584,No Doz,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,No Doz,DT
+219484,True,0.0,C0722882,True,46275,False,1610,1602,Provigil,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,Provigil,NNP
+219484,True,0.0,C0722882,True,46285,False,1610,1602,Provigil,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,Provigil,NNP
+197123,True,0.0,C0684259,True,45906,False,1643,1634,Humatrope,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T116,0.0,Humatrope,NNP
+197123,True,0.0,C0684259,True,45926,False,1643,1634,Humatrope,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,Humatrope,NNP
+197123,True,0.0,C0684259,True,45916,False,1643,1634,Humatrope,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T125,0.0,Humatrope,NNP
+39953003,True,0.0,C0040329,True,49942,False,1749,1742,Tobacco,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T131,0.0,tobacco,NN
+39953003,True,0.0,C0040329,True,49932,False,1749,1742,Tobacco,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,tobacco,NN
+419442005,True,0.0,C0001962,True,50528,False,1761,1754,Ethanol,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,alcohol,NN
+448,True,0.0,C0001962,True,50548,False,1761,1754,Ethanol,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,alcohol,NN
+448,True,0.0,C0001962,True,50518,False,1761,1754,Ethanol,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,alcohol,NN
+398624005,True,0.0,C0001962,True,50568,False,1761,1754,Ethanol,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,alcohol,NN
+398624005,True,0.0,C0001962,True,50538,False,1761,1754,Ethanol,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,alcohol,NN
+419442005,True,0.0,C0001962,True,50558,False,1761,1754,Ethanol,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,alcohol,NN
+411,True,0.0,C3536832,True,46915,False,2067,2064,Air,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T197,0.0,air,NN
+417696007,True,0.0,C3536832,True,46905,False,2067,2064,Air,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,air,NN
+417696007,True,0.0,C3536832,True,46925,False,2067,2064,Air,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T197,0.0,air,NN
+411,True,0.0,C3536832,True,46895,False,2067,2064,Air,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,air,NN
+2913,True,0.0,C0010294,True,47794,False,2600,2590,Creatinine,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T123,0.0,creatinine,NN
+15373003,True,0.0,C0010294,True,47784,False,2600,2590,Creatinine,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,creatinine,NN
+15373003,True,0.0,C0010294,True,47804,False,2600,2590,Creatinine,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T123,0.0,creatinine,NN
+2913,True,0.0,C0010294,True,47774,False,2600,2590,Creatinine,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,creatinine,NN
+72341003,True,0.0,C0600137,True,44866,False,2613,2610,Blood Urea Nitrogen,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T197,0.0,BUN,NN
+72341003,True,0.0,C0600137,True,44856,False,2613,2610,Blood Urea Nitrogen,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T123,0.0,BUN,NN
+68615006,True,0.0,C0005367,True,44985,False,2637,2626,Bicarbonates,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T197,0.0,bicarbonate,NN
+68615006,True,0.0,C0005367,True,44975,False,2637,2626,Bicarbonates,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,bicarbonate,NN
+31087008,True,0.0,C0002680,True,47250,False,4158,4148,Ampicillin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T195,0.0,ampicillin,NN
+31087008,True,0.0,C0002680,True,47220,False,4158,4148,Ampicillin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,ampicillin,NN
+733,True,0.0,C0002680,True,47240,False,4158,4148,Ampicillin,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T195,0.0,ampicillin,NN
+733,True,0.0,C0002680,True,47210,False,4158,4148,Ampicillin,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,ampicillin,NN
+387170002,True,0.0,C0002680,True,47260,False,4158,4148,Ampicillin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T195,0.0,ampicillin,NN
+387170002,True,0.0,C0002680,True,47230,False,4158,4148,Ampicillin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,ampicillin,NN
+2189,True,0.0,C0007557,True,47587,False,4170,4161,Cefoxitin,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T195,0.0,cefoxitin,NN
+2189,True,0.0,C0007557,True,47557,False,4170,4161,Cefoxitin,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,cefoxitin,NN
+372780005,True,0.0,C0007557,True,47607,False,4170,4161,Cefoxitin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T195,0.0,cefoxitin,NN
+372780005,True,0.0,C0007557,True,47577,False,4170,4161,Cefoxitin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,cefoxitin,NN
+57670008,True,0.0,C0007557,True,47597,False,4170,4161,Cefoxitin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T195,0.0,cefoxitin,NN
+57670008,True,0.0,C0007557,True,47567,False,4170,4161,Cefoxitin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,cefoxitin,NN
+41193000,True,0.0,C0001367,True,50785,False,4186,4177,Acyclovir,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,acyclovir,NN
+372729009,True,0.0,C0001367,True,50755,False,4186,4177,Acyclovir,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T114,0.0,acyclovir,NN
+425884003,True,0.0,C0001367,True,50805,False,4186,4177,Acyclovir,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,acyclovir,NN
+281,True,0.0,C0001367,True,50775,False,4186,4177,Acyclovir,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,acyclovir,NN
+41193000,True,0.0,C0001367,True,50745,False,4186,4177,Acyclovir,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T114,0.0,acyclovir,NN
+372729009,True,0.0,C0001367,True,50795,False,4186,4177,Acyclovir,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,acyclovir,NN
+425884003,True,0.0,C0001367,True,50765,False,4186,4177,Acyclovir,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T114,0.0,acyclovir,NN
+281,True,0.0,C0001367,True,50735,False,4186,4177,Acyclovir,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T114,0.0,acyclovir,NN
+24099007,True,0.0,C0030054,True,50452,False,4935,4929,Oxygen,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,oxygen,NN
+24099007,True,0.0,C0030054,True,50472,False,4935,4929,Oxygen,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T196,0.0,oxygen,NN
+7806,True,0.0,C0030054,True,50442,False,4935,4929,Oxygen,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,oxygen,NN
+7806,True,0.0,C0030054,True,50462,False,4935,4929,Oxygen,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T196,0.0,oxygen,NN
+73949004,True,0.0,C0004259,True,48800,False,5545,5537,Atropine,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,atropine,NN
+73949004,True,0.0,C0004259,True,48770,False,5545,5537,Atropine,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,atropine,NN
+372832002,True,0.0,C0004259,True,48790,False,5545,5537,Atropine,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,atropine,NN
+372832002,True,0.0,C0004259,True,48760,False,5545,5537,Atropine,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,atropine,NN
+1223,True,0.0,C0004259,True,48780,False,5545,5537,Atropine,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,atropine,NN
+1223,True,0.0,C0004259,True,48750,False,5545,5537,Atropine,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,atropine,NN
+372881000,True,0.0,C0042397,True,45234,False,5704,5688,Vasoconstrictor Agents,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,vasoconstrictors,NNS
+8571001,True,0.0,C0042397,True,45224,False,5704,5688,Vasoconstrictor Agents,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,vasoconstrictors,NNS
+73949004,True,0.0,C0004259,True,48672,False,6422,6414,Atropine,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,atropine,NN
+372832002,True,0.0,C0004259,True,48692,False,6422,6414,Atropine,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,atropine,NN
+372832002,True,0.0,C0004259,True,48662,False,6422,6414,Atropine,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,atropine,NN
+1223,True,0.0,C0004259,True,48682,False,6422,6414,Atropine,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,atropine,NN
+1223,True,0.0,C0004259,True,48652,False,6422,6414,Atropine,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,atropine,NN
+73949004,True,0.0,C0004259,True,48702,False,6422,6414,Atropine,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,atropine,NN
+12016004,True,0.0,C0010290,True,44758,False,6584,6579,Creatine Kinase MB Isoenzyme,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T126,0.0,CK - MB,NNP
+12016004,True,0.0,C0010290,True,44748,False,6584,6579,Creatine Kinase MB Isoenzyme,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T116,0.0,CK - MB,NNP
+102680009,True,0.0,C0041199,True,50919,False,6661,6653,Troponin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T123,0.0,troponin,NN
+102680009,True,0.0,C0041199,True,50909,False,6661,6653,Troponin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T116,0.0,troponin,NN
+425884003,True,0.0,C0001367,True,44560,False,6785,6776,Acyclovir,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T114,0.0,acyclovir,NN
+281,True,0.0,C0001367,True,44530,False,6785,6776,Acyclovir,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T114,0.0,acyclovir,NN
+41193000,True,0.0,C0001367,True,44580,False,6785,6776,Acyclovir,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,acyclovir,NN
+372729009,True,0.0,C0001367,True,44550,False,6785,6776,Acyclovir,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T114,0.0,acyclovir,NN
+425884003,True,0.0,C0001367,True,44600,False,6785,6776,Acyclovir,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,acyclovir,NN
+281,True,0.0,C0001367,True,44570,False,6785,6776,Acyclovir,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,acyclovir,NN
+41193000,True,0.0,C0001367,True,44540,False,6785,6776,Acyclovir,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T114,0.0,acyclovir,NN
+372729009,True,0.0,C0001367,True,44590,False,6785,6776,Acyclovir,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,acyclovir,NN
+15373003,True,0.0,C0010294,True,45059,False,6931,6921,Creatinine,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T123,0.0,creatinine,NN
+2913,True,0.0,C0010294,True,45029,False,6931,6921,Creatinine,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,creatinine,NN
+2913,True,0.0,C0010294,True,45049,False,6931,6921,Creatinine,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T123,0.0,creatinine,NN
+15373003,True,0.0,C0010294,True,45039,False,6931,6921,Creatinine,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,creatinine,NN
+2913,True,0.0,C0010294,True,45105,False,7020,7010,Creatinine,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,creatinine,NN
+2913,True,0.0,C0010294,True,45125,False,7020,7010,Creatinine,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T123,0.0,creatinine,NN
+15373003,True,0.0,C0010294,True,45115,False,7020,7010,Creatinine,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,creatinine,NN
+15373003,True,0.0,C0010294,True,45135,False,7020,7010,Creatinine,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T123,0.0,creatinine,NN
+203658,True,0.0,C0701195,True,49877,False,7116,7111,DDAVP,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T125,0.0,DDAVP,NN
+203658,True,0.0,C0701195,True,49867,False,7116,7111,DDAVP,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T116,0.0,DDAVP,NN
+203658,True,0.0,C0701195,True,49887,False,7116,7111,DDAVP,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,DDAVP,NN
+15373003,True,0.0,C0010294,True,49107,False,7247,7237,Creatinine,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,creatinine,NN
+15373003,True,0.0,C0010294,True,49127,False,7247,7237,Creatinine,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T123,0.0,creatinine,NN
+2913,True,0.0,C0010294,True,49097,False,7247,7237,Creatinine,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,creatinine,NN
+2913,True,0.0,C0010294,True,49117,False,7247,7237,Creatinine,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T123,0.0,creatinine,NN
+9853,True,0.0,C0037473,True,48162,False,7269,7263,Sodium,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T196,0.0,sodium,NN
+39972003,True,0.0,C0037473,True,48152,False,7269,7263,Sodium,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T123,0.0,sodium,NN
+39972003,True,0.0,C0037473,True,48172,False,7269,7263,Sodium,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T196,0.0,sodium,NN
+9853,True,0.0,C0037473,True,48142,False,7269,7263,Sodium,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T123,0.0,sodium,NN
+346712003,True,0.0,C0043047,True,48323,False,7325,7320,Water,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T197,0.0,water,NN
+346712003,True,0.0,C0043047,True,48293,False,7325,7320,Water,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,water,NN
+11295,True,0.0,C0043047,True,48313,False,7325,7320,Water,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T197,0.0,water,NN
+11295,True,0.0,C0043047,True,48283,False,7325,7320,Water,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,water,NN
+11713004,True,0.0,C0043047,True,48333,False,7325,7320,Water,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T197,0.0,water,NN
+11713004,True,0.0,C0043047,True,48303,False,7325,7320,Water,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,water,NN
+203658,True,0.0,C0701195,True,50387,False,7350,7345,DDAVP,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T125,0.0,DDAVP,NN
+203658,True,0.0,C0701195,True,50377,False,7350,7345,DDAVP,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T116,0.0,DDAVP,NN
+203658,True,0.0,C0701195,True,50397,False,7350,7345,DDAVP,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,DDAVP,NN
+203658,True,0.0,C0701195,True,46981,False,7422,7417,DDAVP,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T125,0.0,DDAVP,NN
+203658,True,0.0,C0701195,True,46971,False,7422,7417,DDAVP,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T116,0.0,DDAVP,NN
+203658,True,0.0,C0701195,True,46991,False,7422,7417,DDAVP,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,DDAVP,NN
+421720008,True,0.0,C1154182,True,46231,False,7488,7483,Spray Dosage Form,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T122,0.0,spray,NN
+346162,True,0.0,C1154182,True,46221,False,7488,7483,Spray Dosage Form,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T122,0.0,spray,NN
+39972003,True,0.0,C0037473,True,51124,False,7506,7500,Sodium,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T123,0.0,sodium,NN
+39972003,True,0.0,C0037473,True,51144,False,7506,7500,Sodium,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T196,0.0,sodium,NN
+9853,True,0.0,C0037473,True,51114,False,7506,7500,Sodium,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T123,0.0,sodium,NN
+9853,True,0.0,C0037473,True,51134,False,7506,7500,Sodium,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T196,0.0,sodium,NN
+346712003,True,0.0,C0043047,True,44690,False,7720,7715,Water,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T197,0.0,water,NN
+346712003,True,0.0,C0043047,True,44660,False,7720,7715,Water,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,water,NN
+11295,True,0.0,C0043047,True,44680,False,7720,7715,Water,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T197,0.0,water,NN
+11295,True,0.0,C0043047,True,44650,False,7720,7715,Water,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,water,NN
+11713004,True,0.0,C0043047,True,44700,False,7720,7715,Water,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T197,0.0,water,NN
+11713004,True,0.0,C0043047,True,44670,False,7720,7715,Water,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,water,NN
+39972003,True,0.0,C0037473,True,45440,False,7766,7760,Sodium,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T123,0.0,sodium,NN
+39972003,True,0.0,C0037473,True,45460,False,7766,7760,Sodium,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T196,0.0,sodium,NN
+9853,True,0.0,C0037473,True,45430,False,7766,7760,Sodium,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T123,0.0,sodium,NN
+9853,True,0.0,C0037473,True,45450,False,7766,7760,Sodium,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T196,0.0,sodium,NN
+86355000,True,0.0,C0013832,True,51330,False,7863,7851,Electrolytes,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T197,0.0,electrolytes,NNS
+86355000,True,0.0,C0013832,True,51320,False,7863,7851,Electrolytes,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,electrolytes,NNS
+112113009,True,0.0,C0038317,True,48999,False,8238,8230,Steroids,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,steroids,NNS
+116566001,True,0.0,C0038317,True,48989,False,8238,8230,Steroids,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,steroids,NNS
+396458002,True,0.0,C0020268,True,46480,False,8334,8320,Hydrocortisone,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,hydrocortisone,NN
+16602005,True,0.0,C0020268,True,46530,False,8334,8320,Hydrocortisone,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,hydrocortisone,NN
+16602005,True,0.0,C0020268,True,46500,False,8334,8320,Hydrocortisone,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T125,0.0,hydrocortisone,NN
+16602005,True,0.0,C0020268,True,46470,False,8334,8320,Hydrocortisone,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,hydrocortisone,NN
+5492,True,0.0,C0020268,True,46520,False,8334,8320,Hydrocortisone,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,hydrocortisone,NN
+5492,True,0.0,C0020268,True,46490,False,8334,8320,Hydrocortisone,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T125,0.0,hydrocortisone,NN
+5492,True,0.0,C0020268,True,46460,False,8334,8320,Hydrocortisone,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,hydrocortisone,NN
+396458002,True,0.0,C0020268,True,46540,False,8334,8320,Hydrocortisone,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,hydrocortisone,NN
+396458002,True,0.0,C0020268,True,46510,False,8334,8320,Hydrocortisone,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T125,0.0,hydrocortisone,NN
+218002,True,0.0,C0721346,True,49986,False,8656,8649,Levoxyl,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T116,0.0,Levoxyl,NNP
+218002,True,0.0,C0721346,True,49996,False,8656,8649,Levoxyl,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,Levoxyl,NNP
+65428006,True,0.0,C0040160,True,46065,False,8695,8692,Thyrotropin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T125,0.0,TSH,NN
+65428006,True,0.0,C0040160,True,46035,False,8695,8692,Thyrotropin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T116,0.0,TSH,NN
+10579,True,0.0,C0040160,True,46085,False,8695,8692,Thyrotropin,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,TSH,NN
+10579,True,0.0,C0040160,True,46055,False,8695,8692,Thyrotropin,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T125,0.0,TSH,NN
+10579,True,0.0,C0040160,True,46025,False,8695,8692,Thyrotropin,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T116,0.0,TSH,NN
+326013007,True,0.0,C0040160,True,46105,False,8695,8692,Thyrotropin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,TSH,NN
+326013007,True,0.0,C0040160,True,46075,False,8695,8692,Thyrotropin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T125,0.0,TSH,NN
+326013007,True,0.0,C0040160,True,46045,False,8695,8692,Thyrotropin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T116,0.0,TSH,NN
+65428006,True,0.0,C0040160,True,46095,False,8695,8692,Thyrotropin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,TSH,NN
+103160002,True,0.0,C0082420,True,47968,False,8826,8823,"Endoglin, human",UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T116,0.0,end,NN
+103160002,True,0.0,C0082420,True,47958,False,8826,8823,"Endoglin, human",UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T129,0.0,end,NN
+218002,True,0.0,C0721346,True,47860,False,8949,8942,Levoxyl,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,Levoxyl,NNP
+218002,True,0.0,C0721346,True,47850,False,8949,8942,Levoxyl,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T116,0.0,Levoxyl,NNP
+11295,True,0.0,C0043047,True,49584,False,9090,9085,Water,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,water,NN
+11713004,True,0.0,C0043047,True,49634,False,9090,9085,Water,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T197,0.0,water,NN
+11713004,True,0.0,C0043047,True,49604,False,9090,9085,Water,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,water,NN
+346712003,True,0.0,C0043047,True,49624,False,9090,9085,Water,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T197,0.0,water,NN
+346712003,True,0.0,C0043047,True,49594,False,9090,9085,Water,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,water,NN
+11295,True,0.0,C0043047,True,49614,False,9090,9085,Water,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T197,0.0,water,NN
+203658,True,0.0,C0701195,True,44930,False,9176,9171,DDAVP,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,DDAVP,NN
+203658,True,0.0,C0701195,True,44920,False,9176,9171,DDAVP,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T125,0.0,DDAVP,NN
+203658,True,0.0,C0701195,True,44910,False,9176,9171,DDAVP,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T116,0.0,DDAVP,NN
+713492005,True,0.0,C0037663,True,47152,False,9195,9181,Growth Hormone,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,Growth hormone,NN
+56234005,True,0.0,C0037663,True,47122,False,9195,9181,Growth Hormone,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T116,0.0,Growth hormone,NN
+56234005,True,0.0,C0037663,True,47142,False,9195,9181,Growth Hormone,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T125,0.0,Growth hormone,NN
+713492005,True,0.0,C0037663,True,47112,False,9195,9181,Growth Hormone,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T116,0.0,Growth hormone,NN
+56234005,True,0.0,C0037663,True,47162,False,9195,9181,Growth Hormone,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,Growth hormone,NN
+713492005,True,0.0,C0037663,True,47132,False,9195,9181,Growth Hormone,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T125,0.0,Growth hormone,NN
+87568004,True,0.0,C0019932,True,46591,False,9195,9188,Hormones,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T125,0.0,hormone,NN
+56234005,True,0.0,C0037663,True,47489,True,9239,9225,Growth Hormone,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T125,0.0,growth hormone,NN
+713492005,True,0.0,C0037663,True,47459,True,9239,9225,Growth Hormone,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T116,0.0,growth hormone,NN
+56234005,True,0.0,C0037663,True,47509,True,9239,9225,Growth Hormone,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,growth hormone,NN
+713492005,True,0.0,C0037663,True,47479,True,9239,9225,Growth Hormone,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T125,0.0,growth hormone,NN
+713492005,True,0.0,C0037663,True,47499,True,9239,9225,Growth Hormone,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,growth hormone,NN
+56234005,True,0.0,C0037663,True,47469,True,9239,9225,Growth Hormone,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T116,0.0,growth hormone,NN
+87568004,True,0.0,C0019932,True,47416,True,9239,9232,Hormones,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T125,0.0,hormone,NN
+387362001,True,0.0,C0014563,True,46369,False,9263,9256,Epinephrine,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T125,0.0,Adrenal,JJ
+387362001,True,0.0,C0014563,True,46339,False,9263,9256,Epinephrine,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,Adrenal,JJ
+3992,True,0.0,C0014563,True,46389,False,9263,9256,Epinephrine,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,Adrenal,JJ
+3992,True,0.0,C0014563,True,46359,False,9263,9256,Epinephrine,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T125,0.0,Adrenal,JJ
+3992,True,0.0,C0014563,True,46329,False,9263,9256,Epinephrine,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,Adrenal,JJ
+65502005,True,0.0,C0014563,True,46409,False,9263,9256,Epinephrine,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,Adrenal,JJ
+65502005,True,0.0,C0014563,True,46379,False,9263,9256,Epinephrine,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T125,0.0,Adrenal,JJ
+65502005,True,0.0,C0014563,True,46349,False,9263,9256,Epinephrine,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,Adrenal,JJ
+387362001,True,0.0,C0014563,True,46399,False,9263,9256,Epinephrine,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,Adrenal,JJ
+112113009,True,0.0,C0038317,True,51384,False,9333,9325,Steroids,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,steroids,NNS
+116566001,True,0.0,C0038317,True,51374,False,9333,9325,Steroids,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,steroids,NNS
+116566001,True,0.0,C0038317,True,49173,False,9380,9372,Steroids,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,steroids,NNS
+112113009,True,0.0,C0038317,True,49183,False,9380,9372,Steroids,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,steroids,NNS
+16602005,True,0.0,C0020268,True,49776,False,9601,9587,Hydrocortisone,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T125,0.0,hydrocortisone,NN
+16602005,True,0.0,C0020268,True,49746,False,9601,9587,Hydrocortisone,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,hydrocortisone,NN
+5492,True,0.0,C0020268,True,49796,False,9601,9587,Hydrocortisone,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,hydrocortisone,NN
+5492,True,0.0,C0020268,True,49766,False,9601,9587,Hydrocortisone,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T125,0.0,hydrocortisone,NN
+5492,True,0.0,C0020268,True,49736,False,9601,9587,Hydrocortisone,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,hydrocortisone,NN
+396458002,True,0.0,C0020268,True,49816,False,9601,9587,Hydrocortisone,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,hydrocortisone,NN
+396458002,True,0.0,C0020268,True,49786,False,9601,9587,Hydrocortisone,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T125,0.0,hydrocortisone,NN
+396458002,True,0.0,C0020268,True,49756,False,9601,9587,Hydrocortisone,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,hydrocortisone,NN
+16602005,True,0.0,C0020268,True,49806,False,9601,9587,Hydrocortisone,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,hydrocortisone,NN
+350362009,True,0.0,C0018061,True,45362,False,9620,9607,Gonadotropins,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T125,0.0,Gonadotropins,NNS
+31895006,True,0.0,C0018061,True,45332,False,9620,9607,Gonadotropins,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T116,0.0,Gonadotropins,NNS
+350362009,True,0.0,C0018061,True,45382,False,9620,9607,Gonadotropins,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,Gonadotropins,NNS
+31895006,True,0.0,C0018061,True,45352,False,9620,9607,Gonadotropins,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T125,0.0,Gonadotropins,NNS
+31895006,True,0.0,C0018061,True,45372,False,9620,9607,Gonadotropins,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,Gonadotropins,NNS
+350362009,True,0.0,C0018061,True,45342,False,9620,9607,Gonadotropins,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T116,0.0,Gonadotropins,NNS
+284663,True,0.0,C0939260,True,49682,False,9657,9651,Aviane,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,Aviane,NNP
+284663,True,0.0,C0939260,True,49692,False,9657,9651,Aviane,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,Aviane,NNP
+255631004,True,0.0,C0003232,True,48848,False,9948,9937,Antibiotics,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T195,0.0,antibiotics,NNS
+219484,True,0.0,C0722882,True,50279,False,10203,10195,Provigil,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,Provigil,NNP
+219484,True,0.0,C0722882,True,50269,False,10203,10195,Provigil,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,Provigil,NNP
+373333006,True,0.0,C0304402,True,49345,False,10316,10306,Stimulant,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,stimulants,NNS
+105918002,True,0.0,C0304402,True,49335,False,10316,10306,Stimulant,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,stimulants,NNS
+224917,True,0.0,C0728759,True,48391,False,10406,10399,Ritalin,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,Ritalin,NNP
+224917,True,0.0,C0728759,True,48381,False,10406,10399,Ritalin,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,Ritalin,NNP
+219686,True,0.0,C0723094,True,45506,False,10489,10479,Ritalin-SR,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,Ritalin - SR,NNP
+219686,True,0.0,C0723094,True,45516,False,10489,10479,Ritalin-SR,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,Ritalin - SR,NNP
+224917,True,0.0,C0728759,True,47904,False,10486,10479,Ritalin,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,Ritalin,NNP
+224917,True,0.0,C0728759,True,47914,False,10486,10479,Ritalin,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,Ritalin,NNP
+373873005,True,0.0,C0013227,True,46176,False,10875,10871,Pharmaceutical Preparations,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,drug,NN
+105903003,True,0.0,C0013227,True,46166,False,10875,10871,Pharmaceutical Preparations,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,drug,NN
+410942007,True,0.0,C0013227,True,46156,False,10875,10871,Pharmaceutical Preparations,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,drug,NN
+219484,True,0.0,C0722882,True,44802,False,11055,11047,Provigil,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,Provigil,NNP
+219484,True,0.0,C0722882,True,44812,False,11055,11047,Provigil,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,Provigil,NNP
+196458,True,0.0,C0678119,True,48098,False,11117,11111,Pepcid,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,Pepcid,NNP
+196458,True,0.0,C0678119,True,48088,False,11117,11111,Pepcid,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,Pepcid,NNP
+5224,True,0.0,C0019134,True,50145,False,11148,11141,Heparin,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T123,0.0,heparin,NN
+96382006,True,0.0,C0019134,True,50115,False,11148,11141,Heparin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,heparin,NN
+96382006,True,0.0,C0019134,True,50195,False,11148,11141,Heparin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,heparin,NN
+84812008,True,0.0,C0019134,True,50165,False,11148,11141,Heparin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T123,0.0,heparin,NN
+372877000,True,0.0,C0019134,True,50135,False,11148,11141,Heparin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,heparin,NN
+372877000,True,0.0,C0019134,True,50215,False,11148,11141,Heparin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,heparin,NN
+5224,True,0.0,C0019134,True,50105,False,11148,11141,Heparin,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,heparin,NN
+5224,True,0.0,C0019134,True,50185,False,11148,11141,Heparin,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,heparin,NN
+96382006,True,0.0,C0019134,True,50155,False,11148,11141,Heparin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T123,0.0,heparin,NN
+84812008,True,0.0,C0019134,True,50125,False,11148,11141,Heparin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,heparin,NN
+84812008,True,0.0,C0019134,True,50205,False,11148,11141,Heparin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,heparin,NN
+372877000,True,0.0,C0019134,True,50175,False,11148,11141,Heparin,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T123,0.0,heparin,NN
+108966005,True,0.0,C0009392,True,48032,False,11251,11248,Colony-Stimulating Factors,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T123,0.0,CSF,NNP
+372559001,True,0.0,C0009392,True,48022,False,11251,11248,Colony-Stimulating Factors,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T116,0.0,CSF,NNP
+372559001,True,0.0,C0009392,True,48042,False,11251,11248,Colony-Stimulating Factors,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T123,0.0,CSF,NNP
+108966005,True,0.0,C0009392,True,48012,False,11251,11248,Colony-Stimulating Factors,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T116,0.0,CSF,NNP
+202866,True,0.0,C0699678,True,45797,False,11387,11381,Flagyl,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,Flagyl,NNP
+202866,True,0.0,C0699678,True,45787,False,11387,11381,Flagyl,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,Flagyl,NNP
+255631004,True,0.0,C0003232,True,51071,False,11472,11462,Antibiotics,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T195,0.0,antibiotic,NN
+9721008,True,0.0,C0031381,True,50865,False,11661,11658,Phencyclidine,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,PCP,NN
+9721008,True,0.0,C0031381,True,50855,False,11661,11658,Phencyclidine,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,PCP,NN
+385268001,True,0.0,C1272919,True,45181,False,11858,11854,Oral Dosage Form,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T122,0.0,oral,JJ
+346712003,True,0.0,C0043047,True,48931,False,11864,11859,Water,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T197,0.0,water,NN
+346712003,True,0.0,C0043047,True,48901,False,11864,11859,Water,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,water,NN
+11295,True,0.0,C0043047,True,48921,False,11864,11859,Water,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T197,0.0,water,NN
+11295,True,0.0,C0043047,True,48891,False,11864,11859,Water,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,water,NN
+11713004,True,0.0,C0043047,True,48941,False,11864,11859,Water,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T197,0.0,water,NN
+11713004,True,0.0,C0043047,True,48911,False,11864,11859,Water,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,water,NN
+9853,True,0.0,C0037473,True,47056,False,11899,11893,Sodium,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T196,0.0,sodium,NN
+39972003,True,0.0,C0037473,True,47046,False,11899,11893,Sodium,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T123,0.0,sodium,NN
+39972003,True,0.0,C0037473,True,47066,False,11899,11893,Sodium,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T196,0.0,sodium,NN
+9853,True,0.0,C0037473,True,47036,False,11899,11893,Sodium,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T123,0.0,sodium,NN
+105903003,True,0.0,C0013227,True,48597,False,12386,12375,Pharmaceutical Preparations,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,MEDICATIONS,NNS
+410942007,True,0.0,C0013227,True,48587,False,12386,12375,Pharmaceutical Preparations,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,MEDICATIONS,NNS
+373873005,True,0.0,C0013227,True,48607,False,12386,12375,Pharmaceutical Preparations,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,MEDICATIONS,NNS
+196458,True,0.0,C0678119,True,48435,False,12397,12391,Pepcid,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,Pepcid,NNP
+196458,True,0.0,C0678119,True,48445,False,12397,12391,Pepcid,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,Pepcid,NNP
+16602005,True,0.0,C0020268,True,46704,False,12433,12419,Hydrocortisone,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,Hydrocortisone,NNP
+16602005,True,0.0,C0020268,True,46674,False,12433,12419,Hydrocortisone,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T125,0.0,Hydrocortisone,NNP
+16602005,True,0.0,C0020268,True,46644,False,12433,12419,Hydrocortisone,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,Hydrocortisone,NNP
+5492,True,0.0,C0020268,True,46694,False,12433,12419,Hydrocortisone,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,Hydrocortisone,NNP
+5492,True,0.0,C0020268,True,46664,False,12433,12419,Hydrocortisone,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T125,0.0,Hydrocortisone,NNP
+5492,True,0.0,C0020268,True,46634,False,12433,12419,Hydrocortisone,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,Hydrocortisone,NNP
+396458002,True,0.0,C0020268,True,46714,False,12433,12419,Hydrocortisone,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,Hydrocortisone,NNP
+396458002,True,0.0,C0020268,True,46684,False,12433,12419,Hydrocortisone,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T125,0.0,Hydrocortisone,NNP
+396458002,True,0.0,C0020268,True,46654,False,12433,12419,Hydrocortisone,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,Hydrocortisone,NNP
+396458002,True,0.0,C0020268,True,44449,False,12513,12499,Hydrocortisone,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T125,0.0,Hydrocortisone,NNP
+396458002,True,0.0,C0020268,True,44419,False,12513,12499,Hydrocortisone,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,Hydrocortisone,NNP
+16602005,True,0.0,C0020268,True,44469,False,12513,12499,Hydrocortisone,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,Hydrocortisone,NNP
+16602005,True,0.0,C0020268,True,44439,False,12513,12499,Hydrocortisone,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T125,0.0,Hydrocortisone,NNP
+16602005,True,0.0,C0020268,True,44409,False,12513,12499,Hydrocortisone,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,Hydrocortisone,NNP
+5492,True,0.0,C0020268,True,44459,False,12513,12499,Hydrocortisone,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,Hydrocortisone,NNP
+5492,True,0.0,C0020268,True,44429,False,12513,12499,Hydrocortisone,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T125,0.0,Hydrocortisone,NNP
+5492,True,0.0,C0020268,True,44399,False,12513,12499,Hydrocortisone,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,Hydrocortisone,NNP
+396458002,True,0.0,C0020268,True,44479,False,12513,12499,Hydrocortisone,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,Hydrocortisone,NNP
+218002,True,0.0,C0721346,True,50963,False,12620,12613,Levoxyl,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T116,0.0,Levoxyl,NNP
+218002,True,0.0,C0721346,True,50973,False,12620,12613,Levoxyl,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,Levoxyl,NNP
+202866,True,0.0,C0699678,True,49237,False,12650,12644,Flagyl,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,Flagyl,NNP
+202866,True,0.0,C0699678,True,49227,False,12650,12644,Flagyl,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,Flagyl,NNP
+10632007,True,0.0,C0301532,True,48228,False,12696,12684,Multivitamin preparation,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T127,0.0,Multivitamin,NN
+10632007,True,0.0,C0301532,True,48218,False,12696,12684,Multivitamin preparation,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,Multivitamin,NN
+10632007,True,0.0,C0301532,True,48238,False,12696,12684,Multivitamin preparation,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,Multivitamin,NN
+10311,True,0.0,C0039225,True,45841,False,12705,12699,Tablet Dosage Form,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T122,0.0,tablet,NN
+46992007,True,0.0,C0039225,True,45861,False,12705,12699,Tablet Dosage Form,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T122,0.0,tablet,NN
+385055001,True,0.0,C0039225,True,45851,False,12705,12699,Tablet Dosage Form,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T122,0.0,tablet,NN
+203658,True,0.0,C0701195,True,47328,False,12726,12721,DDAVP,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,DDAVP,NNP
+203658,True,0.0,C0701195,True,47318,False,12726,12721,DDAVP,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T125,0.0,DDAVP,NNP
+203658,True,0.0,C0701195,True,47308,False,12726,12721,DDAVP,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T116,0.0,DDAVP,NNP
+216334,True,0.0,C0719624,True,49409,False,12783,12772,DDAVP Nasal,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,DDAVP nasal,NN
+216334,True,0.0,C0719624,True,49399,False,12783,12772,DDAVP Nasal,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T125,0.0,DDAVP nasal,NN
+216334,True,0.0,C0719624,True,49389,False,12783,12772,DDAVP Nasal,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T116,0.0,DDAVP nasal,NN
+203658,True,0.0,C0701195,True,50050,False,12777,12772,DDAVP,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T125,0.0,DDAVP,NN
+203658,True,0.0,C0701195,True,50040,False,12777,12772,DDAVP,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T116,0.0,DDAVP,NN
+203658,True,0.0,C0701195,True,50060,False,12777,12772,DDAVP,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,DDAVP,NN
+385157007,True,0.0,C0461725,True,45288,False,12789,12778,Nasal Spray,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T122,0.0,nasal spray,JJ
+126542,True,0.0,C0461725,True,45278,False,12789,12778,Nasal Spray,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T122,0.0,nasal spray,JJ
+421720008,True,0.0,C1154182,True,45624,False,12789,12784,Spray Dosage Form,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T122,0.0,spray,NN
+346162,True,0.0,C1154182,True,45614,False,12789,12784,Spray Dosage Form,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T122,0.0,spray,NN
+346162,True,0.0,C1154182,True,50323,False,12799,12794,Spray Dosage Form,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T122,0.0,spray,NN
+421720008,True,0.0,C1154182,True,50333,False,12799,12794,Spray Dosage Form,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T122,0.0,spray,NN
+219686,True,0.0,C0723094,True,51027,False,12820,12810,Ritalin-SR,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,Ritalin - SR,NNP
+219686,True,0.0,C0723094,True,51017,False,12820,12810,Ritalin-SR,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,Ritalin - SR,NNP
+224917,True,0.0,C0728759,True,49043,False,12817,12810,Ritalin,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,Ritalin,NNP
+224917,True,0.0,C0728759,True,49053,False,12817,12810,Ritalin,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,Ritalin,NNP
+284663,True,0.0,C0939260,True,46775,False,12849,12843,Aviane,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,Aviane,NN
+284663,True,0.0,C0939260,True,46765,False,12849,12843,Aviane,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,Aviane,NN
+46992007,True,0.0,C0039225,True,44354,False,12858,12852,Tablet Dosage Form,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T122,0.0,tablet,NN
+385055001,True,0.0,C0039225,True,44344,False,12858,12852,Tablet Dosage Form,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T122,0.0,tablet,NN
+10311,True,0.0,C0039225,True,44334,False,12858,12852,Tablet Dosage Form,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T122,0.0,tablet,NN
+60727003,True,0.0,C0086620,True,46849,False,12893,12875,Miconazole Nitrate,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,Miconazole nitrate,NNP
+42790,True,0.0,C0086620,True,46819,False,12893,12875,Miconazole Nitrate,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,Miconazole nitrate,NNP
+42790,True,0.0,C0086620,True,46839,False,12893,12875,Miconazole Nitrate,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,Miconazole nitrate,NNP
+60727003,True,0.0,C0086620,True,46829,False,12893,12875,Miconazole Nitrate,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,Miconazole nitrate,NNP
+372738006,True,0.0,C0025942,True,48529,False,12885,12875,Miconazole,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,Miconazole,NNP
+372738006,True,0.0,C0025942,True,48499,False,12885,12875,Miconazole,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,Miconazole,NNP
+6932,True,0.0,C0025942,True,48519,False,12885,12875,Miconazole,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T121,0.0,Miconazole,NNP
+6932,True,0.0,C0025942,True,48489,False,12885,12875,Miconazole,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T109,0.0,Miconazole,NNP
+42720001,True,0.0,C0025942,True,48539,False,12885,12875,Miconazole,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T121,0.0,Miconazole,NNP
+42720001,True,0.0,C0025942,True,48509,False,12885,12875,Miconazole,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T109,0.0,Miconazole,NNP
+317009,True,0.0,C0991585,True,45668,False,12911,12897,Topical Powder,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T122,0.0,topical powder,JJ
+385112003,True,0.0,C0991585,True,45678,False,12911,12897,Topical Powder,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T122,0.0,topical powder,JJ
+713409008,True,0.0,C1710439,True,47373,False,12904,12897,Topical Dosage Form,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T122,0.0,topical,JJ
+85581007,True,0.0,C0032861,True,49474,False,12911,12905,Powder dose form,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T122,0.0,powder,NN
+449872003,True,0.0,C0032861,True,49464,False,12911,12905,Powder dose form,UmlsConcept,SNOMEDCT_US,0.0,patient,MedicationMention,T122,0.0,powder,NN
+8612,True,0.0,C0032861,True,49454,False,12911,12905,Powder dose form,UmlsConcept,RXNORM,0.0,patient,MedicationMention,T122,0.0,powder,NN
+271737000,True,0.0,C0002871,True,52791,False,74,68,Anemia,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,ANEMIA,NN
+700489002,True,0.0,C1970187,True,54573,False,89,86,"Deafness, Sensorineural, And Male Infertility",UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,DIS,NN
+64572001,True,0.0,C0012634,True,54583,False,89,86,Disease,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,DIS,NN
+32390006,True,0.0,C0242343,True,51559,False,244,226,Panhypopituitarism,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,Panhypopituitarism,NN
+125667009,True,0.0,C0009938,True,53429,False,260,252,Contusions,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T037,0.0,bruising,NN
+308492005,True,0.0,C0009938,True,53449,False,260,252,Contusions,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T037,0.0,bruising,NN
+77643000,True,0.0,C0009938,True,53439,False,260,252,Contusions,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T037,0.0,bruising,NN
+189179009,True,0.0,C0010276,True,52945,False,418,401,Craniopharyngioma,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T191,0.0,craniopharyngioma,NN
+40009002,True,0.0,C0010276,True,52955,False,418,401,Craniopharyngioma,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T191,0.0,craniopharyngioma,NN
+32390006,True,0.0,C0242343,True,52395,False,497,479,Panhypopituitarism,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,panhypopituitarism,NN
+386807006,True,0.0,C0233794,True,54232,False,657,642,Memory impairment,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T048,0.0,memory deficits,NN
+77643000,True,0.0,C0009938,True,51954,False,689,681,Contusions,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T037,0.0,bruising,NN
+125667009,True,0.0,C0009938,True,51944,False,689,681,Contusions,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T037,0.0,bruising,NN
+308492005,True,0.0,C0009938,True,51964,False,689,681,Contusions,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T037,0.0,bruising,NN
+125667009,True,0.0,C0009938,True,52065,False,777,769,Contusions,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T037,0.0,bruising,NN
+308492005,True,0.0,C0009938,True,52085,False,777,769,Contusions,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T037,0.0,bruising,NN
+77643000,True,0.0,C0009938,True,52075,False,777,769,Contusions,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T037,0.0,bruising,NN
+404053004,True,0.0,C0206655,True,51845,False,789,785,Alveolar rhabdomyosarcoma,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T191,0.0,arms,NNS
+63449009,True,0.0,C0206655,True,51855,False,789,785,Alveolar rhabdomyosarcoma,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T191,0.0,arms,NNS
+55442000,True,0.0,C1956415,True,54375,False,1091,1088,Paroxysmal nocturnal dyspnea,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,PND,NN
+54150009,True,0.0,C0041912,True,51658,False,1112,1109,Upper Respiratory Infections,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,URI,NNP
+189179009,True,0.0,C0010276,True,52340,False,1222,1205,Craniopharyngioma,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T191,0.0,Craniopharyngioma,NN
+40009002,True,0.0,C0010276,True,52350,False,1222,1205,Craniopharyngioma,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T191,0.0,Craniopharyngioma,NN
+416098002,True,0.0,C0013182,True,52020,True,1290,1276,Drug Allergy,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,drug allergies,NN
+416093006,True,0.0,C0013182,True,52010,True,1290,1276,Drug Allergy,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,drug allergies,NN
+314757003,True,0.0,C1282359,True,54188,False,1438,1435,Ocular Cicatricial Pemphigoid,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,OCP,NN
+237722004,True,0.0,C0014008,True,53154,False,1898,1887,Empty Sella Syndrome,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,empty sella,JJ
+414916001,True,0.0,C0028754,True,52131,False,2103,2098,Obesity,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,obese,JJ
+414915002,True,0.0,C0028754,True,52141,False,2103,2098,Obesity,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,obese,JJ
+414916001,True,0.0,C0028754,True,54133,False,2293,2288,Obesity,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,Obese,JJ
+414915002,True,0.0,C0028754,True,54143,False,2293,2288,Obesity,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,Obese,JJ
+189179009,True,0.0,C0010276,True,53539,False,3121,3104,Craniopharyngioma,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T191,0.0,craniopharyngioma,NN
+40009002,True,0.0,C0010276,True,53549,False,3121,3104,Craniopharyngioma,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T191,0.0,craniopharyngioma,NN
+32390006,True,0.0,C0242343,True,54463,False,3196,3178,Panhypopituitarism,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,panhypopituitarism,NN
+286933003,True,0.0,C0009676,True,53385,False,3320,3311,Confusion,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T048,0.0,confusion,NN
+77643000,True,0.0,C0009938,True,52196,False,3449,3441,Contusions,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T037,0.0,bruising,NN
+125667009,True,0.0,C0009938,True,52186,False,3449,3441,Contusions,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T037,0.0,bruising,NN
+308492005,True,0.0,C0009938,True,52206,False,3449,3441,Contusions,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T037,0.0,bruising,NN
+127034005,True,0.0,C0030312,True,54276,False,3552,3540,Pancytopenia,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,pancytopenia,NN
+404053004,True,0.0,C0206655,True,54320,False,3597,3593,Alveolar rhabdomyosarcoma,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T191,0.0,arms,NNS
+63449009,True,0.0,C0206655,True,54330,False,3597,3593,Alveolar rhabdomyosarcoma,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T191,0.0,arms,NNS
+25173007,True,0.0,C0521158,True,53638,False,3677,3661,Recurrent tumor,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T191,0.0,tumor recurrence,NN
+108369006,True,0.0,C0027651,True,53594,False,3666,3661,Neoplasms,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T191,0.0,tumor,NN
+11639007,True,0.0,C0033119,True,51746,False,4237,4229,Puncture wound,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T037,0.0,puncture,NN
+312609001,True,0.0,C0033119,True,51756,False,4237,4229,Puncture wound,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T037,0.0,puncture,NN
+78275009,True,0.0,C0520679,True,53682,False,4485,4462,"Sleep Apnea, Obstructive",UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,obstructive sleep apnea,JJ
+73430006,True,0.0,C0037315,True,52494,False,4485,4474,Sleep Apnea Syndromes,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,sleep apnea,NN
+11639007,True,0.0,C0033119,True,51603,False,4827,4819,Puncture wound,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T037,0.0,puncture,NN
+312609001,True,0.0,C0033119,True,51613,False,4827,4819,Puncture wound,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T037,0.0,puncture,NN
+56265001,True,0.0,C0018799,True,53946,True,5158,5143,Heart Diseases,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,cardiac disease,JJ
+64572001,True,0.0,C0012634,True,53814,True,5158,5151,Disease,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,disease,NN
+21390004,True,0.0,C0000768,True,52272,True,5282,5269,Congenital Abnormality,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T019,0.0,abnormalities,NNS
+385297003,True,0.0,C0000768,True,52292,True,5282,5269,Congenital Abnormality,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T019,0.0,abnormalities,NNS
+276655000,True,0.0,C0000768,True,52262,True,5282,5269,Congenital Abnormality,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T019,0.0,abnormalities,NNS
+276654001,True,0.0,C0000768,True,52282,True,5282,5269,Congenital Abnormality,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T019,0.0,abnormalities,NNS
+107656002,True,0.0,C0000768,True,52252,True,5282,5269,Congenital Abnormality,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T019,0.0,abnormalities,NNS
+111287006,True,0.0,C0040961,True,53000,False,5317,5294,Tricuspid Valve Insufficiency,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,tricuspid regurgitation,NN
+14669001,True,0.0,C0022660,True,52648,False,6720,6701,"Kidney Failure, Acute",UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,acute renal failure,JJ
+42399005,True,0.0,C0035078,True,52747,False,6720,6707,Kidney Failure,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,renal failure,JJ
+7180009,True,0.0,C0025289,True,53297,False,6835,6825,Meningitis,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,meningitis,NN
+286926003,True,0.0,C0020488,True,52692,False,7088,7075,Hypernatremia,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,hypernatremia,NN
+39355002,True,0.0,C0020488,True,52702,False,7088,7075,Hypernatremia,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,hypernatremia,NN
+105969002,True,0.0,C0009782,True,53726,False,8093,8068,Connective Tissue Diseases,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,connective tissue disease,JJ
+64572001,True,0.0,C0012634,True,53495,False,8093,8086,Disease,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,disease,NN
+32390006,True,0.0,C0242343,True,53044,False,8504,8486,Panhypopituitarism,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,panhypopituitarism,NN
+32390006,True,0.0,C0242343,True,54419,False,8732,8714,Panhypopituitarism,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,panhypopituitarism,NN
+15771004,True,0.0,C0011848,True,53990,False,9033,9015,Diabetes Insipidus,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,Diabetes insipidus,NN
+73211009,True,0.0,C0011849,True,53902,False,9023,9015,Diabetes Mellitus,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,Diabetes,NN
+39355002,True,0.0,C0020488,True,52449,False,9062,9049,Hypernatremia,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,hypernatremia,NN
+286926003,True,0.0,C0020488,True,52439,False,9062,9049,Hypernatremia,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,hypernatremia,NN
+386584007,True,0.0,C0001623,True,54517,False,9277,9256,Adrenal gland hypofunction,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,Adrenal insufficiency,JJ
+111563005,True,0.0,C0001623,True,54507,False,9277,9256,Adrenal gland hypofunction,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,Adrenal insufficiency,JJ
+237785004,True,0.0,C0001623,True,54527,False,9277,9256,Adrenal gland hypofunction,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,Adrenal insufficiency,JJ
+416462003,True,0.0,C0043250,True,54034,False,9390,9385,Injury wounds,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T037,0.0,wound,NN
+13924000,True,0.0,C0043250,True,54044,False,9390,9385,Injury wounds,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T037,0.0,wound,NN
+200936003,True,0.0,C0409974,True,53770,False,9414,9409,Lupus Erythematosus,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,lupus,NN
+105969002,True,0.0,C0009782,True,51801,False,9454,9428,Connective Tissue Diseases,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,connective tissue disorder,JJ
+64572001,True,0.0,C0012634,True,51702,False,9454,9446,Disease,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,disorder,NN
+314757003,True,0.0,C1282359,True,52538,False,9663,9660,Ocular Cicatricial Pemphigoid,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,OCP,NN
+40733004,True,0.0,C0009450,True,52835,False,9875,9865,Communicable Diseases,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,infectious,JJ
+189822004,True,0.0,C0009450,True,52855,False,9875,9865,Communicable Diseases,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,infectious,JJ
+191415002,True,0.0,C0009450,True,52845,False,9875,9865,Communicable Diseases,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,infectious,JJ
+127034005,True,0.0,C0030312,True,53341,False,10172,10160,Pancytopenia,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,pancytopenia,NN
+127034005,True,0.0,C0030312,True,53253,False,10383,10371,Pancytopenia,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,pancytopenia,NN
+127034005,True,0.0,C0030312,True,54089,False,10713,10701,Pancytopenia,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,pancytopenia,NN
+87163000,True,0.0,C0023418,True,53208,False,10787,10779,leukemia,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T191,0.0,leukemia,NN
+93143009,True,0.0,C0023418,True,53198,False,10787,10779,leukemia,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T191,0.0,leukemia,NN
+21964009,True,0.0,C0024299,True,53088,False,10798,10790,Lymphoma,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T191,0.0,lymphoma,NN
+188676008,True,0.0,C0024299,True,53108,False,10798,10790,Lymphoma,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T191,0.0,lymphoma,NN
+118600007,True,0.0,C0024299,True,53098,False,10798,10790,Lymphoma,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T191,0.0,lymphoma,NN
+109995007,True,0.0,C3463824,True,52592,False,10819,10805,MYELODYSPLASTIC SYNDROME,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T191,0.0,myelodysplasia,NN
+188736006,True,0.0,C3463824,True,52582,False,10819,10805,MYELODYSPLASTIC SYNDROME,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T191,0.0,myelodysplasia,NN
+128623006,True,0.0,C3463824,True,52602,False,10819,10805,MYELODYSPLASTIC SYNDROME,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T191,0.0,myelodysplasia,NN
+128053003,True,0.0,C0149871,True,51900,False,11156,11153,Deep Vein Thrombosis,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,DVT,NN
+64572001,True,0.0,C0012634,True,52901,False,11520,11511,Disease,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,CONDITION,NN
+52713000,True,0.0,C0270724,True,53858,False,11615,11611,Infantile Neuroaxonal Dystrophy,UmlsConcept,SNOMEDCT_US,0.0,patient,DiseaseDisorderMention,T047,0.0,PLAN,NN
+410546004,True,0.0,C1444662,True,62138,False,89,86,Discontinued,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,DIS,NN
+308552006,True,0.0,C0586177,True,56072,False,131,118,Report status,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,Report Status,NN
+439401001,True,0.0,C0011900,True,60651,False,224,215,Diagnosis,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,DIAGNOSES,NNS
+425075004,True,0.0,C0423798,True,59347,False,260,247,Increased tendency to bruise,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,easy bruising,JJ
+424131007,True,0.0,C0423798,True,59337,False,260,247,Increased tendency to bruise,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,easy bruising,JJ
+363871006,True,0.0,C0278060,True,58162,False,284,271,Mental state,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,mental status,JJ
+36456004,True,0.0,C0278060,True,58172,False,284,271,Mental state,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,mental status,JJ
+102572006,True,0.0,C0239340,True,61135,False,312,291,Edema of lower extremity,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T046,0.0,lower extremity edema,JJ
+271809000,True,0.0,C0085649,True,61221,False,312,297,Peripheral edema,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,extremity edema,NN
+82014009,True,0.0,C0085649,True,61231,False,312,297,Peripheral edema,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,extremity edema,NN
+267038008,True,0.0,C0013604,True,61857,False,312,307,Edema,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,edema,NN
+423666004,True,0.0,C0013604,True,61877,False,312,307,Edema,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,edema,NN
+79654002,True,0.0,C0013604,True,61867,False,312,307,Edema,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,edema,NN
+20741006,True,0.0,C0013604,True,61887,False,312,307,Edema,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,edema,NN
+271807003,True,0.0,C0015230,True,59056,False,317,313,Exanthema,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,rash,NN
+112625008,True,0.0,C0015230,True,59046,False,317,313,Exanthema,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,rash,NN
+392521001,True,0.0,C0262926,True,59887,False,326,319,Medical History,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,HISTORY,NN
+39104002,True,0.0,C0221423,True,62095,False,345,338,Illness (finding),UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,ILLNESS,NN
+441484007,True,0.0,C2711783,True,57170,False,418,390,History of craniopharyngioma,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,history of craniopharyngioma,NN
+392521001,True,0.0,C0262926,True,56772,False,397,390,Medical History,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,history,NN
+40226000,True,0.0,C0684336,True,55598,False,522,512,Impaired health,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T046,0.0,impairment,NN
+371157007,True,0.0,C1299586,True,56632,False,564,554,Has difficulty doing (qualifier value),UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,difficulty,NN
+248218005,True,0.0,C0234422,True,59186,False,584,579,Awake,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,awake,JJ
+371157007,True,0.0,C1299586,True,56029,False,599,587,Has difficulty doing (qualifier value),UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,difficulties,NNS
+50360004,True,0.0,C0034754,True,61620,False,612,605,Reading (activity),UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T056,0.0,reading,NN
+12261009,True,0.0,C2584304,True,60963,False,624,617,Writing (function),UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T041,0.0,writing,NN
+69262000,True,0.0,C0025265,True,60081,False,648,631,"Memory, Short-Term",UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T041,0.0,short - term memory,JJ
+21243004,True,0.0,C0233324,True,58259,False,641,637,Term Birth,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T040,0.0,term,NN
+303116000,True,0.0,C0025260,True,60436,False,648,642,Memory,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T041,0.0,memory,NN
+425075004,True,0.0,C0423798,True,54962,False,689,676,Increased tendency to bruise,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,easy bruising,JJ
+424131007,True,0.0,C0423798,True,54952,False,689,676,Increased tendency to bruise,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,easy bruising,JJ
+249366005,True,0.0,C0014591,True,61943,False,712,701,Epistaxis,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T046,0.0,nose bleeds,NN
+12441001,True,0.0,C0014591,True,61933,False,712,701,Epistaxis,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T046,0.0,nose bleeds,NN
+131148009,True,0.0,C0019080,True,55059,False,712,706,Hemorrhage,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T046,0.0,bleeds,NNS
+50960005,True,0.0,C0019080,True,55049,False,712,706,Hemorrhage,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T046,0.0,bleeds,NNS
+60845006,True,0.0,C0231807,True,61049,False,857,838,Dyspnea on exertion,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,dyspnea on exertion,NN
+267036007,True,0.0,C0013404,True,54628,False,845,838,Dyspnea,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,dyspnea,NN
+230145002,True,0.0,C0013404,True,54638,False,845,838,Dyspnea,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,dyspnea,NN
+19487008,True,0.0,C0015264,True,61663,False,857,849,Exertion,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T040,0.0,exertion,NN
+386705008,True,0.0,C0220870,True,61577,False,901,886,Lightheadedness,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,lightheadedness,NN
+82014009,True,0.0,C0085649,True,59239,False,962,947,Peripheral edema,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,extremity edema,NN
+271809000,True,0.0,C0085649,True,59229,False,962,947,Peripheral edema,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,extremity edema,NN
+79654002,True,0.0,C0013604,True,58980,False,962,957,Edema,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,edema,NN
+20741006,True,0.0,C0013604,True,59000,False,962,957,Edema,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,edema,NN
+267038008,True,0.0,C0013604,True,58970,False,962,957,Edema,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,edema,NN
+423666004,True,0.0,C0013604,True,58990,False,962,957,Edema,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,edema,NN
+272039006,True,0.0,C0010200,True,57557,True,1019,1014,Coughing,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,cough,NN
+49727002,True,0.0,C0010200,True,57577,True,1019,1014,Coughing,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,cough,NN
+263731006,True,0.0,C0010200,True,57567,True,1019,1014,Coughing,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,cough,NN
+50177009,True,0.0,C0015967,True,59283,False,1028,1022,Fever,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,fevers,NNS
+386661006,True,0.0,C0015967,True,59293,False,1028,1022,Fever,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,fevers,NNS
+43724002,True,0.0,C0085593,True,60178,False,1037,1031,Chills,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,chills,NNS
+21522001,True,0.0,C0000737,True,57127,False,1054,1040,Abdominal Pain,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,abdominal pain,JJ
+22253000,True,0.0,C0030193,True,57342,False,1054,1050,Pain,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,pain,NN
+422587007,True,0.0,C0027497,True,58054,False,1063,1057,Nausea,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,nausea,NN
+300359004,True,0.0,C0042963,True,58097,False,1074,1066,Vomiting,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,vomiting,NN
+249497008,True,0.0,C0042963,True,58117,False,1074,1066,Vomiting,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,vomiting,NN
+422400008,True,0.0,C0042963,True,58107,False,1074,1066,Vomiting,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,vomiting,NN
+267060006,True,0.0,C0011991,True,58441,False,1085,1077,Diarrhea,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,diarrhea,NN
+62315008,True,0.0,C0011991,True,58431,False,1085,1077,Diarrhea,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,diarrhea,NN
+62744007,True,0.0,C0085619,True,60522,False,1103,1094,Orthopnea,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,orthopnea,NN
+36456004,True,0.0,C0278060,True,59401,False,1140,1127,Mental state,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,mental status,JJ
+363871006,True,0.0,C0278060,True,59391,False,1140,1127,Mental state,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,mental status,JJ
+417662000,True,0.0,C0455458,True,60307,False,1203,1183,PMH - past medical history,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,PAST MEDICAL HISTORY,JJ
+392521001,True,0.0,C0262926,True,61749,False,1203,1196,Medical History,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,HISTORY,NN
+421961002,True,0.0,C0020517,True,56728,False,1265,1256,Hypersensitivity,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T046,0.0,ALLERGIES,NNS
+418634005,True,0.0,C0020517,True,56718,False,1265,1256,Hypersensitivity,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T046,0.0,ALLERGIES,NNS
+421961002,True,0.0,C0020517,True,54692,True,1290,1281,Hypersensitivity,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T046,0.0,allergies,NNS
+418634005,True,0.0,C0020517,True,54682,True,1290,1281,Hypersensitivity,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T046,0.0,allergies,NNS
+160476009,True,0.0,C0424945,True,56858,False,1721,1707,Social and personal history,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,SOCIAL HISTORY,JJ
+392521001,True,0.0,C0262926,True,56589,False,1721,1714,Medical History,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,HISTORY,NN
+72670004,True,0.0,C0311392,True,58690,False,1954,1949,Physical findings,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,Signs,NNS
+75367002,True,0.0,C0005823,True,58485,False,1998,1984,Blood Pressure,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T040,0.0,blood pressure,NN
+13543005,True,0.0,C0460139,True,57968,False,1998,1990,Pressure (finding),UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,pressure,NN
+20716004,True,0.0,C0231833,True,58593,False,2031,2008,Respiratory rate normal,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,respiratory rate normal,JJ
+8117002,True,0.0,C0231683,True,59650,False,2031,2025,Gait normal,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,normal,JJ
+225544001,True,0.0,C0558145,True,59660,False,2031,2025,Skin appearance normal (finding),UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,normal,JJ
+271782001,True,0.0,C0013144,True,60037,False,2119,2113,Drowsiness,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,sleepy,NN
+79519003,True,0.0,C0013144,True,60027,False,2119,2113,Drowsiness,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,sleepy,NN
+69328002,True,0.0,C0231303,True,57256,True,2154,2146,Distress,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,distress,NN
+2867002,True,0.0,C0205180,True,61534,False,2172,2163,Anicteric,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,Anicteric,JJ
+255324009,True,0.0,C0026649,True,57471,False,2265,2257,Movement,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T040,0.0,movement,NN
+421493004,True,0.0,C0018808,True,59445,True,2385,2378,Heart murmur,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,murmurs,NNS
+88610006,True,0.0,C0018808,True,59465,True,2385,2378,Heart murmur,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,murmurs,NNS
+414786004,True,0.0,C0018808,True,59455,True,2385,2378,Heart murmur,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,murmurs,NNS
+119419001,True,0.0,C0010520,True,56115,True,2448,2440,Cyanosis,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,cyanosis,NN
+3415004,True,0.0,C0010520,True,56125,True,2448,2440,Cyanosis,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,cyanosis,NN
+367004,True,0.0,C0149651,True,60565,True,2460,2452,Clubbing,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,clubbing,NN
+420829009,True,0.0,C1720243,True,55329,True,2479,2463,1+ pitting edema,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,1 + pitting edema,CD
+284521000,True,0.0,C0333243,True,55781,True,2479,2466,Pitting edema,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,pitting edema,NN
+5008001,True,0.0,C0333243,True,55791,True,2479,2466,Pitting edema,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,pitting edema,NN
+79654002,True,0.0,C0013604,True,57859,True,2479,2474,Edema,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,edema,NN
+20741006,True,0.0,C0013604,True,57879,True,2479,2474,Edema,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,edema,NN
+267038008,True,0.0,C0013604,True,57849,True,2479,2474,Edema,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,edema,NN
+423666004,True,0.0,C0013604,True,57869,True,2479,2474,Edema,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,edema,NN
+118246004,True,0.0,C0587081,True,61275,False,2540,2536,Laboratory test finding,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,LABS,NNS
+49710005,True,0.0,C0085610,True,58388,False,2879,2862,Sinus bradycardia,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T046,0.0,sinus bradycardia,JJ
+48867003,True,0.0,C0428977,True,57925,False,2879,2868,Bradycardia,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T046,0.0,bradycardia,NN
+41011002,True,0.0,C0429103,True,55189,False,2959,2953,T wave feature,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,T wave,NN
+47351003,True,0.0,C0332448,True,60694,True,3005,2995,Infiltration,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T046,0.0,infiltrate,NN
+41699000,True,0.0,C0013687,True,60350,True,3017,3009,effusion,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T046,0.0,effusion,NN
+441484007,True,0.0,C2711783,True,57299,False,3121,3093,History of craniopharyngioma,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,history of craniopharyngioma,NN
+392521001,True,0.0,C0262926,True,57385,False,3100,3093,Medical History,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,history,NN
+271782001,True,0.0,C0013144,True,61425,False,3219,3209,Drowsiness,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,sleepiness,NN
+79519003,True,0.0,C0013144,True,61415,False,3219,3209,Drowsiness,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,sleepiness,NN
+224930009,True,0.0,C0557854,True,58302,False,3268,3261,Services,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T057,0.0,Service,NN
+392521001,True,0.0,C0262926,True,58873,False,3302,3295,Medical History,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,history,NN
+39384006,True,0.0,C0004134,True,58646,False,3346,3340,Ataxia,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,ataxia,NN
+20262006,True,0.0,C0004134,True,58636,False,3346,3340,Ataxia,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,ataxia,NN
+162349004,True,0.0,C0040264,True,58528,False,3357,3349,Tinnitus,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,tinnitus,NN
+162352007,True,0.0,C0040264,True,58548,False,3357,3349,Tinnitus,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,tinnitus,NN
+60862001,True,0.0,C0040264,True,58538,False,3357,3349,Tinnitus,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,tinnitus,NN
+102572006,True,0.0,C0239340,True,58733,False,3391,3370,Edema of lower extremity,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T046,0.0,lower extremity edema,JJ
+271809000,True,0.0,C0085649,True,58819,False,3391,3376,Peripheral edema,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,extremity edema,NN
+82014009,True,0.0,C0085649,True,58829,False,3391,3376,Peripheral edema,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,extremity edema,NN
+79654002,True,0.0,C0013604,True,57632,False,3391,3386,Edema,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,edema,NN
+20741006,True,0.0,C0013604,True,57652,False,3391,3386,Edema,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,edema,NN
+267038008,True,0.0,C0013604,True,57622,False,3391,3386,Edema,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,edema,NN
+423666004,True,0.0,C0013604,True,57642,False,3391,3386,Edema,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,edema,NN
+425075004,True,0.0,C0423798,True,55845,False,3449,3436,Increased tendency to bruise,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,easy bruising,JJ
+424131007,True,0.0,C0423798,True,55835,False,3449,3436,Increased tendency to bruise,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,easy bruising,JJ
+446431000124107,True,0.0,C1519275,True,60264,False,3462,3456,Grade 3 Severe Adverse Event,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,severe,JJ
+249366005,True,0.0,C0014591,True,56545,False,3483,3474,Epistaxis,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T046,0.0,epistaxis,NN
+12441001,True,0.0,C0014591,True,56535,False,3483,3474,Epistaxis,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T046,0.0,epistaxis,NN
+261041009,True,0.0,C0043227,True,56675,False,3523,3519,Work,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T057,0.0,work,NN
+442672001,True,0.0,C0038999,True,61489,False,3575,3567,Swelling,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,swelling,NN
+413269001,True,0.0,C0038999,True,61479,False,3575,3567,Swelling,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,swelling,NN
+65124004,True,0.0,C0038999,True,61469,False,3575,3567,Swelling,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,swelling,NN
+271807003,True,0.0,C0015230,True,54865,False,3615,3611,Exanthema,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,rash,NN
+112625008,True,0.0,C0015230,True,54855,False,3615,3611,Exanthema,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,rash,NN
+260388006,True,0.0,C0442739,True,57030,True,3645,3636,No status change,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,no change,DT
+224930009,True,0.0,C0557854,True,60393,False,3729,3722,Services,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T057,0.0,Service,NN
+106167005,True,0.0,C0234421,True,55943,False,3894,3885,Conscious,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T041,0.0,conscious,JJ
+422768004,True,0.0,C0237284,True,58011,False,3936,3924,unresponsive behavior,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,unresponsive,JJ
+386689009,True,0.0,C0020672,True,60780,False,3952,3941,"Hypothermia, natural",UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,hypothermic,JJ
+392521001,True,0.0,C0262926,True,56395,False,4458,4451,Medical History,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,history,NN
+258158006,True,0.0,C0037313,True,60737,False,4479,4474,Sleep,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T040,0.0,sleep,NN
+1023001,True,0.0,C0003578,True,57073,False,4485,4480,Apnea,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T046,0.0,apnea,NN
+248583008,True,0.0,C0003578,True,57083,False,4485,4480,Apnea,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T046,0.0,apnea,NN
+8117002,True,0.0,C0231683,True,62041,False,4633,4627,Gait normal,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,normal,JJ
+225544001,True,0.0,C0558145,True,62051,False,4633,4627,Skin appearance normal (finding),UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,normal,JJ
+386689009,True,0.0,C0020672,True,57698,False,4717,4706,"Hypothermia, natural",UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,hypothermic,JJ
+422768004,True,0.0,C0237284,True,61178,False,4734,4722,unresponsive behavior,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,unresponsive,JJ
+116223007,True,0.0,C0009566,True,56298,True,5103,5090,Complication,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T046,0.0,complications,NNS
+392521001,True,0.0,C0262926,True,55146,True,5139,5132,Medical History,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,history,NN
+8117002,True,0.0,C0231683,True,55232,False,5206,5200,Gait normal,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,normal,JJ
+225544001,True,0.0,C0558145,True,55242,False,5206,5200,Skin appearance normal (finding),UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,normal,JJ
+34205009,True,0.0,C0336969,True,57213,False,5242,5234,Ejection as a Sports activity,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T056,0.0,ejection,NN
+78104003,True,0.0,C2004489,True,55286,False,5317,5304,Regurgitation,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,regurgitation,NN
+446411000124101,True,0.0,C1513302,True,55684,False,5328,5324,Mild Adverse Event,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,mild,JJ
+48724000,True,0.0,C0026266,True,55103,False,5349,5329,Mitral Valve Insufficiency,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T046,0.0,mitral regurgitation,JJ
+78104003,True,0.0,C2004489,True,56255,False,5349,5336,Regurgitation,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,regurgitation,NN
+48867003,True,0.0,C0428977,True,61372,False,5413,5402,Bradycardia,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T046,0.0,bradycardia,NN
+48867003,True,0.0,C0428977,True,54736,False,5639,5628,Bradycardia,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T046,0.0,bradycardia,NN
+45007003,True,0.0,C0020649,True,57514,False,5729,5711,Hypotension,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,low blood pressure,JJ
+75367002,True,0.0,C0005823,True,58216,False,5729,5715,Blood Pressure,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T040,0.0,blood pressure,NN
+13543005,True,0.0,C0460139,True,55555,False,5729,5721,Pressure (finding),UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,pressure,NN
+224930009,True,0.0,C0557854,True,59984,False,5877,5870,Services,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T057,0.0,Service,NN
+48867003,True,0.0,C0428977,True,56492,False,5961,5950,Bradycardia,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T046,0.0,bradycardia,NN
+2931005,True,0.0,C0332148,True,56901,False,5976,5970,Probable diagnosis,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,likely,RB
+19487008,True,0.0,C0015264,True,60877,False,6071,6063,Exertion,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T040,0.0,exertion,NN
+258157001,True,0.0,C0035253,True,55415,False,6263,6259,Rest,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T056,0.0,rest,NN
+55607006,True,0.0,C0033213,True,59704,False,6358,6353,Problem,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,issue,NN
+52674009,True,0.0,C0022116,True,55006,False,6540,6532,Ischemia,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T046,0.0,ischemia,NN
+169240004,True,0.0,C0436484,True,55641,False,6639,6618,Echocardiogram normal,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,normal echocardiogram,JJ
+8117002,True,0.0,C0231683,True,60124,False,6624,6618,Gait normal,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,normal,JJ
+225544001,True,0.0,C0558145,True,60134,False,6624,6618,Skin appearance normal (finding),UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,normal,JJ
+405006006,True,0.0,C1321013,True,58345,False,6967,6958,Hydration status,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,hydration,NN
+8117002,True,0.0,C0231683,True,60823,False,6982,6976,Gait normal,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,normal,JJ
+225544001,True,0.0,C0558145,True,60833,False,6982,6976,Skin appearance normal (finding),UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,normal,JJ
+392521001,True,0.0,C0262926,True,60920,False,7071,7064,Medical History,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,history,NN
+386808001,True,0.0,C0015726,True,57795,False,7134,7130,Fear (Mental Process),UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T041,0.0,fear,NN
+1402001,True,0.0,C0015726,True,57805,False,7134,7130,Fear (Mental Process),UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T041,0.0,fear,NN
+371157007,True,0.0,C1299586,True,61706,False,7161,7152,Has difficulty doing (qualifier value),UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,difficult,JJ
+224930009,True,0.0,C0557854,True,55986,False,7587,7580,Services,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T057,0.0,Service,NN
+226354008,True,0.0,C0013123,True,60479,False,7727,7715,Water consumption,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T040,0.0,water intake,NN
+8117002,True,0.0,C0231683,True,59553,False,7759,7753,Gait normal,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,normal,JJ
+225544001,True,0.0,C0558145,True,59563,False,7759,7753,Skin appearance normal (finding),UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,normal,JJ
+224930009,True,0.0,C0557854,True,61092,False,7951,7943,Services,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T057,0.0,services,NNS
+73595000,True,0.0,C0038435,True,58916,False,8203,8197,Stress,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,stress,NN
+262188008,True,0.0,C0038435,True,58926,False,8203,8197,Stress,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,stress,NN
+224930009,True,0.0,C0557854,True,59844,False,8546,8539,Services,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T057,0.0,Service,NN
+371157007,True,0.0,C1299586,True,56169,False,8674,8665,Has difficulty doing (qualifier value),UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,difficult,JJ
+39104002,True,0.0,C0221423,True,56987,False,8884,8877,Illness (finding),UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,illness,NN
+73595000,True,0.0,C0038435,True,56341,False,9319,9313,Stress,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,stress,NN
+262188008,True,0.0,C0038435,True,56351,False,9319,9313,Stress,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,stress,NN
+224930009,True,0.0,C0557854,True,55512,False,9800,9793,Services,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T057,0.0,Service,NN
+389086002,True,0.0,C0242184,True,59747,False,9859,9852,Hypoxia,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T046,0.0,hypoxic,JJ
+91175000,True,0.0,C0036572,True,56815,False,10008,10001,Seizures,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,seizure,NN
+439401001,True,0.0,C0011900,True,60608,False,10036,10027,Diagnosis,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,diagnosis,NN
+363871006,True,0.0,C0278060,True,55889,False,10109,10096,Mental state,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,mental status,JJ
+36456004,True,0.0,C0278060,True,55899,False,10109,10096,Mental state,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,mental status,JJ
+102572006,True,0.0,C0239340,True,55372,False,10133,10112,Edema of lower extremity,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T046,0.0,lower extremity edema,JJ
+271809000,True,0.0,C0085649,True,55458,False,10133,10118,Peripheral edema,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,extremity edema,NN
+82014009,True,0.0,C0085649,True,55468,False,10133,10118,Peripheral edema,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,extremity edema,NN
+79654002,True,0.0,C0013604,True,54789,False,10133,10128,Edema,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,edema,NN
+20741006,True,0.0,C0013604,True,54809,False,10133,10128,Edema,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,edema,NN
+267038008,True,0.0,C0013604,True,54779,False,10133,10128,Edema,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,edema,NN
+423666004,True,0.0,C0013604,True,54799,False,10133,10128,Edema,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,edema,NN
+271807003,True,0.0,C0015230,True,57751,False,10140,10136,Exanthema,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,rash,NN
+112625008,True,0.0,C0015230,True,57741,False,10140,10136,Exanthema,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,rash,NN
+1402001,True,0.0,C0015726,True,61328,False,10335,10331,Fear (Mental Process),UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T041,0.0,fear,NN
+386808001,True,0.0,C0015726,True,61318,False,10335,10331,Fear (Mental Process),UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T041,0.0,fear,NN
+363871006,True,0.0,C0278060,True,61987,False,10525,10512,Mental state,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,mental status,JJ
+36456004,True,0.0,C0278060,True,61997,False,10525,10512,Mental state,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,mental status,JJ
+248218005,True,0.0,C0234422,True,56212,False,10601,10596,Awake,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,awake,JJ
+248221007,True,0.0,C0239110,True,58776,False,10609,10604,Consciousness clear,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,alert,JJ
+371150009,True,0.0,C1299581,True,59510,False,10616,10612,Able (finding),UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,able,JJ
+69449002,True,0.0,C0728867,True,61006,False,10882,10871,Drug effect disorder,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T046,0.0,drug effect,NN
+224930009,True,0.0,C0557854,True,57428,False,11509,11501,Services,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T057,0.0,services,NNS
+116223007,True,0.0,C0009566,True,59607,True,11562,11549,Complication,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T046,0.0,COMPLICATIONS,NNS
+125112009,True,0.0,C1265570,True,56944,False,11920,11900,Morphology within normal limits,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,within normal limits,IN
+8117002,True,0.0,C0231683,True,55727,False,11913,11907,Gait normal,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,normal,JJ
+225544001,True,0.0,C0558145,True,55737,False,11913,11907,Skin appearance normal (finding),UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,normal,JJ
+36456004,True,0.0,C0278060,True,56448,False,12003,11990,Mental state,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,mental status,JJ
+363871006,True,0.0,C0278060,True,56438,False,12003,11990,Mental state,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T033,0.0,mental status,JJ
+422587007,True,0.0,C0027497,True,59100,False,12029,12023,Nausea,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,nausea,NN
+300359004,True,0.0,C0042963,True,61792,False,12040,12032,Vomiting,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,vomiting,NN
+249497008,True,0.0,C0042963,True,61812,False,12040,12032,Vomiting,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,vomiting,NN
+422400008,True,0.0,C0042963,True,61802,False,12040,12032,Vomiting,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,vomiting,NN
+22253000,True,0.0,C0030193,True,54909,False,12057,12053,Pain,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,pain,NN
+271807003,True,0.0,C0015230,True,59800,False,12064,12060,Exanthema,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,rash,NN
+112625008,True,0.0,C0015230,True,59790,False,12064,12060,Exanthema,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,rash,NN
+230145002,True,0.0,C0013404,True,59940,False,12086,12067,Dyspnea,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,shortness of breath,NN
+267036007,True,0.0,C0013404,True,59930,False,12086,12067,Dyspnea,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,shortness of breath,NN
+386705008,True,0.0,C0220870,True,60221,False,12104,12089,Lightheadedness,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T184,0.0,lightheadedness,NN
+116223007,True,0.0,C0009566,True,59143,True,12363,12350,Complication,UmlsConcept,SNOMEDCT_US,0.0,patient,SignSymptomMention,T046,0.0,complications,NNS
+65801008,True,0.0,C0728940,True,62883,False,442,433,Excision,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,resection,NN
+128303001,True,0.0,C0728940,True,62873,False,442,433,Excision,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,resection,NN
+53999001,True,0.0,C0184967,True,62583,False,743,736,Insertion of pack (procedure),UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,packing,NN
+65801008,True,0.0,C0728940,True,62273,False,1246,1237,Excision,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,resection,NN
+128303001,True,0.0,C0728940,True,62263,False,1246,1237,Excision,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,resection,NN
+47545007,True,0.0,C0199451,True,62222,False,1579,1575,Continuous Positive Airway Pressure,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,CPAP,NNP
+312250003,True,0.0,C0024485,True,63173,False,1842,1839,Magnetic Resonance Imaging,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T060,0.0,MRI,NN
+113091000,True,0.0,C0024485,True,63163,False,1842,1839,Magnetic Resonance Imaging,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T060,0.0,MRI,NN
+264598005,True,0.0,C0523807,True,63813,False,2051,2038,Oxygen saturation measurement,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T059,0.0,O2 saturation,NN
+104847001,True,0.0,C0523807,True,63803,False,2051,2038,Oxygen saturation measurement,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T059,0.0,O2 saturation,NN
+37931006,True,0.0,C0004339,True,62315,False,2323,2311,Auscultation,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T060,0.0,auscultation,NN
+303720006,True,0.0,C0008509,True,64197,False,2340,2337,Chorionic Villi Sampling,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T060,0.0,CVS,NN
+103693007,True,0.0,C0430022,True,62966,False,2555,2545,diagnostic procedure,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T060,0.0,DIAGNOSTIC,JJ
+250623007,True,0.0,C0005845,True,62407,False,2613,2610,Blood urea nitrogen measurement,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T059,0.0,BUN,NN
+105011006,True,0.0,C0005845,True,62397,False,2613,2610,Blood urea nitrogen measurement,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T059,0.0,BUN,NN
+26604007,True,0.0,C0009555,True,64621,False,2651,2648,Complete Blood Count,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T059,0.0,CBC,NN
+28317006,True,0.0,C0018935,True,62624,False,2703,2693,Hematocrit procedure,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T059,0.0,hematocrit,NN
+250231008,True,0.0,C0018935,True,62634,False,2703,2693,Hematocrit procedure,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T059,0.0,hematocrit,NN
+119266004,True,0.0,C0441509,True,63896,False,2742,2730,Coagulation procedure,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,Coagulations,NNS
+42525009,True,0.0,C0030605,True,63007,False,2755,2752,Activated Partial Thromboplastin Time measurement,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T059,0.0,PTT,NN
+165581004,True,0.0,C0525032,True,63225,False,2768,2765,International Normalized Ratio,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T059,0.0,INR,NN
+1951000175101,True,0.0,C0525032,True,63215,False,2768,2765,International Normalized Ratio,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T059,0.0,INR,NN
+46825001,True,0.0,C1623258,True,63493,True,2853,2850,Electrocardiography,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T060,0.0,EKG,NN
+29303009,True,0.0,C1623258,True,63483,True,2853,2850,Electrocardiography,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T060,0.0,EKG,NN
+399208008,True,0.0,C0039985,True,64104,False,2983,2972,Plain chest X-ray,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T060,0.0,Chest x-ray,NN
+168537006,True,0.0,C1306645,True,64052,False,2983,2978,Plain x-ray,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T060,0.0,x-ray,NN
+363680008,True,0.0,C1962945,True,64062,False,2983,2978,Radiographic imaging procedure,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T060,0.0,x-ray,NN
+65801008,True,0.0,C0728940,True,63058,False,3145,3136,Excision,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,resection,NN
+128303001,True,0.0,C0728940,True,63048,False,3145,3136,Excision,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,resection,NN
+27411008,True,0.0,C0007471,True,64394,False,3507,3494,Cauterization - action,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,cauterization,NN
+113091000,True,0.0,C0024485,True,64517,False,3620,3617,Magnetic Resonance Imaging,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T060,0.0,MRI,NN
+312250003,True,0.0,C0024485,True,64527,False,3620,3617,Magnetic Resonance Imaging,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T060,0.0,MRI,NN
+86273004,True,0.0,C0005558,True,63720,False,3855,3849,Biopsy,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T060,0.0,biopsy,NN
+129314006,True,0.0,C0005558,True,63710,False,3855,3849,Biopsy,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T060,0.0,biopsy,NN
+314271007,True,0.0,C0079159,True,63360,False,3903,3885,Conscious Sedation,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,conscious sedation,JJ
+72641008,True,0.0,C0344106,True,63267,False,3903,3895,Sedation procedure,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,sedation,NN
+234326005,True,0.0,C0005954,True,62728,False,3995,3982,Bone marrow biopsy,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T060,0.0,marrow biopsy,NN
+86273004,True,0.0,C0005558,True,62500,False,3995,3989,Biopsy,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T060,0.0,biopsy,NN
+129314006,True,0.0,C0005558,True,62490,False,3995,3989,Biopsy,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T060,0.0,biopsy,NN
+265232001,True,0.0,C0553794,True,62181,False,4237,4222,Diagnostic lumbar puncture,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T060,0.0,lumbar puncture,JJ
+52765003,True,0.0,C0021925,True,62449,False,4258,4248,Intubation,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,intubation,NN
+47545007,True,0.0,C0199451,True,63576,False,4499,4495,Continuous Positive Airway Pressure,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,CPAP,NNP
+104847001,True,0.0,C0523807,True,62676,False,4647,4634,Oxygen saturation measurement,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T059,0.0,O2 saturation,NN
+264598005,True,0.0,C0523807,True,62686,False,4647,4634,Oxygen saturation measurement,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T059,0.0,O2 saturation,NN
+399208008,True,0.0,C0039985,True,63401,False,4683,4672,Plain chest X-ray,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T060,0.0,chest x-ray,NN
+168537006,True,0.0,C1306645,True,63308,False,4683,4678,Plain x-ray,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T060,0.0,x-ray,NN
+363680008,True,0.0,C1962945,True,63318,False,4683,4678,Radiographic imaging procedure,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T060,0.0,x-ray,NN
+86273004,True,0.0,C0005558,True,64672,False,4767,4761,Biopsy,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T060,0.0,biopsy,NN
+129314006,True,0.0,C0005558,True,64662,False,4767,4761,Biopsy,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T060,0.0,biopsy,NN
+52765003,True,0.0,C0021925,True,63855,False,4797,4787,Intubation,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,intubation,NN
+72641008,True,0.0,C0344106,True,64301,False,4890,4882,Sedation procedure,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,sedation,NN
+47545007,True,0.0,C0199451,True,64714,False,5034,5030,Continuous Positive Airway Pressure,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,CPAP,NNP
+303720006,True,0.0,C0008509,True,63535,False,5111,5108,Chorionic Villi Sampling,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T060,0.0,CVS,NN
+40701008,True,0.0,C0013516,True,63762,False,5177,5163,Echocardiography,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T060,0.0,echocardiogram,NN
+40701008,True,0.0,C0013516,True,62356,False,6639,6625,Echocardiography,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T060,0.0,echocardiogram,NN
+359659005,True,0.0,C0041618,True,64258,False,6861,6851,Ultrasonography,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T060,0.0,ultrasound,NN
+16310003,True,0.0,C0041618,True,64248,False,6861,6851,Ultrasonography,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T060,0.0,ultrasound,NN
+278292003,True,0.0,C0041618,True,64238,False,6861,6851,Ultrasonography,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T060,0.0,ultrasound,NN
+86273004,True,0.0,C0005558,True,64352,False,7985,7977,Biopsy,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T060,0.0,biopsies,NNS
+129314006,True,0.0,C0005558,True,64342,False,7985,7977,Biopsy,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T060,0.0,biopsies,NNS
+5113004,True,0.0,C0202225,True,63617,False,8781,8774,T4 free measurement,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T059,0.0,free T4,JJ
+5113004,True,0.0,C0202225,True,62925,False,8929,8922,T4 free measurement,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T059,0.0,free T4,JJ
+373188003,True,0.0,C0035139,True,63120,False,9251,9240,Surgical Replantation,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,replacement,NN
+3137001,True,0.0,C0035139,True,63110,False,9251,9240,Surgical Replantation,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,replacement,NN
+129337000,True,0.0,C0035139,True,63100,False,9251,9240,Surgical Replantation,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,replacement,NN
+71388002,True,0.0,C0184661,True,62542,False,9352,9342,Interventional procedure,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,procedures,NNS
+54550000,True,0.0,C0013819,True,64435,False,9957,9954,Electroencephalography,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T060,0.0,EEG,NN
+234326005,True,0.0,C0005954,True,63442,False,10761,10748,Bone marrow biopsy,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T060,0.0,marrow biopsy,NN
+86273004,True,0.0,C0005558,True,63668,False,10761,10755,Biopsy,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T060,0.0,biopsy,NN
+129314006,True,0.0,C0005558,True,63658,False,10761,10755,Biopsy,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T060,0.0,biopsy,NN
+28317006,True,0.0,C0018935,True,63937,False,10984,10974,Hematocrit procedure,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T059,0.0,hematocrit,NN
+250231008,True,0.0,C0018935,True,63947,False,10984,10974,Hematocrit procedure,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T059,0.0,hematocrit,NN
+360271000,True,0.0,C0199176,True,62769,False,11079,11068,Prophylactic treatment,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,Prophylaxis,NN
+169443000,True,0.0,C0199176,True,62779,False,11079,11068,Prophylactic treatment,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,Prophylaxis,NN
+360271000,True,0.0,C0199176,True,64145,False,11136,11125,Prophylactic treatment,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,prophylaxis,NN
+169443000,True,0.0,C0199176,True,64155,False,11136,11125,Prophylactic treatment,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,prophylaxis,NN
+360271000,True,0.0,C0199176,True,62821,False,11168,11157,Prophylactic treatment,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,prophylaxis,NN
+169443000,True,0.0,C0199176,True,62831,False,11168,11157,Prophylactic treatment,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T061,0.0,prophylaxis,NN
+117028002,True,0.0,C0430414,True,64476,False,11315,11302,Stool culture,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T059,0.0,stool culture,NN
+703725008,True,0.0,C2242979,True,63989,False,11315,11308,Microbial culture (procedure),UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T059,0.0,culture,NN
+702658000,True,0.0,C2242979,True,64009,False,11315,11308,Microbial culture (procedure),UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T059,0.0,culture,NN
+61594008,True,0.0,C2242979,True,63999,False,11315,11308,Microbial culture (procedure),UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T059,0.0,culture,NN
+86273004,True,0.0,C0005558,True,64579,False,12173,12167,Biopsy,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T060,0.0,biopsy,NN
+129314006,True,0.0,C0005558,True,64569,False,12173,12167,Biopsy,UmlsConcept,SNOMEDCT_US,0.0,patient,ProcedureMention,T060,0.0,biopsy,NN
+61685007,True,0.0,C0023216,True,66032,False,306,291,Lower Extremity,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T029,0.0,lower extremity,JJ
+66019005,True,0.0,C0015385,True,66100,False,306,297,Limb structure,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,extremity,NN
+45206002,True,0.0,C0028429,True,66743,False,705,701,Nose,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,nose,NN
+260540009,True,0.0,C0028429,True,66733,False,705,701,Nose,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,nose,NN
+45206002,True,0.0,C0028429,True,65161,False,755,751,Nose,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,nose,NN
+260540009,True,0.0,C0028429,True,65151,False,755,751,Nose,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,nose,NN
+40983000,True,0.0,C0446516,True,64981,False,789,785,Upper arm,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T029,0.0,arms,NNS
+56459004,True,0.0,C0016504,True,65388,False,798,794,Foot,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,feet,NNS
+66019005,True,0.0,C0015385,True,65083,False,956,947,Limb structure,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,extremity,NN
+113345001,True,0.0,C0000726,True,66585,False,1049,1040,Abdomen,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T029,0.0,abdominal,JJ
+277112006,True,0.0,C0000726,True,66575,False,1049,1040,Abdomen,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T029,0.0,abdominal,JJ
+87612001,True,0.0,C0005767,True,65546,False,1989,1984,Blood,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T024,0.0,blood,NN
+31389004,True,0.0,C0521367,True,67140,False,2193,2183,Oropharyngeal,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T029,0.0,oropharynx,NN
+392406005,True,0.0,C0034121,True,65953,False,2211,2205,Pupil,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,Pupils,NNS
+45048000,True,0.0,C0027530,True,65874,False,2278,2274,Neck,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T029,0.0,Neck,NN
+261179002,True,0.0,C0817096,True,65987,False,2300,2295,Chest,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T029,0.0,Chest,NN
+51185008,True,0.0,C0817096,True,65997,False,2300,2295,Chest,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T029,0.0,Chest,NN
+113345001,True,0.0,C0000726,True,65206,False,2414,2407,Abdomen,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T029,0.0,Abdomen,NN
+277112006,True,0.0,C0000726,True,65196,False,2414,2407,Abdomen,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T029,0.0,Abdomen,NN
+66019005,True,0.0,C0015385,True,65015,False,2435,2424,Limb structure,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,Extremities,NNS
+344001,True,0.0,C0003086,True,67174,False,2493,2487,Ankle,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T030,0.0,ankles,NNS
+39937001,True,0.0,C1123023,True,65580,False,2521,2517,Skin,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T022,0.0,skin,NN
+87612001,True,0.0,C0005767,True,66541,False,2676,2671,Blood,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T024,0.0,blood,NN
+16378004,True,0.0,C0005821,True,65275,False,2722,2713,Blood Platelets,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T025,0.0,platelets,NNS
+52501007,True,0.0,C0023516,True,66857,False,2809,2792,Leukocytes,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T025,0.0,white blood cells,JJ
+63370004,True,0.0,C0005773,True,66891,False,2809,2798,Blood Cells,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T025,0.0,blood cells,NN
+87612001,True,0.0,C0005767,True,64913,False,2803,2798,Blood,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T024,0.0,blood,NN
+4421005,True,0.0,C0007634,True,66778,False,2809,2804,Cells,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T025,0.0,cells,NNS
+55111001,True,0.0,C0030471,True,65432,False,2867,2862,Nasal sinus,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T030,0.0,sinus,JJ
+2095001,True,0.0,C0030471,True,65422,False,2867,2862,Nasal sinus,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T030,0.0,sinus,JJ
+51185008,True,0.0,C0817096,True,66630,False,2977,2972,Chest,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T029,0.0,Chest,NN
+261179002,True,0.0,C0817096,True,66620,False,2977,2972,Chest,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T029,0.0,Chest,NN
+61685007,True,0.0,C0023216,True,67321,False,3385,3370,Lower Extremity,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T029,0.0,lower extremity,JJ
+66019005,True,0.0,C0015385,True,67423,False,3385,3376,Limb structure,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,extremity,NN
+87612001,True,0.0,C0005767,True,67208,False,3518,3513,Blood,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T024,0.0,blood,NN
+85562004,True,0.0,C0018563,True,66665,False,3588,3583,Hand,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,hands,NNS
+40983000,True,0.0,C0446516,True,67389,False,3597,3593,Upper arm,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T029,0.0,arms,NNS
+14016003,True,0.0,C0005953,True,64800,False,3848,3837,Bone Marrow,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T024,0.0,bone marrow,NN
+279729006,True,0.0,C0005953,True,64810,False,3848,3837,Bone Marrow,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T024,0.0,bone marrow,NN
+272673000,True,0.0,C0262950,True,67242,False,3841,3837,Skeletal bone,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,bone,NN
+279729006,True,0.0,C0005953,True,66404,False,3988,3977,Bone Marrow,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T024,0.0,bone marrow,NN
+14016003,True,0.0,C0005953,True,66394,False,3988,3977,Bone Marrow,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T024,0.0,bone marrow,NN
+272673000,True,0.0,C0262950,True,65840,False,3981,3977,Skeletal bone,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,bone,NN
+264082005,True,0.0,C0024090,True,65624,False,4228,4222,Lumbar Region,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T029,0.0,lumbar,JJ
+52612000,True,0.0,C0024090,True,65614,False,4228,4222,Lumbar Region,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T029,0.0,lumbar,JJ
+51185008,True,0.0,C0817096,True,66280,False,4677,4672,Chest,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T029,0.0,chest,NN
+261179002,True,0.0,C0817096,True,66270,False,4677,4672,Chest,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T029,0.0,chest,NN
+14016003,True,0.0,C0005953,True,64755,False,4760,4749,Bone Marrow,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T024,0.0,bone marrow,NN
+279729006,True,0.0,C0005953,True,64765,False,4760,4749,Bone Marrow,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T024,0.0,bone marrow,NN
+272673000,True,0.0,C0262950,True,66925,False,4753,4749,Skeletal bone,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,bone,NN
+264082005,True,0.0,C0024090,True,65511,False,4818,4812,Lumbar Region,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T029,0.0,lumbar,NN
+52612000,True,0.0,C0024090,True,65501,False,4818,4812,Lumbar Region,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T029,0.0,lumbar,NN
+89187006,True,0.0,C0458827,True,65049,False,4838,4832,Airway structure,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,airway,NN
+39607008,True,0.0,C0024109,True,66236,False,5089,5080,Lung,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,pulmonary,JJ
+80891009,True,0.0,C0018787,True,64845,False,5150,5143,Heart,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,cardiac,JJ
+28480000,True,0.0,C0227073,True,67570,False,5424,5421,Mandibular right first molar,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,30s,NN
+80891009,True,0.0,C0018787,True,64879,False,5650,5645,Heart,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,heart,NN
+87612001,True,0.0,C0005767,True,65354,False,5720,5715,Blood,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T024,0.0,blood,NN
+80891009,True,0.0,C0018787,True,67106,False,5770,5765,Heart,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,heart,NN
+80891009,True,0.0,C0018787,True,65693,False,6052,6047,Heart,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,heart,NN
+64033007,True,0.0,C0022646,True,66134,False,6677,6672,Kidney,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,Renal,JJ
+64033007,True,0.0,C0022646,True,66360,False,6712,6707,Kidney,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,renal,JJ
+113345001,True,0.0,C0000726,True,67286,False,6850,6841,Abdomen,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T029,0.0,abdominal,JJ
+277112006,True,0.0,C0000726,True,67276,False,6850,6841,Abdomen,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T029,0.0,abdominal,JJ
+14793004,True,0.0,C0014467,True,64947,False,6896,6885,eosinophil,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T025,0.0,eosinophils,NNS
+45206002,True,0.0,C0028429,True,66822,False,7482,7477,Nose,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,nasal,JJ
+260540009,True,0.0,C0028429,True,66812,False,7482,7477,Nose,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,nasal,JJ
+113331007,True,0.0,C0014136,True,66066,False,7579,7570,Endocrine system,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T022,0.0,Endocrine,NN
+113331007,True,0.0,C0014136,True,67355,False,7829,7820,Endocrine system,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T022,0.0,Endocrine,NN
+21793004,True,0.0,C0009780,True,67491,False,8085,8068,Connective Tissue,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T024,0.0,connective tissue,JJ
+181769001,True,0.0,C0009780,True,67501,False,8085,8068,Connective Tissue,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T024,0.0,connective tissue,JJ
+85756007,True,0.0,C0040300,True,67457,False,8085,8079,Body tissue,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T024,0.0,tissue,NN
+113331007,True,0.0,C0014136,True,66699,False,8468,8459,Endocrine system,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T022,0.0,Endocrine,NN
+113331007,True,0.0,C0014136,True,65727,False,8538,8529,Endocrine system,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T022,0.0,Endocrine,NN
+69748006,True,0.0,C0040132,True,66507,False,8591,8584,Thyroid Gland,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,thyroid,NN
+263289004,True,0.0,C0505385,True,66993,False,8935,8927,Level of the fourth thoracic vertebra,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T029,0.0,T4 level,NN
+23451007,True,0.0,C0001625,True,65467,False,9263,9256,Adrenal Glands,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,Adrenal,JJ
+21793004,True,0.0,C0009780,True,67061,False,9445,9428,Connective Tissue,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T024,0.0,connective tissue,JJ
+181769001,True,0.0,C0009780,True,67071,False,9445,9428,Connective Tissue,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T024,0.0,connective tissue,JJ
+85756007,True,0.0,C0040300,True,67536,False,9445,9439,Body tissue,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T024,0.0,tissue,NN
+61685007,True,0.0,C0023216,True,66168,False,10127,10112,Lower Extremity,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T029,0.0,lower extremity,JJ
+66019005,True,0.0,C0015385,True,66202,False,10127,10118,Limb structure,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,extremity,NN
+14016003,True,0.0,C0005953,True,65761,False,10754,10743,Bone Marrow,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T024,0.0,Bone marrow,NN
+279729006,True,0.0,C0005953,True,65771,False,10754,10743,Bone Marrow,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T024,0.0,Bone marrow,NN
+272673000,True,0.0,C0262950,True,67027,False,10747,10743,Skeletal bone,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,Bone,NN
+87612001,True,0.0,C0005767,True,66959,False,10951,10946,Blood,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T024,0.0,blood,NN
+16378004,True,0.0,C0005821,True,65659,False,11008,10999,Blood Platelets,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T025,0.0,platelets,NNS
+87612001,True,0.0,C0005767,True,65241,False,11224,11219,Blood,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T024,0.0,blood,NN
+113331007,True,0.0,C0014136,True,65806,False,11744,11735,Endocrine system,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T022,0.0,Endocrine,NN
+74262004,True,0.0,C0226896,True,65117,False,11858,11854,Oral cavity,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T030,0.0,oral,JJ
+113345001,True,0.0,C0000726,True,66325,False,12052,12043,Abdomen,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T029,0.0,abdominal,JJ
+277112006,True,0.0,C0000726,True,66315,False,12052,12043,Abdomen,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T029,0.0,abdominal,JJ
+277112006,True,0.0,C0000726,True,65908,False,12201,12194,Abdomen,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T029,0.0,abdomen,NN
+113345001,True,0.0,C0000726,True,65918,False,12201,12194,Abdomen,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T029,0.0,abdomen,NN
+64262003,True,0.0,C0230360,True,66473,False,12219,12206,Structure of right forearm,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T029,0.0,right forearm,JJ
+14975008,True,0.0,C0016536,True,66439,False,12219,12212,Forearm,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,forearm,NN
+45206002,True,0.0,C0028429,True,65319,False,12783,12778,Nose,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,nasal,JJ
+260540009,True,0.0,C0028429,True,65309,False,12783,12778,Nose,UmlsConcept,SNOMEDCT_US,0.0,patient,AnatomicalSiteMention,T023,0.0,nasal,JJ
