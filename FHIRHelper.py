@@ -12,7 +12,17 @@ import fhirclient.models.quantity as qu
 import fhirclient.models.range as ra
 import fhirclient.models.fhirdate as fd
 from pandas import DataFrame
+from fhirclient import client
 
+
+def createFHIRClient():
+    # Settings of the setup FHIR Server
+    settings = {
+        'app_id': 'hapi-fhir',
+        'api_base': 'http://localhost:8080/fhir/'
+    }
+    smart = client.FHIRClient(settings=settings)
+    return smart
 
 def createPatient(filename):
     patient = p.Patient()
@@ -47,7 +57,7 @@ def createCondition(diseaseSeries: DataFrame, patientReference: ref.FHIRReferenc
     condition.code = codeableConcept
     condition.subject = patientReference
     condition.id = "FID" + str(diseaseSeries['id'].values[0])
-
+    condition.meta
     # FHIR extensions for storing information about: position in clinical document, true-text, confidence-score,
     # negation, confidence, certainty
     extensionList = list()
@@ -67,9 +77,9 @@ def createCondition(diseaseSeries: DataFrame, patientReference: ref.FHIRReferenc
     extensionOffset = ex.Extension()
     extensionOffset.url = "http://text2fhir.org/fhir/extensions/offset-modifier"
     pos_start = qu.Quantity()
-    pos_start.value = diseaseSeries['pos_start'].values[0]
+    pos_start.value = float(diseaseSeries['pos_start'].values[0])
     pos_end = qu.Quantity()
-    pos_end.value = diseaseSeries['pos_end'].values[0]
+    pos_end.value = float(diseaseSeries['pos_end'].values[0])
     extensionOffset.valueRange = ra.Range()
     extensionOffset.valueRange.high = pos_end
     extensionOffset.valueRange.low = pos_start
