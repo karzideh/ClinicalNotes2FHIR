@@ -8,6 +8,8 @@ import fhirclient.models.coding as cdg
 import fhirclient.models.extension as ex
 import fhirclient.models.documentreference as dr
 import fhirclient.models.domainresource as dor
+import fhirclient.models.procedure as pr
+import fhirclient.models.medicationstatement as ms
 import fhirclient.models.quantity as qu
 import fhirclient.models.range as ra
 import fhirclient.models.fhirdate as fd
@@ -43,21 +45,7 @@ def createReference(domainResource: dor.DomainResource):
     reference.resource_type = domainResource.resource_type
     return reference
 
-
-def createCondition(diseaseSeries: DataFrame, patientReference: ref.FHIRReference):
-    condition = c.Condition()
-    codeableConcept = cc.CodeableConcept()
-    codingList = list()
-    coding = cdg.Coding()
-    coding.code = diseaseSeries['code'].values[0].__str__()
-    coding.display = diseaseSeries['preferred_text'].values[0]
-    coding.system = "http://snomed.info/sct"
-    codingList.append(coding)
-    codeableConcept.coding = codingList
-    condition.code = codeableConcept
-    condition.subject = patientReference
-    condition.id = "FID" + str(diseaseSeries['id'].values[0])
-    condition.meta
+def createExtension(series: DataFrame):
     # FHIR extensions for storing information about: position in clinical document, true-text, confidence-score,
     # negation, confidence, certainty
     extensionList = list()
@@ -68,7 +56,7 @@ def createCondition(diseaseSeries: DataFrame, patientReference: ref.FHIRReferenc
     extensionNLPSystem.valueString = "cTakes Version 4.0.0.1"
     extensionList.append(extensionNLPSystem)
     # Extension for nlp-date
-    nlpDate = fd.FHIRDate("2021-11-29T11:34:12+01:00")
+    nlpDate = fd.FHIRDate("2022-01-25T14:54:58+01:00")
     extensionNLPDate = ex.Extension()
     extensionNLPDate.url = "http://text2fhir.org/fhir/extensions/nlp-date-modifier"
     extensionNLPDate.valueDateTime = nlpDate
@@ -77,9 +65,9 @@ def createCondition(diseaseSeries: DataFrame, patientReference: ref.FHIRReferenc
     extensionOffset = ex.Extension()
     extensionOffset.url = "http://text2fhir.org/fhir/extensions/offset-modifier"
     pos_start = qu.Quantity()
-    pos_start.value = float(diseaseSeries['pos_start'].values[0])
+    pos_start.value = float(series['pos_start'].values[0])
     pos_end = qu.Quantity()
-    pos_end.value = float(diseaseSeries['pos_end'].values[0])
+    pos_end.value = float(series['pos_end'].values[0])
     extensionOffset.valueRange = ra.Range()
     extensionOffset.valueRange.high = pos_end
     extensionOffset.valueRange.low = pos_start
@@ -87,31 +75,70 @@ def createCondition(diseaseSeries: DataFrame, patientReference: ref.FHIRReferenc
     # Extension for original-text
     extensionOriginaltext = ex.Extension()
     extensionOriginaltext.url = "http://text2fhir.org/fhir/extensions/originaltext-modifier"
-    extensionOriginaltext.valueString = diseaseSeries['true_text'].values[0]
+    extensionOriginaltext.valueString = series['true_text'].values[0]
     extensionList.append(extensionOriginaltext)
     # Extension for negation
     extensionNegated = ex.Extension()
     extensionNegated.url = "http://text2fhir.org/fhir/extensions/negated-modifier"
-    extensionNegated.valueBoolean = bool(diseaseSeries['negated'].values[0])
+    extensionNegated.valueBoolean = bool(series['negated'].values[0])
     extensionList.append(extensionNegated)
     # Extension for uncertainty
     extensionCertainty = ex.Extension()
     extensionCertainty.url = "http://text2fhir.org/fhir/extensions/uncertainty-modifier"
-    extensionCertainty.valueDecimal = diseaseSeries['uncertainty'].values[0]
+    extensionCertainty.valueDecimal = series['uncertainty'].values[0]
     extensionList.append(extensionCertainty)
     # Extension for conditional
     extensionConditional = ex.Extension()
     extensionConditional.url = "http://text2fhir.org/fhir/extensions/conditional-modifier"
-    extensionConditional.valueBoolean = bool(diseaseSeries['conditional'].values[0])
+    extensionConditional.valueBoolean = bool(series['conditional'].values[0])
     extensionList.append(extensionConditional)
     # Extension for confidence
     extensionConfidence = ex.Extension()
     extensionConfidence.url = "http://text2fhir.org/fhir/extensions/confidence-modifier"
-    extensionConfidence.valueDecimal = diseaseSeries['confidence'].values[0]
+    extensionConfidence.valueDecimal = series['confidence'].values[0]
     extensionList.append(extensionConfidence)
-    condition.extension = extensionList
+    return extensionList
+
+def createCC(series: DataFrame):
+    codeableConcept = cc.CodeableConcept()
+    codingList = list()
+    coding = cdg.Coding()
+    coding.code = series['code'].values[0].__str__()
+    coding.display = str(series['preferred_text'].values[0])
+    coding.system = str(series['scheme'].values[0])
+    codingList.append(coding)
+    codeableConcept.coding = codingList
+    return codeableConcept
+
+def createCondition(diseaseSeries: DataFrame, patientReference: ref.FHIRReference):
+    condition = c.Condition()
+    condition.code = createCC(diseaseSeries)
+    condition.subject = patientReference
+    condition.id = "FID" + str(diseaseSeries['id'].values[0])
+    condition.extension = createExtension(diseaseSeries)
 
     return condition
+
+def createProcedure(procedureSeries: DataFrame, patientReference: ref.FHIRReference):
+    procedure = pr.Procedure()
+    procedure.status = "completed"
+    procedure.code = createCC(procedureSeries)
+    procedure.subject = patientReference
+    procedure.id = "FID" + str(procedureSeries['id'].values[0])
+    procedure.extension = createExtension(procedureSeries)
+
+    return procedure
+
+def createMedicationStatement(medicationSeries: DataFrame, patientReference: ref.FHIRReference):
+    medicationStatement = ms.MedicationStatement()
+    medicationStatement.status = "completed"
+    medicationStatement.taken = "unk"
+    medicationStatement.medicationCodeableConcept = createCC(medicationSeries)
+    medicationStatement.subject = patientReference
+    medicationStatement.id = "FID" + str(medicationSeries['id'].values[0])
+    medicationStatement.extension = createExtension(medicationSeries)
+
+    return medicationStatement
 
 def createDocumentReference(patientReference: ref.FHIRReference, documentId):
     documentReference = dr.DocumentReference()
