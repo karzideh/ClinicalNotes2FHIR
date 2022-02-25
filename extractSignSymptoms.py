@@ -17,10 +17,8 @@ for filename in os.listdir(path):
     # create Reference to patient
     reference = FHIRHelper.createReference(patient)
     df = pd.read_csv(path + filename)
-    documentId = next(iter(df['true_text'][df['textsem'] == 'NumToken']), None)
     # filter out every semantic element except for disease-mentions and group by cui for unique results
     for disease in df[df["textsem"] == "SignSymptomMention"].groupby("id"):
         if (np.any(disease[1]['subject'] == 'patient')):
             condition = FHIRHelper.createCondition(disease[1], reference)
             condition.update(smart.server)
-            condition
