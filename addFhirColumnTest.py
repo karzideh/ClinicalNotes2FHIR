@@ -12,7 +12,7 @@ warnings.filterwarnings('ignore')
 
 # annotation data from i2b2 obesity dataset
 test_data = pd.read_excel(
-    r'dataset\Patient_Records_Test_Mappe_Merged.xlsx')
+    r'path_to_obesity_dataset_test.xlsx')
 
 df_test = pd.DataFrame(test_data)
 df_test['fhir_info'] = ""

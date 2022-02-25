@@ -5,11 +5,6 @@ from sklearn.pipeline import Pipeline
 from sklearn.metrics import classification_report, confusion_matrix
 from sklearn.feature_selection import SelectKBest, chi2
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.linear_model import LogisticRegression
-from sklearn.tree import DecisionTreeClassifier
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.ensemble import AdaBoostClassifier
-from sklearn.neural_network import MLPClassifier
 
 import pickle
 import warnings
@@ -38,7 +33,7 @@ for disease in df_train:
             final_features = vectorizer.fit_transform(disease[1]['fhir_info']).toarray()
             pipeline = Pipeline([('vect', vectorizer),
                                  ('chi', SelectKBest(chi2, k=1800)),
-                                 ('clf', MLPClassifier())])
+                                 ('clf', RandomForestClassifier())])
             model = pipeline.fit(X_train, y_train)
             with open('RandomForest.pickle', 'wb') as f:
                 pickle.dump(model, f)

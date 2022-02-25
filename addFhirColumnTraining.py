@@ -12,7 +12,7 @@ warnings.filterwarnings('ignore')
 
 # annotation data from i2b2 obesity dataset
 training_data = pd.read_excel(
-    r'dataset\Patient_Records_Training_Mappe_Merged.xlsx')
+    r'path_to_obesity_dataset_training.xlsx')
 
 df_train = pd.DataFrame(training_data)
 # add new column to df with fhir information
